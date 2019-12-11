@@ -1,0 +1,825 @@
+=== They fit the same DNA as the DNA found in ancient mummies .
+Truth:  0 Prediction:  1
+th:  1 Prediction:  0
+sad -1.167932232118086
+thing 0.056040379213171176
+white 0.7411460496584876
+students -0.5022823397319839
+schools -0.7330178104381748
+act 0.5922602450629276
+like 0.2874890806135842
+=== Lying Marxists !
+Truth:  1 Prediction:  0
+=== May they just need to turn these savages loose , justice will take care of itself .
+Truth:  1 Prediction:  0
+just 0.37932698735476883
+need -0.3179022444867915
+turn -0.15829793806582146
+savages 1.0090880342237911
+care -0.04485475006228429
+=== Perhaps I should walk back into my H.S. when it starts Monday and get on the P.A. system and say I want to tie all * * * * * * s to the back of my car and drag them across the ground till they die , and then say I 'm joking .
+Truth:  1 Prediction:  0
+walk 0.47062963742124325
+starts -0.3051218261534862
+say -0.2429914137923043
+want 0.6697867742979029
+car -0.054356396447304556
+ground 0.40911440278127387
+die 0.24260250086033502
+say -0.2429914137923043
+=== More likely they 're afraid of having to marry and deal with a snotty GI-Jane-dyke , only to be dragged into court and have the kids and house taken a few years later .
+Truth:  0 Prediction:  1
+having 1.1017998358299808
+deal 0.33167161781247273
+kids 0.12618719801702497
+house 0.8893613046582833
+taken 0.8227068930163695
+years 0.08766475394620585
+later 0.3570030454288698
+=== http://www.abc25.com/Global/story.asp ? S = 5352185 Non whites commit far more crimes against whites each year but its never considered a hate crime and alot of them never spend any time in jail !
+Truth:  1 Prediction:  0
+whites 0.34948050490257004
+far -0.22971183008495605
+crimes 0.06784472408429389
+whites 0.34948050490257004
+year -0.642604331958517
+hate 0.08954758582713626
+crime 0.2203477171748142
+time -0.03290429055762171
+jail 0.2056138620747632
+=== And all those holes below 40,000 feet are filled with oil instead of water .
+Truth:  0 Prediction:  1
+feet 0.7246050599189844
+instead 0.6733905282641031
+=== KC skin boy looking for KC skin girl .
+Truth:  0 Prediction:  1
+skin 0.7922825862591003
+boy -0.10807771955036172
+looking -0.32402316208315773
+skin 0.7922825862591003
+girl 0.3938764866216692
+=== The brutality of his crime and his lack of remorse made Jackson the `` model candidate for death in the gas house , '' one columnist wrote after his death sentence was upheld by the state 's highest court .
+Truth:  0 Prediction:  1
+crime 0.2203477171748142
+death 0.20348472620463776
+house 0.8893613046582833
+death 0.20348472620463776
+state 0.21964969204980894
+=== Dare to speak out in a country with supposed free speech and you 're labelled a bigot !
+Truth:  0 Prediction:  1
+speak 0.13352860056597646
+country 1.0570512833618042
+free 0.21953105723850871
+=== Maybe you should look there or just move here to miss. Or more specifically Tupelo .
+Truth:  0 Prediction:  1
+look 0.48138137403689435
+just 0.37932698735476883
+=== Little kids all decked out in their costumes .
+Truth:  0 Prediction:  1
+kids 0.12618719801702497
+=== Someone Please Tell me what can be done or which people to tell that the Mexicans and or other hispanics here are undercutting price quotes on Good working People .
+Truth:  1 Prediction:  0
+people -0.1965646447773466
+tell 0.04095085298548492
+hispanics 0.12149679570348365
+working -0.10121268120566558
+=== I do n't know about you but I rather fight a 2m swedish male than a 1.70m asian kung fu expert .
+Truth:  0 Prediction:  1
+know 0.7440785703978247
+fight -0.26299245364314444
+male 0.35841521609024274
+asian 1.8894763674527852
+=== YouTube - Brussels on 9/11 : For a free Europe , against Islamization
+Truth:  1 Prediction:  0
+free 0.21953105723850871
+=== Nothing happened except I got an 88 % on the paper .
+Truth:  0 Prediction:  1
+happened 0.7248812806381756
+got 0.5664689208411533
+88 0.0970789438781708
+=== I enjoyed playing the game when I was a kid , but I never enjoyed watching it on TV .
+Truth:  0 Prediction:  1
+playing 0.06816005141088073
+kid 0.3618109701199709
+watching 1.113955247725658
+=== If anyone can tell what happened on this lake ?
+Truth:  0 Prediction:  1
+tell 0.04095085298548492
+happened 0.7248812806381756
+=== They do not want all of us to find out how she was raped and tortured .
+Truth:  0 Prediction:  1
+want 0.6697867742979029
+=== That or it might be that Blacks have smaller brains and an IQ 15-30 points lower than that of White people on average .
+Truth:  1 Prediction:  0
+people -0.1965646447773466
+=== I 've always considered teaching as one of the professions I would like to get into , but not in a neighbourhood like that ... never. kids like that disgust me .
+Truth:  1 Prediction:  0
+like 0.2874890806135842
+like 0.2874890806135842
+kids 0.12618719801702497
+like 0.2874890806135842
+=== It 's just the way they are .
+Truth:  1 Prediction:  0
+just 0.37932698735476883
+way 0.34366161030106246
+=== i do this and the looks i get out of disgust are regular but i happily carry on walking and laugh them off , they think showing me a few pictures of negro kids on a poster without a burger is going to make me want to give money to them ?
+Truth:  0 Prediction:  1
+looks 0.058628314830219054
+walking 0.883824141900846
+laugh 0.6074978746620407
+think 0.8254966073427255
+pictures -0.8333969975907352
+negro 1.5141628647403125
+kids 0.12618719801702497
+going 0.0745730459033685
+make 0.11976021464880121
+want 0.6697867742979029
+money 0.5036146756270491
+=== They almost always choose to identify with blacks more than whites .
+Truth:  0 Prediction:  1
+blacks 1.110165669691923
+whites 0.34948050490257004
+=== Indeed, now they just need to feed themselves , educate themselves , police themselves ad nauseum ......
+Truth:  1 Prediction:  0
+just 0.37932698735476883
+need -0.3179022444867915
+feed 0.4561442820476879
+police -0.5254550113517755
+=== Seems none of these pinheads wanted to get dirty .
+Truth:  0 Prediction:  1
+wanted 0.31154172119098905
+dirty 0.6889254756192147
+=== An even smaller pellet is probably ideal , #4 Buck , perhaps .
+Truth:  0 Prediction:  1
+probably 0.7801568927408372
+=== Hell to have a teacher like this .
+Truth:  1 Prediction:  0
+teacher -0.10138257862486368
+like 0.2874890806135842
+=== It has everything to do with RACE .
+Truth:  0 Prediction:  1
+=== Negroids could n't put together a bake sale properly much less a work force .
+Truth:  1 Prediction:  0
+work 0.1900578140202517
+force -0.3144323429271621
+=== I mean they intentionally chose this house knowing there were white people living there .
+Truth:  0 Prediction:  1
+mean -0.41143828102354707
+house 0.8893613046582833
+white 0.7411460496584876
+people -0.1965646447773466
+living 1.2141639432723834
+=== I lived in texas when i was younger , i know how tough some things can get . `` rasslin animals '' is half the fun
+Truth:  0 Prediction:  1
+texas -0.041070884373915775
+know 0.7440785703978247
+things 0.11659156315530879
+animals 1.4177268821009108
+half 0.7502007529110323
+=== Just watch them at North America and they like all black sport players and their `` slang '' .
+Truth:  1 Prediction:  0
+watch -0.23499611488180494
+like 0.2874890806135842
+black 1.2669007882092875
+=== I want to have 3 children ! 2 girls and 1 boy but the hardest part now is i got to try and find someone to make them with , but so far no luck
+Truth:  0 Prediction:  1
+want 0.6697867742979029
+children 0.22819001157429383
+girls 0.71600232332889
+boy -0.10807771955036172
+got 0.5664689208411533
+try 0.5698044800952652
+make 0.11976021464880121
+far -0.22971183008495605
+luck -0.28796845289845124
+=== So you would refuse even other Nordic whites fleeing the brown chaos in the south ?
+Truth:  1 Prediction:  0
+whites 0.34948050490257004
+brown 1.1555587991864906
+south -0.42458903868889897
+=== If they have some marches and what not about showing pride in their culture you guys should go out and do the same If you could try and contact people you know in different cities and see if their willing to do the same .
+Truth:  0 Prediction:  1
+pride -0.8931191922106887
+culture 0.5378400284248066
+guys -0.23510893688061893
+try 0.5698044800952652
+people -0.1965646447773466
+know 0.7440785703978247
+different 0.5777773838458264
+cities 0.7838834629279047
+=== What does any of that have to do with racial preservation and the resistance to the deliberate and calculated extermination of the White race and the destruction of western civilization which 99 % of the members of this site are concerned with ?
+Truth:  0 Prediction:  1
+does 0.5921378674103832
+racial 0.6072364105280029
+race 1.0450991028858383
+destruction 1.1409047071146055
+western 0.5827776487207974
+civilization 0.4758640027239297
+members 0.5244501847555645
+site -0.0676101565078823
+=== Although many have asked us to put it aside in politics , this thread is for all those who see where HATE FITS IN and why WE NEED THE HATE WAVE TO CONTINUE .
+Truth:  1 Prediction:  0
+asked -0.32972371420633245
+thread -0.8369604464949557
+=== God please bless with wisdom the judge and jury against this group of thugs that they all might be hanged .
+Truth:  1 Prediction:  0
+group -0.6461777378900813
+=== The white churches ' billboards look like lunch break at the UN .
+Truth:  0 Prediction:  1
+white 0.7411460496584876
+look 0.48138137403689435
+like 0.2874890806135842
+=== I seriously hope she dies in a fire one day .
+Truth:  1 Prediction:  0
+hope 0.39505919160895553
+day 0.324735257158428
+=== If you are not registered I think that maybe you will not be able to see this .
+Truth:  0 Prediction:  1
+think 0.8254966073427255
+maybe 0.13203000372798798
+able 0.6295546189708062
+=== Should the guy who sang cop killer also have a trial , because he tragted a minority , cops .
+Truth:  0 Prediction:  1
+guy -0.13699175244090747
+minority 0.9286972698634105
+=== It seems that what they are trying to say is that if you are white you are in the wrong place at the wrong time anywhere in the World .
+Truth:  0 Prediction:  1
+trying 0.785435417800975
+say -0.2429914137923043
+white 0.7411460496584876
+wrong 0.5175531270534744
+place 0.902823543985235
+wrong 0.5175531270534744
+time -0.03290429055762171
+=== There is nothing I would love to see more than the arrest , trial and execution of these murderous and genocidal Zionists !
+Truth:  1 Prediction:  0
+love -0.37413957297552364
+=== To me and the rest of my commrades on this wonderfull White Day !!! I hope you have loads of fun and be safe !!!!
+Truth:  0 Prediction:  1
+rest 0.251407311539277
+hope 0.39505919160895553
+=== Well Marco is a German patriot and musician who , in the sick minds of ZOG , committed the heinious crime of producing music for a local school .
+Truth:  1 Prediction:  0
+sick 0.6073248205220071
+committed -0.4988629254655362
+crime 0.2203477171748142
+music -0.40479797406787005
+local -0.3118553442989162
+school -0.050597132321023024
+=== They probably stole a bunch of stuff .
+Truth:  1 Prediction:  0
+probably 0.7801568927408372
+bunch 0.15866976218114207
+stuff -0.011093244828004329
+=== But as for them adopting kids , the answer is NO .
+Truth:  1 Prediction:  0
+kids 0.12618719801702497
+=== Or just stay the hell away from cheap , crap ar15s when you can get a damn reliable plinker for $ 700 brand new ......
+Truth:  0 Prediction:  1
+just 0.37932698735476883
+stay 0.07957413734033016
+hell 0.37979206273367383
+away 0.8437501609693963
+crap 1.5121947533387023
+new -0.007858341151590995
+=== somebody``hcf''calledputin``ahero''!lololol!This``hero''finallytransformedformersovietjewnion in ``russian''judea!In this misery-torn country-are there-70 officially billionaries , tens f thousands millionaries , and tens of millions of poor and miserable who look for their pittance at the garbage places !
+Truth:  1 Prediction:  0
+thousands -0.2799436750042735
+millions -0.010807421402682493
+poor 0.22652775391165425
+look 0.48138137403689435
+places -0.7519880677954502
+=== They have properly learnt their Zionist lesson ...
+Truth:  0 Prediction:  1
+=== Agreed! rep will have to wait though .. Cheap money , massive bailouts of crony banksters , manipulated employment figures , etc , etc , ..
+Truth:  0 Prediction:  1
+wait 1.0653887817572014
+money 0.5036146756270491
+massive 0.5846480171597342
+=== Its a disgrace my sister has been on the waiting list for 6 years and their giving away houses to these scumbags
+Truth:  1 Prediction:  0
+sister 0.2215962290351451
+list -0.4268292844346806
+years 0.08766475394620585
+giving -0.07721022670706337
+away 0.8437501609693963
+=== Pathological killers , they are .
+Truth:  1 Prediction:  0
+=== I'm more of a grappler than a striker , I would lunge out with a windpipe grab and bring them down to the floor .... my record for KO' ing someone with a choke is currently 3 secs
+Truth:  0 Prediction:  1
+bring 0.37801680228241114
+ing 0.5267675961714496
+=== I have a dominant personality and I look for the same thing in girls .
+Truth:  0 Prediction:  1
+look 0.48138137403689435
+thing 0.056040379213171176
+girls 0.71600232332889
+=== The people running SA into the ground , want to wipe them all out .
+Truth:  0 Prediction:  1
+people -0.1965646447773466
+running 1.3813615677963471
+ground 0.40911440278127387
+want 0.6697867742979029
+=== Piece of * * * * deserves to be shot .
+Truth:  1 Prediction:  0
+=== Good luck with your bugchasing , homo . . .
+Truth:  1 Prediction:  0
+luck -0.28796845289845124
+=== I 'm sure I would have done great in public school if the Mexican gang members stopped kicking my * * * long enough for me to get my homework done ...
+Truth:  1 Prediction:  0
+sure 0.23785172380178898
+great 0.10429479901004668
+public -0.14475446540316242
+school -0.050597132321023024
+members 0.5244501847555645
+long 0.39444324933788016
+=== Interesting article about what to do with these evil persons who keep telling the truth and who don ´ t want to surrender ( in Danish )
+Truth:  1 Prediction:  0
+evil 0.4409138295872711
+telling -0.5422698910757419
+truth 0.20610436689294112
+don 0.8337310874721183
+want 0.6697867742979029
+=== The media wants to bury the story because they care more about homo killers not getting their sick fetish for young boys fufilled .
+Truth:  1 Prediction:  0
+media -0.13039313865717944
+wants 0.28016407749260774
+story 0.04047940091600106
+care -0.04485475006228429
+getting 0.25428449388943714
+sick 0.6073248205220071
+young 0.26688186702502537
+=== I do get my Theirs , theres and they 're , mixed up sometimes but i was educated under Labours rule so i cant be completly to blame .
+Truth:  0 Prediction:  1
+mixed 1.0727250359574445
+blame 0.8430637460672663
+=== We are cooking a duck on the rotisserie , catch the fat drippings and cook little potatoes in that , its delicious , we 're also cooking a small turkey , mashed potatoes , carrots , pumpkin pie and butternut squash cut in half and baked with butter and brown sugar .
+Truth:  0 Prediction:  1
+little 1.142906402972286
+small 0.3304979305303707
+cut -0.8491277158019986
+half 0.7502007529110323
+brown 1.1555587991864906
+=== Hi Im tv free do n't have kids yet reading mending , sewing , menting board games radio study extra curricula actives Good on you for planning a FREE jewv existence
+Truth:  1 Prediction:  0
+tv 0.7017733087315737
+free 0.21953105723850871
+kids 0.12618719801702497
+reading -0.8577955576214745
+radio 0.02897250030082919
+=== some times Whites are forced to live around a lot of blacks .
+Truth:  1 Prediction:  0
+times 0.07557408629434417
+live -0.13369611264698475
+lot -0.30995308060362586
+blacks 1.110165669691923
+=== This guy seems to get it but otherwise : Sorry jigs , you 're on your own
+Truth:  1 Prediction:  0
+guy -0.13699175244090747
+=== you just say blacks hate the cold. the only reason they are good athletes is because when you have to run lions and tigers you get fast or eaten .
+Truth:  1 Prediction:  0
+just 0.37932698735476883
+say -0.2429914137923043
+blacks 1.110165669691923
+hate 0.08954758582713626
+reason -0.026385446596538915
+good 0.15624048276679406
+run 0.14616568945264316
+fast -0.7932564963343944
+=== These ' niggas ' .
+Truth:  1 Prediction:  0
+=== I considered it being `` ethnically cleansed '' from my childhood home
+Truth:  1 Prediction:  0
+home -0.7237751531155138
+=== Of course the county is lovely , in facts its gods country in our book BUT the cities are rat infested with enrichers , just how the country is isnt it .
+Truth:  0 Prediction:  1
+county -0.3519295342681852
+country 1.0570512833618042
+book -0.6615764060098344
+cities 0.7838834629279047
+just 0.37932698735476883
+country 1.0570512833618042
+=== I heard about it is it about that white guy that killed that race traitor slut and her nig nog boyfriend ?
+Truth:  1 Prediction:  0
+heard -0.1869421232399962
+white 0.7411460496584876
+guy -0.13699175244090747
+killed 0.17754842399314555
+race 1.0450991028858383
+=== Back to where ya came from !
+Truth:  1 Prediction:  0
+ya -0.09809260832017377
+came 0.2427959484496005
+=== This family that wants to complain about gays should come to San Francisco and raise some hell at these gay pride events .... a much better target ..... and these people in San Francisco openly blasphemied Christ with their parody of ' The Last Supper `` as their poster for their last event .
+Truth:  1 Prediction:  0
+family 0.13102227420369697
+wants 0.28016407749260774
+come 0.772525452357749
+hell 0.37979206273367383
+gay 0.42058851684648085
+pride -0.8931191922106887
+better 0.7130130366433253
+people -0.1965646447773466
+=== I was sure that they were lying about the numbers and it 's must be the same in every country IMO .
+Truth:  0 Prediction:  1
+sure 0.23785172380178898
+numbers 0.8903809783474039
+country 1.0570512833618042
+=== We need to deport all nonwhites immediately , that or stop letting more in and sterilize the ones here , that will fix the problem .
+Truth:  1 Prediction:  0
+need -0.3179022444867915
+stop 0.25955698800520194
+ones -0.29911796836509547
+problem -0.29590660273711916
+=== These people who want foreign aid increased are the same people who walk past irish people living rough on the streets and they do n't care about the old people who the government ignores .
+Truth:  0 Prediction:  1
+people -0.1965646447773466
+want 0.6697867742979029
+people -0.1965646447773466
+walk 0.47062963742124325
+past -0.4097782667371555
+irish 0.31538480466960855
+people -0.1965646447773466
+living 1.2141639432723834
+streets 1.4727048684449007
+care -0.04485475006228429
+old -0.09704083050227458
+people -0.1965646447773466
+government 0.9345633719898094
+=== But millions can believe a lie for centuries upon centuries , especially when you make investigating the story a crime .
+Truth:  0 Prediction:  1
+millions -0.010807421402682493
+believe 0.8054894750452278
+especially 0.43634120224564815
+make 0.11976021464880121
+story 0.04047940091600106
+crime 0.2203477171748142
+=== I am going to try and update my site soon , I did however add a chat room .
+Truth:  0 Prediction:  1
+going 0.0745730459033685
+try 0.5698044800952652
+site -0.0676101565078823
+soon 0.8533335031224493
+did -0.10639426837820809
+=== Hey, do you think we are going to get into a fight between European countries about who all are going to get those Guantanamo prisoners ?
+Truth:  0 Prediction:  1
+think 0.8254966073427255
+going 0.0745730459033685
+fight -0.26299245364314444
+countries 0.9922142795584866
+going 0.0745730459033685
+=== Has anyone claiming this method been able to make even one block like that with wedges water and copper tools ?
+Truth:  0 Prediction:  1
+able 0.6295546189708062
+make 0.11976021464880121
+like 0.2874890806135842
+=== Its got to be a quote from someone .
+Truth:  0 Prediction:  1
+got 0.5664689208411533
+=== Dude stink bomb this event , when it gets dark , chuck a bunch of them on the floor , different spots , when the chimps start jiving and grooving , they will step on them .
+Truth:  1 Prediction:  0
+gets -0.37504297599208597
+dark -0.24603871972601865
+bunch 0.15866976218114207
+different 0.5777773838458264
+start -0.2487993774356545
+=== Even if they do stop pouring in most of those that are here have no intention of going back to poland .
+Truth:  1 Prediction:  0
+stop 0.25955698800520194
+going 0.0745730459033685
+=== What did those poor monkeys ever do to you ?
+Truth:  0 Prediction:  1
+did -0.10639426837820809
+poor 0.22652775391165425
+monkeys 1.5935673065058311
+=== As a nation , we are in desperate need for an immigration time out and a zero tolerance policy for those here illegally .
+Truth:  1 Prediction:  0
+nation 0.11129054127530034
+need -0.3179022444867915
+immigration 0.8918248369538637
+time -0.03290429055762171
+=== All you need is to cut off it 's head and the rest of the problems will crumble away with ease
+Truth:  1 Prediction:  0
+need -0.3179022444867915
+cut -0.8491277158019986
+head 0.9372365171888777
+rest 0.251407311539277
+away 0.8437501609693963
+=== Please let me know if there is anything I can do .
+Truth:  0 Prediction:  1
+let 0.8091042978732722
+know 0.7440785703978247
+=== Was n't Bill Clinton the first `` black '' president ?
+Truth:  0 Prediction:  1
+black 1.2669007882092875
+=== You Anglo-Americans are all welcome to England if you can perform the ' small ' task of riding London of it 's ethnics !
+Truth:  1 Prediction:  0
+welcome -0.6076358998850172
+small 0.3304979305303707
+=== Maybe God was punishing them for their interracial marriage .
+Truth:  1 Prediction:  0
+=== By their words and deeds , they declare themselves to be staunchly in favor of the genocide of our people .
+Truth:  1 Prediction:  0
+words 0.3213045273562544
+genocide 0.20052177460602402
+people -0.1965646447773466
+=== now that ye mention it he does look a bit like this traveller i knew. i wonder if we gave him a wash would he really be a white guy with red hair ?
+Truth:  0 Prediction:  1
+does 0.5921378674103832
+look 0.48138137403689435
+bit -0.4142997362839533
+like 0.2874890806135842
+wonder 1.1865531387448458
+really 0.3162020048386192
+white 0.7411460496584876
+guy -0.13699175244090747
+red 0.4588332514388878
+hair -0.7570946534285323
+=== The problems start when you start to accommonadate these people in the first place ! , give an inch and they 'll take a mile ......
+Truth:  1 Prediction:  0
+start -0.2487993774356545
+start -0.2487993774356545
+people -0.1965646447773466
+place 0.902823543985235
+=== To me it means that Jewish supremacists will never again allow Whites to have a say .
+Truth:  1 Prediction:  0
+means 0.10048117283994268
+allow -0.16451144917003804
+say -0.2429914137923043
+=== Keep Russia free from dark skinned beings !!!! thank you and please forgive me for mistakes .
+Truth:  1 Prediction:  0
+free 0.21953105723850871
+dark -0.24603871972601865
+thank 0.20291718015122276
+=== if they have the same help here in Quebec , i would like too say congratulation pitbull-A.G. and i hope you have lot of new white resident in your city
+Truth:  0 Prediction:  1
+help 0.546570592013648
+like 0.2874890806135842
+say -0.2429914137923043
+hope 0.39505919160895553
+lot -0.30995308060362586
+new -0.007858341151590995
+white 0.7411460496584876
+city 0.8661520422816863
+=== You can stop this by getting a dead pig and bury it underground where the mosque will be built .
+Truth:  1 Prediction:  0
+stop 0.25955698800520194
+getting 0.25428449388943714
+dead 0.7405814337347044
+built -0.459391527977117
+=== It 's going viral on Youtube - warning the lesbian ' groid gets aggressive on the whites for whatever reason : YouTube - Video Caught On Tape Lesbian Or Young Man Going Wild On BART Train In Oakland !
+Truth:  1 Prediction:  0
+going 0.0745730459033685
+groid 1.806587761129787
+gets -0.37504297599208597
+whites 0.34948050490257004
+reason -0.026385446596538915
+=== If you want to hear what a black `` intellectual '' ( lol ) sounds like , check out the woman in this video trying to debate Dr. William Shockley .
+Truth:  1 Prediction:  0
+want 0.6697867742979029
+hear 0.2562252491184888
+black 1.2669007882092875
+lol -0.217707032496121
+sounds -0.6955587728899519
+like 0.2874890806135842
+check -1.2602755222005855
+woman 0.6261702538306615
+video -0.1763763254729921
+trying 0.785435417800975
+=== Check out this youtube channel i found , i agree with most of what he says Diversity DESTROYS Social Cohesion in the West - YouTube
+Truth:  1 Prediction:  0
+youtube -1.0184197300673232
+says -0.10192324941924191
+=== They do what they always do take something of someone else 's and make it their own .
+Truth:  1 Prediction:  0
+make 0.11976021464880121
+=== Those boys will use the plastic whisks as swords , and the girls ' lego creations will consist of dollhouses for the few white dolls , with the dark ones in the adjoining farm pen .
+Truth:  1 Prediction:  0
+use 0.3242078446683411
+girls 0.71600232332889
+white 0.7411460496584876
+dark -0.24603871972601865
+ones -0.29911796836509547
+=== While they are in prison the kikes should get the same food the regular prison population gets ...
+Truth:  1 Prediction:  0
+food -0.3294517088966303
+gets -0.37504297599208597
+=== If I was Ukrainian , I 'd sign a pact with devil himself to get rid of jewdo-islam Putinistan AKA Russian Federation ....
+Truth:  1 Prediction:  0
+sign -0.45767410836659345
+=== After knocking back a few guinness we got pretty hungry and he said he knew a great place to go get some food , i was disgusted when he brought me to a chinese restaurant .
+Truth:  0 Prediction:  1
+got 0.5664689208411533
+pretty -0.18334233277388362
+said -0.15084933264875044
+great 0.10429479901004668
+place 0.902823543985235
+food -0.3294517088966303
+brought 0.4753453512627692
+chinese 0.6054649526871537
+=== I'm not sure what sort of information you 're seeking but I recently found a number of Blacks who have been convicted for knowingly transmitting HIV/AIDS : Kouassi Adaye http://news.bbc.co.uk/2/hi/uk_news/e...de/3389735.stmJohnsonAzigahttp://en.wikipedia.org/wiki/Johnson_AzigaStanislasKanengele-Yondohttp://en.wikipedia.org/wiki/Stanislas_Kanengele-YondjoTrevisSmithhttp://en.wikipedia.org/wiki/Trevis_SmithAdrienSylverNduwayohttp://www.thenownews.com/issues06/0...031206nn2.htmlWillieAtkinshttp://www.dallasnews.com/sharedcont....32a4d9fd.htmlNushawnWilliamshttp://en.wikipedia.org/wiki/Nushawn_WilliamsSimonMolhttp://en.wikipedia.org/wiki/Simon_MolEversonBandahttp://www.dailymail.co.uk/pages/liv...=5&expand=truePeterMwaihttp://www.crime.co.nz/c-files.asp?ID=36WilliamKaranjahttp://www.amren.com/mtnews/archives...n_rapist_j.phpLinkoyMuhurihttp://news.bbc.co.uk/2/hi/uk_news/e...on/3256352.stmMohammedDicahttp://news.bbc.co.uk/2/hi/uk_news/e...on/3190626.stmFestonKonzanihttp://news.bbc.co.uk/2/hi/uk_news/e...es/4267433.stmGabrielVengesaihttp://www.dailymail.co.uk/pages/liv ... n _ page _ id = 1770
+Truth:  1 Prediction:  0
+sure 0.23785172380178898
+sort 0.29626857595290157
+information -1.3053527398822475
+recently -0.5640398061555545
+page 0.3286783265978545
+id 0.632354866400029
+=== I'm in Australia and I want it to be done and over with , my mum is constantly going on about the Olympics like it 's a big deal .
+Truth:  0 Prediction:  1
+want 0.6697867742979029
+going 0.0745730459033685
+like 0.2874890806135842
+big 1.2924884024281627
+deal 0.33167161781247273
+=== Those poor kikes they cant even escape antisemetism in the country were it is punishable by death ( I am talking about palestinians )
+Truth:  1 Prediction:  0
+poor 0.22652775391165425
+country 1.0570512833618042
+death 0.20348472620463776
+talking -0.6427855762800304
+=== Providing From Finland does n't kick my ass and throw me overboard ... coming or going .
+Truth:  0 Prediction:  1
+does 0.5921378674103832
+kick 1.3066698923630977
+throw -0.3886401873699264
+coming 0.4314037091731014
+going 0.0745730459033685
+=== There have been times when I have walked past some nigerian or skinny and they will cough with hand at their side without care for those around them .
+Truth:  1 Prediction:  0
+times 0.07557408629434417
+past -0.4097782667371555
+hand 0.9239200245521758
+care -0.04485475006228429
+=== Too many libtards , I would n't waste my time there .
+Truth:  1 Prediction:  0
+time -0.03290429055762171
+=== Notice the video title , whenever there is a fight between a white and non white , the white is always the racist
+Truth:  0 Prediction:  1
+video -0.1763763254729921
+fight -0.26299245364314444
+white 0.7411460496584876
+non 1.2579970144097332
+white 0.7411460496584876
+white 0.7411460496584876
+racist 0.7862843747762991
+=== God forbid anyone should promote straight racially loyal hetrosexuality Diablo
+Truth:  1 Prediction:  0
+straight -0.053382471434951784
+=== There are only eight people living within a mile of my house , and none closer than a quarter-mile .
+Truth:  0 Prediction:  1
+people -0.1965646447773466
+living 1.2141639432723834
+house 0.8893613046582833
+=== Of course , they are more virile than us , so that would n't happen would it ?!!!
+Truth:  1 Prediction:  0
+=== Our country is being over run and people let it happen just because the political issue here seens to take over the racial one .
+Truth:  0 Prediction:  1
+country 1.0570512833618042
+run 0.14616568945264316
+people -0.1965646447773466
+let 0.8091042978732722
+just 0.37932698735476883
+racial 0.6072364105280029
+=== Nearly everything if not all acts that the liberals carry out damage this nation and our people .
+Truth:  1 Prediction:  0
+liberals 1.3157233022745332
+nation 0.11129054127530034
+people -0.1965646447773466
+=== If that stopped the worthless thing would starve !
+Truth:  1 Prediction:  0
+thing 0.056040379213171176
+=== I do n't think so .
+Truth:  0 Prediction:  1
+think 0.8254966073427255
+=== When I watch things like this I pray God will have vengeance on these sub humans even if they have asked for forgiveness .
+Truth:  1 Prediction:  0
+watch -0.23499611488180494
+things 0.11659156315530879
+like 0.2874890806135842
+sub 0.4900414771699676
+humans -0.4218302672369567
+asked -0.32972371420633245
+=== BTW .. update coming soon with info on my drive back to Florida .
+Truth:  0 Prediction:  1
+coming 0.4314037091731014
+soon 0.8533335031224493
+info -0.18825276184229853
+=== the money he is giving away to refugees and the third world is money Canada does not even have !
+Truth:  0 Prediction:  1
+money 0.5036146756270491
+giving -0.07721022670706337
+away 0.8437501609693963
+world 0.7751356942807822
+money 0.5036146756270491
+does 0.5921378674103832
+=== I got stuck next to a really huge black woman who stunk to high heaven , and spent the entire ride with my face as close to the window as I could get .
+Truth:  0 Prediction:  1
+got 0.5664689208411533
+really 0.3162020048386192
+huge 0.4088500779326398
+black 1.2669007882092875
+woman 0.6261702538306615
+high 0.49572000017825274
+spent 0.13227894731813788
+entire 0.8597882466113843
+face 0.42101356057390255
+close -0.10429594013018992
+=== 18 times in the last 20 years It 's time for the next generation to fight back to regain our country ..... the baby boomers will lose it for us if we do nothing .
+Truth:  1 Prediction:  0
+times 0.07557408629434417
+20 -0.32520185371325483
+years 0.08766475394620585
+time -0.03290429055762171
+fight -0.26299245364314444
+country 1.0570512833618042
+baby 0.6369538412969956
+=== I have a dream - one of these days Black occupation of America will be history !
+Truth:  1 Prediction:  0
+days 0.13566046700700246
+history -0.15921140111669407
+=== what about it. that 's exactly what I said and I meant every word he thought I might and that was enough and with you two talking behind my back like some jew what do you expect me to say have a nice life .
+Truth:  1 Prediction:  0
+said -0.15084933264875044
+word 0.0464015269337813
+thought -0.16346607167343694
+talking -0.6427855762800304
+like 0.2874890806135842
+jew 1.721362861335693
+expect 1.151992344736822
+say -0.2429914137923043
+nice -0.9146870249933052
+life 0.02432079931064982
+=== Its only a matter of time until we become a hell hole like Sweden or the UK .
+Truth:  1 Prediction:  0
+matter -0.17072145368906236
+time -0.03290429055762171
+hell 0.37979206273367383
+like 0.2874890806135842
+=== That 's to assume the gay ones are n't abusive .
+Truth:  1 Prediction:  0
+gay 0.42058851684648085
+ones -0.29911796836509547
+=== That type of negroes call your kind of brothas , Uncle Tom .
+Truth:  0 Prediction:  1
+negroes 2.1248156965310603
+kind 0.05819245836917105
+=== The Official Website of the British People 's Party A few unpleasant truths re. the zionist ass lickers of the DUP
+Truth:  1 Prediction:  0
+zionist 1.7452304333633955
+=== I do n't think anyone is insinuating that we are equal to non whites , or that we would ignore white nations .
+Truth:  0 Prediction:  1
+think 0.8254966073427255
+non 1.2579970144097332
+whites 0.34948050490257004
+white 0.7411460496584876
+nations 0.8284461538616238
+=== Oh yeah , no mugshot picture on the page of course , you have to watch the video report to find out it was yet another case of TNB .
+Truth:  1 Prediction:  0
+yeah 0.965412964346712
+picture -0.13615649109542227
+page 0.3286783265978545
+watch -0.23499611488180494
+video -0.1763763254729921
+report -0.7269519719751592
+case -0.2978171179555581
+=== More than that I cringe every time I go to hang out with my friends and they blast this filth in their cars and homes .
+Truth:  0 Prediction:  1
+time -0.03290429055762171
+hang 0.028530247315882794
+friends 0.11674214371172205
+filth 2.0547926215197756
+homes 0.013922657710577631
+=== And meanwhile , Gerry Gerry Dingleberry is trying to kill off future generations of Irish .
+Truth:  0 Prediction:  1
+trying 0.785435417800975
+kill 1.2206054808079458
+future 0.3960521101800966
+generations 0.511372399080315
+=== That has been proven many times over by the Jew media in the U.S !
+Truth:  0 Prediction:  1
+times 0.07557408629434417
+media -0.13039313865717944
+=== I take the assumption that your Nation is so crap is not worth remembering .
+Truth:  0 Prediction:  1
+crap 1.5121947533387023
+=== They 're probably as high-maintenance as one of those crappy old East German Trabants , though .
+Truth:  1 Prediction:  0
+probably 0.7801568927408372
+old -0.09704083050227458
+=== And my job lets me monitor all of Jewish supremacist control of talk radio .
+Truth:  0 Prediction:  1
+job 0.7920209142371616
+lets 0.4270045360549692
+control 0.936099676905974
+talk -0.5119416536153986
+radio 0.02897250030082919
+=== It just goes to show that the IRA are just criminals and not freedom fighters as they claim .
+Truth:  1 Prediction:  0
+just 0.37932698735476883
+goes 0.25807863344265547
+just 0.37932698735476883
+=== Their lies are so thick and many that people do n't see the truth when it is in front of them !
+Truth:  1 Prediction:  0
+people -0.1965646447773466
+truth 0.20610436689294112

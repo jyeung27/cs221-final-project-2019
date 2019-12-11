@@ -1,0 +1,6832 @@
+!!! RT @mayasolovely: As a woman you shouldn't complain about cleaning up your house. & as a man you should always take the trash out...
+Truth:  2 Prediction:  1
+woman -0.26315040880403073
+complain -0.25930499419959807
+man 0.0680505020400257
+trash 0.08355239262464437
+
+
+!!!!!!!!! RT @C_G_Anderson: @viva_based she look like a tranny
+Truth:  1 Prediction:  2
+look 0.1520649443469483
+like 0.5028389664031451
+tranny 0.3137140891190188
+
+
+" momma said no pussy cats inside my doghouse "
+Truth:  2 Prediction:  1
+momma -0.3582453606153408
+said 0.11424486521700694
+pussy -1.0455825772296983
+inside -0.4029030454165293
+
+
+"@ArizonasFinest6: Why the eggplant emoji doe?"y he say she looked like scream lmao
+Truth:  2 Prediction:  1
+say 0.4745780643749701
+looked -0.7489114313451736
+like 0.5028389664031451
+lmao 0.13467259093907688
+
+
+"@CB_Baby24: @white_thunduh alsarabsss" hes a beaner smh you can tell hes a mexican
+Truth:  0 Prediction:  1
+hes 0.2970388865077046
+beaner 0.7054618515051964
+smh 0.3498020958929411
+tell -0.04759826196915343
+hes 0.2970388865077046
+mexican 0.22909623232541973
+
+
+"@DevilGrimz: @VigxRArts you're fucking gay, blacklisted hoe" Holding out for #TehGodClan anyway 
+Truth:  0 Prediction:  1
+fucking 0.4849807942233571
+
+
+"@EdgarPixar: Overdosing on heavy drugs doesn't sound bad tonight." I do that pussy shit every day.
+Truth:  2 Prediction:  1
+drugs -0.5603819147096069
+sound -0.1759646185985136
+bad -0.26068372324490696
+pussy -1.0455825772296983
+shit 0.0852342045401417
+
+
+"@JReebo: Who wants to get there nose in these bad bois then #scally #chav #sockfetish #stinking  hot sox and legs
+Truth:  2 Prediction:  1
+wants -0.12029979008532256
+nose -0.5709988278005853
+bad -0.26068372324490696
+hot -0.44464692922867505
+sox -0.025148812189628972
+legs 0.7342794071152837
+
+
+"@Mesha_nojas: @_Vontethekidd 👏👏👏👏🙌" I got hicks lol
+Truth:  2 Prediction:  1
+got -0.062089170577541715
+lol -0.20493756194254492
+
+
+"@NotoriousBM95: @_WhitePonyJr_ Ariza is a snake and a coward" but at least he isn't a cripple like your hero Roach lmaoo
+Truth:  0 Prediction:  2
+cripple 0.07449099189509237
+like 0.5028389664031451
+lmaoo 0.4484386720480923
+
+
+"@PRAYINGFORHEAD: “@macklemroe: Stop bringing weird niggers into my mentions! @PRAYINGFORHEAD” 
+Truth:  1 Prediction:  0
+weird 0.050421053670998445
+niggers 2.0040266891774654
+
+
+"@QUAN1T0: 61% of welfare/government aid is claimed by white people. So y'all black slander is trash now."
+Truth:  2 Prediction:  0
+white 1.678927894939801
+black 0.4551960182374316
+trash 0.08355239262464437
+
+
+"@RTNBA: Drakes new shoes that will be released by Nike/Jordan.... Yes, there's glitter on the shoes  ....dudes a fag
+Truth:  0 Prediction:  1
+new 0.06546043972691364
+shoes 0.26368482757740236
+shoes 0.26368482757740236
+fag 1.1079297183124235
+
+
+"@RamBoutIt: “@Master11_: @20ToLife_ @RamBoutIt hoes Austin” teach us Austin."I teach u how to get curved? That's all I know
+Truth:  2 Prediction:  1
+hoes -1.0219309469053361
+know 0.15803041462717224
+
+
+"@TEE_JONEZ: @16stanleys @KingCuh tuku ho idk blah blah blah" 😂😂😂
+Truth:  2 Prediction:  1
+ho -0.2040001509791424
+idk 0.31269188958271343
+blah -0.15697716127207575
+blah -0.15697716127207575
+
+
+"@altosteel115:  woof woof. Sexy thug boy scally.
+Truth:  1 Prediction:  2
+woof 0.0
+thug 0.45421602676671263
+boy -0.051263028783320494
+
+
+"@ashlingwilde: @ItsNotAdam is bored supposed to be cute, you faggot?" Sometimes
+Truth:  0 Prediction:  1
+bored 0.3520334678037693
+supposed -0.11241795298281307
+
+
+"@gurl_Im_Angie: @ItsKiaraaaa @WestYourMajesty I'm not even shy stfu" kikis mom: Hi angelique 
+Angelique: Smiles *Dips cracker in soup*
+Truth:  1 Prediction:  2
+shy -0.10059782327709753
+cracker 0.7606261833077926
+
+
+"@jayswaggkillah: Jackies a retard #blondeproblems" At least I can make a grilled cheese!
+Truth:  0 Prediction:  1
+retard 0.3656454677694235
+make 0.06236581429749861
+
+
+"@jgabsss: Stacey Dash won 💦  baddest bitch evaaaa
+Truth:  0 Prediction:  1
+won 0.4802999691369707
+baddest 0.9673256741903965
+bitch -1.1737034324910127
+
+
+"@sniffsockslad: Need these sox  fuck yeah. I love a kinky scally lad w/ rank sox and sneaks
+Truth:  1 Prediction:  2
+sox -0.025148812189628972
+fuck 0.5365394654006062
+love -0.14168359906120426
+scally -0.24452210338284844
+lad 2.0816681711721685e-17
+sox -0.025148812189628972
+
+
+"Bae" sounds like such a ghetto word. Use something else
+Truth:  2 Prediction:  1
+sounds 0.01244759432742127
+like 0.5028389664031451
+ghetto -0.40453742194995845
+
+
+"Eff it. Let's go after the cripple." 
+Truth:  1 Prediction:  2
+
+
+"Hey go look at that video of the man that found the kidnapped girls in Ohio........what a nigger" - #shitmybosssays
+Truth:  0 Prediction:  1
+look 0.1520649443469483
+video 0.48494768826776163
+man 0.0680505020400257
+girls -0.5498379824240104
+
+
+"How about we draft all those gung-ho folks and send them to Afghanistan or other war zones so they can show their... 
+Truth:  2 Prediction:  1
+folks -0.6651525042598782
+send 0.11733353111398029
+war -0.6399261284052122
+
+
+"It's the dykes" -hunter dyke with a dyke 
+Truth:  1 Prediction:  0
+dyke 1.342297186544402
+dyke 1.342297186544402
+
+
+"My grandma used to call me a porch monkey all the time... Come to think of it she did refer to a broken bottle as a nigger knife" 😳
+Truth:  0 Prediction:  1
+grandma 0.4110477886143977
+used 0.030044340464651213
+porch 0.5001229301327903
+monkey -0.05943712381322144
+think 0.08376745435776453
+did -0.10448360482728625
+refer 0.31584437791962566
+nigger 1.3643913760519675
+
+
+"Nah its You @NoMeek_JustMilz: 😂😂😂😂 yo i thought some1 photoshopped my face on that faggot smmfh...i hate yall" 
+Truth:  0 Prediction:  1
+yo -0.08311104502955982
+thought 0.23676091218084944
+face 0.39299756108114897
+faggot 1.4359667757355978
+hate 0.7153588754270559
+
+
+"Our people". Now is the time for the Aryan race 2 stand up and say "no more". Before the mongerls turn the world into a ghetto slum. 1488
+Truth:  0 Prediction:  2
+time -0.13808008852493742
+race 1.192475857930699
+stand 0.36723405489890043
+say 0.4745780643749701
+turn 0.17293704120191072
+world 0.05366669505017782
+ghetto -0.40453742194995845
+
+
+"That girl is plain looking borderline ugly & chunky". Hey at least she's got a nice smile & a great personality.
+Truth:  1 Prediction:  2
+girl -0.34488645426317976
+looking 0.2661122852060117
+ugly 0.6627605333803737
+got -0.062089170577541715
+nice -0.2794984576544577
+smile 0.2737363846270657
+great -0.6480682784381966
+
+
+"These sour apple bitter bitches, I'm not fuckin wit em"
+Truth:  0 Prediction:  1
+apple 0.7385921645113341
+bitter 0.4238106211307919
+fuckin 0.28967358437403984
+wit 0.2382431535017882
+
+
+"This is for my ghetto motherfuckers" -Missy Elliott
+Truth:  1 Prediction:  2
+ghetto -0.40453742194995845
+
+
+"You ain't gunna do shit spear chucker"
+Truth:  0 Prediction:  1
+gunna 0.3224648018453464
+shit 0.0852342045401417
+spear 1.079918144625538
+
+
+"You can take someone out of the ghetto, but you can't take the ghetto out of them."
+Truth:  1 Prediction:  2
+ghetto -0.40453742194995845
+
+
+"You ol trout mouth ass bitch" 
+DEEEEAAAADD
+Truth:  0 Prediction:  1
+ol 0.5713708212788462
+mouth 0.5110265389710993
+ass 0.367339261928304
+
+
+"Your a queer". 😒😒😒😒
+Truth:  1 Prediction:  0
+
+
+"ayo i even kill handicapped and crippled bitches/look at my scalp real close and you'll see triple sixes"
+Truth:  0 Prediction:  1
+kill 1.3787723394011433
+real -0.2678422051546069
+close 0.2538357973047883
+
+
+"fuck you you pussy ass hater go suck a dick and die quick" - Someone, to me, in Youtube comments. I think we'd be good friends.
+Truth:  0 Prediction:  1
+pussy -1.0455825772296983
+ass 0.367339261928304
+suck 0.6660418269574417
+dick 0.05322664690210934
+die 0.9323831810816186
+think 0.08376745435776453
+good -0.19427181231321922
+
+
+"on my way to fuck your bitch in the name of The Lord" - Mr. Race
+Truth:  0 Prediction:  1
+way 0.15302015757305285
+fuck 0.5365394654006062
+bitch -1.1737034324910127
+
+
+"poor whitey" 
+Truth:  0 Prediction:  2
+
+
+"when rappers say twat it makes me feel weird" 😂😂😂😭
+Truth:  2 Prediction:  1
+say 0.4745780643749701
+twat -0.7655032553864717
+makes -0.16721744283966194
+feel -0.48473420273104934
+
+
+#DTLA is trash because of non-Europeans are allowed to live there.
+Truth:  0 Prediction:  2
+trash 0.08355239262464437
+live 0.37500594802180137
+
+
+#JesusChrist was STRAIGHT> That's why the #faggots killed him. #PERIOD #SonOfGod>
+Truth:  0 Prediction:  1
+killed 0.36072959382514797
+
+
+#NL Q.U.E.E.N. And reminded: I still don't get why Janelle Monae is so perplexed that people think she's queer...
+Truth:  1 Prediction:  0
+people 0.3463913335172432
+think 0.08376745435776453
+
+
+#RadioFreeNorthwest 218
+Covington reads responses & mocks FBI, Andy on Real Politics, Liv on her awakening, Gretchen
+
+Truth:  2 Prediction:  1
+
+
+#ReasonsWeCantBeTogether if u was talkin to my nig or smashed da homies
+Truth:  0 Prediction:  1
+talkin 0.6313209355896743
+nig 0.8830038991400142
+da 0.2883457964458534
+
+
+#RebelScience ......is using an ACTUAL WOMAN as a genetic engineering lab for "all natural clones"..... or something...... #faggot #rome
+Truth:  0 Prediction:  1
+using -0.220927961964537
+natural 0.8597102368220588
+
+
+#ThingsIWillTeachMyChild how to play deez niggas n bitches dat be snakes
+Truth:  0 Prediction:  1
+play 0.37981919622667076
+deez 0.2081504575890011
+niggas 0.7681229879206604
+bitches -1.1570657683490801
+dat 0.009315016227896282
+
+
+#YouWillNotBeTakenSeriouslyIf you're proud to be white trash #KedollarSignHa
+Truth:  1 Prediction:  0
+proud -0.27805682382908475
+white 1.678927894939801
+trash 0.08355239262464437
+
+
+#faggots KILLED #jesuschrist> HELLO!!!!!!!!!!!!!!!!!!!!!!!!! But whatever. Go ahead. #gaymarriage yourself into #Pharaoh's pockets>
+Truth:  1 Prediction:  0
+
+
+#milesthompson #goauche #wetback #ca 
+Truth:  0 Prediction:  2
+
+
+#porn,#android,#iphone,#ipad,#sex,#xxx, | #Desi | paki 
+Truth:  2 Prediction:  1
+
+
+#porn,#android,#iphone,#ipad,#sex,#xxx, | #Desi | paki 
+Truth:  2 Prediction:  1
+
+
+#porn,#android,#iphone,#ipad,#sex,#xxx, | #Teen | Cutie lesbian teens toy slits 
+Truth:  2 Prediction:  1
+
+
+👈never been a coon grew up with bokoo coons tho but never was 1 I did some coon shit tho
+Truth:  1 Prediction:  0
+coon 1.3085206753071035
+coons 0.9022860105222222
+tho -0.4657422481380524
+did -0.10448360482728625
+coon 1.3085206753071035
+shit 0.0852342045401417
+tho -0.4657422481380524
+
+
+👉 RT @_WSBG: I'd rather be called nigger than a uncle tom or a mark
+Truth:  1 Prediction:  0
+called -0.41619733568124584
+nigger 1.3643913760519675
+uncle 0.8915272639010152
+tom 0.3992965055400408
+
+
+😂 RT @TheOnlyReed: LMFAO RT @Tone314: If you watching porn & beating off & yo homie text u & it show his name in the banner you're a faggot
+Truth:  0 Prediction:  1
+watching -0.1276973847861242
+porn 0.09574125264408719
+yo -0.08311104502955982
+homie 0.5823530583369838
+text -0.6163170648064609
+faggot 1.4359667757355978
+
+
+😂😂 fucc nicca yu pose to be pullin up
+Truth:  0 Prediction:  1
+fucc 0.3258984760477154
+nicca 0.12086333897546726
+yu 0.2225920594007355
+
+
+😂😂😂 i just said that RT @BoyThats_ARYAH: My TL gotta chill with this pretty face challenge foolishness, y'all hoes agg
+Truth:  0 Prediction:  1
+just -0.17333551668510047
+said 0.11424486521700694
+gotta 0.16284162119339676
+chill 0.39463880932473006
+pretty -0.013380526882557503
+face 0.39299756108114897
+hoes -1.0219309469053361
+
+
+😂😂😂😂 these folks so bad. I'm just here to talk trash.
+Truth:  1 Prediction:  2
+folks -0.6651525042598782
+just -0.17333551668510047
+talk -0.33071209452315925
+
+
+😂😂😂RT @kwagiheath: Them 1st 48 Charlotte goon niccas gon Fkkk around and burn Bank Of America stadium down🔥
+Truth:  0 Prediction:  1
+1st 0.5447236663335228
+niccas 0.19269086227900956
+gon -0.8411674321015591
+stadium 0.6991132724664691
+
+
+😈🆗 we snap chatted for one night lol. But you're cute. Snapchat me back nig
+Truth:  2 Prediction:  1
+snap 0.0379315063658615
+night -0.4910036702713535
+nig 0.8830038991400142
+
+
+😒RT @SedSince81: niggers RT @VonshayeB Before any moves are made... my black ass must take a nap!
+Truth:  1 Prediction:  0
+niggers 2.0040266891774654
+black 0.4551960182374316
+ass 0.367339261928304
+
+
+😭😭😭 RT @tryna_be_famous: Brees been trash since this.... 
+Truth:  1 Prediction:  2
+trash 0.08355239262464437
+
+
+¿Como se llama el niño más delgado de Japón? Yocomo Poko
+
+¤°¤° gino °¤°¤
+Truth:  1 Prediction:  2
+
+
+“@4REALROY: @Vomitdatruth no more chunky nugs for you 🌳” he doesn't even hook it up like that.
+Truth:  1 Prediction:  2
+chunky -0.4095517149539064
+like 0.5028389664031451
+
+
+“@AlexaDelsanter: This is awkward u fag @corleyhuff @vitchhhh  wonder who's awesome tank that is 😊
+Truth:  0 Prediction:  1
+fag 1.1079297183124235
+wonder 0.08856391933299873
+awesome 0.4648717311873358
+
+
+“@BixxhMakeMeRich: If u ask me, every bitch gay”or "bi"
+Truth:  0 Prediction:  1
+ask -0.011146776462943644
+bitch -1.1737034324910127
+
+
+“@Cheddar85: Got the carburetor foyer my #chevy c10 being rebuilt by my #redneck friend ... everybodys got one!!” I need 1 they can build
+Truth:  1 Prediction:  2
+friend 0.05856639018441842
+got -0.062089170577541715
+need -0.1618409294459405
+
+
+“@CommonBlackGirI: here’s to all the kids who have never found their name on anything in a souvenir store” thanks mom for the ghetto name.
+Truth:  2 Prediction:  1
+kids -0.024143784720953965
+thanks -0.2751996571160658
+mom -0.14149253497818678
+ghetto -0.40453742194995845
+
+
+“@Crowdifornia: We agree... do you?  FUCK YES, I DO! Send those illegal, wetbacks home!!!
+Truth:  0 Prediction:  1
+
+
+“@DickFurari: HELL YA THEY SHOULD MAKE MORE MALT LIQUOR ADS LIKE THIS. 
+
+- Dis be heaven fo a colored man
+Truth:  0 Prediction:  1
+fo 0.23128242494862572
+colored -0.28389117290973764
+man 0.0680505020400257
+
+
+“@ForeverrrJadaaa: huge nips scary me” they scary me too
+Truth:  1 Prediction:  2
+huge -0.3755336448652206
+nips -0.3622024567251711
+scary 0.533121763355212
+scary 0.533121763355212
+
+
+“@FreddieGibbs: Tea bag a bitch.” Pahahaha
+Truth:  0 Prediction:  1
+bag 0.3117822968547034
+
+
+“@FunnyPicsDepot: "fucking white people"  bitch wut?
+Truth:  0 Prediction:  1
+white 1.678927894939801
+bitch -1.1737034324910127
+
+
+“@Future_Reich: All y'all some fucking coons” 
+Truth:  1 Prediction:  0
+fucking 0.4849807942233571
+
+
+“@GlitteredInPink: @West305 you like 5'8, you needs to”....1. You a hoe. 2. i'm 5'10(breaking11) 3.suck my dick.
+Truth:  0 Prediction:  1
+like 0.5028389664031451
+needs 0.0046360961388382735
+
+
+“@Highfromthe90s: A lot of women who claim they are yellow are actually red, color blind mother fuckas” I'm yellow tho 💁🌝
+Truth:  1 Prediction:  2
+lot 0.2225224097593066
+women 0.026152790273142622
+claim 0.19678591909556364
+yellow -0.8998551873832621
+actually 0.07757264858080656
+color 0.46629850397471356
+blind 0.07391617227139025
+mother 0.10873341884185604
+yellow -0.8998551873832621
+tho -0.4657422481380524
+
+
+“@Kik2Clean: Brah Wiz cheated 😂😭  she had hair like a dyke..... Uh.. Duh?
+Truth:  2 Prediction:  1
+hair 0.005426781611738628
+like 0.5028389664031451
+
+
+“@MadisonMum_: I was told never fold & never sell my sole"They Should Have Told Yu Stay In School ! *Soul” autocorrect hoed me
+Truth:  1 Prediction:  2
+told -0.17776491361768829
+sell 0.29304192742393387
+
+
+“@MikeyPDaCav5: I love the song "John Doe" #dope” @MirandaWigley @edenbaby101 faggots
+Truth:  0 Prediction:  1
+love -0.14168359906120426
+song -0.25977888181039444
+faggots 2.1188647537750778
+
+
+“@MutateRoos: You can be Seminoles but not redskins? K”Seminole tribe got an agreement with them..fsu pay them to use the name
+Truth:  1 Prediction:  2
+got -0.062089170577541715
+pay 0.31499710517571083
+use -0.9086014914921104
+
+
+“@My_Fish_Died: You dammn Weed potheads are annoying af on Twitter” weed and pot are the same thing faggot
+Truth:  0 Prediction:  1
+annoying -0.7498294046454238
+af 0.7098701651762828
+weed 0.102887608967213
+pot 0.5167222079947612
+thing 0.47519773629962614
+faggot 1.4359667757355978
+
+
+“@NiggaImTatted: Cowboys win games during the regular season but when they get to the playoffs that trash af lol” hating ass nigga
+Truth:  0 Prediction:  1
+win -0.5814992673251532
+games -0.015541270667469959
+regular 0.20820600974370512
+season 0.05861316301074459
+playoffs 0.7688201865616245
+trash 0.08355239262464437
+af 0.7098701651762828
+hating 0.832429390823952
+ass 0.367339261928304
+nigga 0.8104597352843714
+
+
+“@Papi_sez: Why is everyone who thinks you're an unfunny pandering jizzbag automatically a troll? @thatUPSdude”
+
+And he hate colored folk
+Truth:  1 Prediction:  2
+thinks 0.2100837975554969
+hate 0.7153588754270559
+colored -0.28389117290973764
+folk 0.3833474709883842
+
+
+“@RaleighBeougher: dumb beaner” 
+Truth:  2 Prediction:  0
+dumb 0.36302595490075945
+
+
+“@SlimThickChicks: 😍😍😍😍  in the yellow is rock hard
+Truth:  1 Prediction:  2
+yellow -0.8998551873832621
+rock -0.3690595019915478
+hard -0.22738748141553972
+
+
+“@TP_Three: @WestSideFlee @KekePalmer damn they got wifey 😱😱😖😖😫😩😩😩”
+
+Fall back nigga 🔫.. I don't share my hoes
+Truth:  0 Prediction:  1
+damn 0.3598442990861965
+got -0.062089170577541715
+wifey 0.4791977686883541
+nigga 0.8104597352843714
+share 0.28322358814570303
+hoes -1.0219309469053361
+
+
+“@TrapFuhrer: When her nudes trash you gotta draw clothes back on her and send em back 
+Truth:  1 Prediction:  2
+nudes 0.004677315084034493
+trash 0.08355239262464437
+gotta 0.16284162119339676
+clothes 0.7130332011480313
+send 0.11733353111398029
+em -0.40439481287648266
+
+
+“@UCCrushes: Trenton Gossman is the sexiest hillbilly I have ever seen” 💁😂😂😂
+Truth:  1 Prediction:  2
+hillbilly -0.15983124983370153
+
+
+“@_BitchBUH: Shoot that nigga and his shorty bitch 🔫😂” ‼️‼️
+Truth:  0 Prediction:  1
+nigga 0.8104597352843714
+bitch -1.1737034324910127
+
+
+“@_honeysays: My phone charging backwards 😕” retarded
+Truth:  0 Prediction:  1
+phone -0.05131591794354279
+retarded 0.5092099056639494
+
+
+“@alicia_688: You aint special niglet RT @Vice504fly: When I'm chilling wit Greg ppl walk up to me to ask me to take pics”hatin
+Truth:  0 Prediction:  1
+aint 0.27894371596801587
+special 1.081607381866447
+wit 0.2382431535017882
+ppl -0.0835030982854813
+walk 0.17049974539812163
+ask -0.011146776462943644
+
+
+“@badnradbrad: @whattheflocka @MorbidMermaid sydneys my favorite” she's a nigger but I love her
+Truth:  1 Prediction:  0
+nigger 1.3643913760519675
+love -0.14168359906120426
+
+
+“@boojieque: 😂💩RT @WebbMadeThis: Lemme find out you niggaz letting bitches shit on yo faces” 😭 niggas is weirdos
+Truth:  0 Prediction:  1
+niggaz 0.3669008199714822
+letting 0.45436363255764844
+bitches -1.1570657683490801
+shit 0.0852342045401417
+yo -0.08311104502955982
+niggas 0.7681229879206604
+
+
+“@dnumberbefore2: “@Vice504fly: @dnumberbefore2 u a regular nig, u played out b” lol ima b Ig famous”these days that counts for somethin
+Truth:  0 Prediction:  1
+regular 0.20820600974370512
+played -0.22145170903158662
+lol -0.20493756194254492
+ima -0.15935130799657102
+days 0.08923556173726864
+somethin -0.1726651430276483
+
+
+“@gallinofmilk: I'm a faggot" I agree
+Truth:  1 Prediction:  0
+agree 0.9133100268475396
+
+
+“@kaylendenise_: I hate that bitch & the fact that oomf likes her.. just no 😐” retweeettt 1000x.
+Truth:  0 Prediction:  1
+hate 0.7153588754270559
+bitch -1.1737034324910127
+fact 0.732426210417733
+oomf 0.31123164033711104
+likes 0.34340279591446565
+just -0.17333551668510047
+
+
+“@kitty_hello14: @Im_Yung_Jay 🍪🍪🍪🍪🍪 bitch ass nigga fuck you ! 👏👏👏👏👏👍👍👍👍👍” <= these hoes ain't got no manners #RealTalk
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+ass 0.367339261928304
+nigga 0.8104597352843714
+fuck 0.5365394654006062
+hoes -1.0219309469053361
+got -0.062089170577541715
+
+
+“@rihanna: We raided Nicki's wig closet for the summer! Bad gals just wanna have fun!  this bitch has the a nerve smh
+Truth:  2 Prediction:  1
+just -0.17333551668510047
+wanna -0.5164808928837503
+bitch -1.1737034324910127
+smh 0.3498020958929411
+
+
+“@rocafella123 "@waymoflydenu: If fleek in yo vocabulary you a faggot"”
+Truth:  0 Prediction:  1
+yo -0.08311104502955982
+
+
+“@sorryimalex: I'm only back cause I don't wanna see the boys lose to trash #vote5sos”
+Truth:  2 Prediction:  1
+cause -0.13022506233495068
+wanna -0.5164808928837503
+boys -0.8084082734002501
+lose 0.09455156293902256
+trash 0.08355239262464437
+
+
+“@souljaboy: @kmichelle my ananconda don't want none unless u clean those shitty buns Hun 💩😩”
+Truth:  1 Prediction:  2
+want 0.2000722192012721
+unless -0.5951802369699499
+clean -0.1907947826465838
+shitty 0.022765235518959204
+
+
+“@thejanicexxx: o u unfollowed me so i can't dm u, so i'll say it here, you're a rude cunt lmao” you can dm me
+Truth:  0 Prediction:  1
+dm 0.3598560446086349
+say 0.4745780643749701
+cunt 0.3085744200599597
+dm 0.3598560446086349
+
+
+“@ttevy_8: i want affection 24/7 but i also want to be left alone 24/7... do you see the issue here?”fag
+Truth:  0 Prediction:  1
+want 0.2000722192012721
+want 0.2000722192012721
+left 0.1923741452735141
+
+
+“@waymoflydenu Them Jew Lawyers and Doctors say "Nigga" ran? Lol”nope they say shit like queer though
+Truth:  1 Prediction:  0
+say 0.4745780643749701
+say 0.4745780643749701
+shit 0.0852342045401417
+like 0.5028389664031451
+queer 1.0963486596260332
+
+
+' Don't sleep on ma niggah CHood 👌 @CharleyHood 💯💯
+Truth:  0 Prediction:  1
+sleep -0.10807602028395003
+ma 0.04871715873525816
+niggah 0.023811742342369324
+
+
+' Happppppy Birthdayyyy 󾌧󾌬󾬏 lol . Niggahs is really 21 in this bitch 󾮞󾍃 . 
+Truth:  0 Prediction:  1
+lol -0.20493756194254492
+really 0.08056930549788316
+21 1.179192264429554
+bitch -1.1737034324910127
+
+
+' If this ugly ass niggah can be with her , I can too . Tf she with Chuu Baka for anyways this niggah look like a... 
+Truth:  0 Prediction:  1
+ugly 0.6627605333803737
+ass 0.367339261928304
+niggah 0.023811742342369324
+anyways 0.4179280856424331
+niggah 0.023811742342369324
+look 0.1520649443469483
+like 0.5028389664031451
+
+
+' This niggah pharrell or whatever this niggah name is don't deserve shit for that white ass gay song .
+Truth:  0 Prediction:  1
+niggah 0.023811742342369324
+niggah 0.023811742342369324
+deserve 0.11617924406484452
+shit 0.0852342045401417
+white 1.678927894939801
+ass 0.367339261928304
+gay 0.9598925035903995
+song -0.25977888181039444
+
+
+*makes a wise argument about the accelerated Warholian notion of celebrity in the era of Vine* *passing teens mock my old wrinkled balls*
+Truth:  1 Prediction:  2
+mock -0.6612613337001628
+old 0.10755420442989257
+
+
+,@KiroGx me gusta "typing like a retard to make the other person look dumber by pretending to agree with them" bazinga
+Truth:  0 Prediction:  1
+like 0.5028389664031451
+retard 0.3656454677694235
+make 0.06236581429749861
+person -0.019237821957049643
+look 0.1520649443469483
+agree 0.9133100268475396
+
+
+,@musclezauber why not animal crackers. i want animal crackers shaped like master chiefs and trolls and gun's and shit, thatd rule.
+Truth:  1 Prediction:  2
+animal -0.03287977152873991
+want 0.2000722192012721
+animal -0.03287977152873991
+crackers 0.27515758788859607
+shaped 0.3599008320105645
+like 0.5028389664031451
+
+
+.@TheRevAl Hey you race baiting FBI informant bitch, where's your punk ass speaking for justice on this? 
+Truth:  1 Prediction:  0
+race 1.192475857930699
+punk 0.513503435828658
+ass 0.367339261928304
+speaking 0.4400126921952622
+
+
+1-800-slap-a-hoe
+Truth:  2 Prediction:  1
+
+
+1300 for the eggs sunny side nicca .. @EastsideDame
+Truth:  2 Prediction:  1
+nicca 0.12086333897546726
+
+
+2 hoes 1 dyke
+Truth:  0 Prediction:  1
+hoes -1.0219309469053361
+dyke 1.342297186544402
+
+
+4 old hoes, a ponk, and a dyke outchea having "girl talk"
+Truth:  0 Prediction:  1
+old 0.10755420442989257
+dyke 1.342297186544402
+having 0.47329665551325883
+
+
+@05proFESSOR I bet he's a Starbucks queer
+Truth:  0 Prediction:  1
+bet 0.3701903880422783
+queer 1.0963486596260332
+
+
+@2014samanthaKay good enough fag
+Truth:  0 Prediction:  1
+good -0.19427181231321922
+fag 1.1079297183124235
+
+
+@AlexAllTimeLow @JackAllTimeLow Please stay safe you guys! I love you so much, I hoe to one day meet you guys! happy Halloween :)
+Truth:  2 Prediction:  1
+stay -0.6058387382547257
+safe -0.02815017182966013
+love -0.14168359906120426
+hoe -0.5267791739780862
+day 0.16464629217203658
+meet 0.09965173255344786
+happy 0.423090285845484
+
+
+@AmazinMixBeauti don't feel like reading right now I wanna give a sexy coolie girl some lyrics via text message ;-)
+Truth:  2 Prediction:  1
+feel -0.48473420273104934
+like 0.5028389664031451
+right 0.28582506699350607
+wanna -0.5164808928837503
+sexy -0.5749595001574677
+girl -0.34488645426317976
+text -0.6163170648064609
+message -0.46293233358868807
+
+
+@AnUglyNigga this is retarded
+Truth:  0 Prediction:  1
+retarded 0.5092099056639494
+
+
+@AngryWillHelms Genius, the politically correct term would be "intellectually disabled." It's highly offensive to use the word retarded.
+Truth:  2 Prediction:  1
+term 0.2544431724911998
+offensive -0.23529464474703307
+use -0.9086014914921104
+word 0.23980921617833714
+
+
+@AnthonyCumia 
+You be totally correct Anthony. Can’t be livin round dem colored folk. Day be bringin down da hood and dem propery value
+Truth:  0 Prediction:  2
+totally 0.39530026668726853
+round 0.24195925523413708
+dem 0.27058508161522743
+colored -0.28389117290973764
+da 0.2883457964458534
+hood 0.7214281467837604
+dem 0.27058508161522743
+
+
+@Ants_SNEweather Well you got to see pom-pom Pete
+Truth:  2 Prediction:  1
+got -0.062089170577541715
+
+
+@ArcticFox2016 everybody mocks Obama .Hes an embarrassment to the USA.
+Truth:  2 Prediction:  1
+everybody -0.37950056125419035
+
+
+@AtBlackface @MrMooncricket @UncleUnco @BobbyBotsods @FuckTheMallcops @RacistNegro69 ape? Fuck u broke ass racist
+Truth:  0 Prediction:  1
+broke -0.2512382355484593
+ass 0.367339261928304
+racist 1.5512060307133109
+
+
+@AustinG1135 answer my snapchat faggot 
+#butthurt
+Truth:  0 Prediction:  1
+answer -0.13994054811219048
+snapchat 0.45201561919219263
+faggot 1.4359667757355978
+
+
+@AustinG1135 your the one keeping me up faggot!
+Truth:  1 Prediction:  0
+
+
+@AyeFuckWoody @coryburgess87 do i literally eat asshole for a living? is that what i actually do faggot? You seem a little confused..
+Truth:  0 Prediction:  1
+literally 0.18988020138836637
+eat -0.032562866628662375
+asshole 0.5986148031144423
+actually 0.07757264858080656
+little 0.040951604285533925
+
+
+@BOSSBITCHDAPHNE yours a dyke😂
+Truth:  1 Prediction:  0
+
+
+@BarbaraF321 @ThirtyBirdy wow and there are white people and there are crackers. Guess which one u are.
+Truth:  1 Prediction:  2
+wow 0.23536035486089782
+white 1.678927894939801
+people 0.3463913335172432
+
+
+@Barbod6FCB @_cblaze @ODDBEAST cracker jack shut the fuck up
+Truth:  0 Prediction:  1
+cracker 0.7606261833077926
+jack 0.08299798297992389
+shut 0.32658996359456693
+fuck 0.5365394654006062
+
+
+@Bidenshairplugs He looks like a fag and his time line is boring Zzzzzz
+Truth:  0 Prediction:  1
+looks 0.14423042700636032
+like 0.5028389664031451
+fag 1.1079297183124235
+time -0.13808008852493742
+line -0.18871272096218447
+boring 0.44187721519058015
+
+
+@Bitterchick 
+Dare be only one bag dat folks be suckin on what I comes to yo partayyyy! All da ofay be wantin to ride in my eldorato
+Truth:  2 Prediction:  1
+bag 0.3117822968547034
+dat 0.009315016227896282
+folks -0.6651525042598782
+comes -0.5683676331821083
+yo -0.08311104502955982
+da 0.2883457964458534
+ride -0.07026566081740807
+
+
+@BloggerBoxing yea....what did it do for Maidana? It made him a greedy faggot loser. Atleast Broner is black...
+Truth:  0 Prediction:  1
+did -0.10448360482728625
+faggot 1.4359667757355978
+
+
+@BossAce555 @Sounds_good_bro @BloggerBoxing yea u stupid faggot. I'm not leaving till like 5-6pm. Want a ride?
+Truth:  0 Prediction:  1
+yea -0.28893393536723977
+stupid 0.7283111283686275
+leaving 0.33082653637499465
+till 0.014375387259090216
+like 0.5028389664031451
+
+
+@BrendaGisselCA I'm not Mexican enough for the real beaners yet too Mexican for the Americanized beaners :(
+Truth:  1 Prediction:  0
+real -0.2678422051546069
+beaners 0.9774729153667117
+beaners 0.9774729153667117
+
+
+@Brenddan_ wow!!! Are you comin back up here? 😂😂😂😂 they some bitch niggas
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+niggas 0.7681229879206604
+
+
+@Briana_Rashae I'd like to rape the bitch that posted that.
+Truth:  0 Prediction:  1
+like 0.5028389664031451
+rape 0.8480155569511861
+bitch -1.1737034324910127
+posted 0.5960424302030316
+
+
+@Buckm00se @letsargueboxing sand nigger ran over some Kidd
+Truth:  0 Prediction:  1
+nigger 1.3643913760519675
+ran 0.32315590495066704
+
+
+@Buckm00se I don't like the sand nigger but it's entertaining like 6 knockdowns
+Truth:  0 Prediction:  1
+like 0.5028389664031451
+nigger 1.3643913760519675
+like 0.5028389664031451
+
+
+@Buckm00se Joe Cortez is the ultimate faggot that fight proved it
+Truth:  0 Prediction:  1
+faggot 1.4359667757355978
+fight 0.10626217776724291
+
+
+@Buckm00se true sand niggers & bum Brits claim he's a ATG hall of fame legend smh
+Truth:  0 Prediction:  1
+true -0.10691445018336951
+niggers 2.0040266891774654
+bum 0.22713840276951003
+claim 0.19678591909556364
+smh 0.3498020958929411
+
+
+@CallNeeshCakey we in this bitch finna get crunk eyebrows on double PAPP 💥💥
+Truth:  2 Prediction:  1
+bitch -1.1737034324910127
+finna 0.157179324391707
+double -0.49517464938728945
+
+
+@Campos_uli is a fag #hesgay
+Truth:  0 Prediction:  1
+fag 1.1079297183124235
+
+
+@CarelessOne92 you styl gotta get dem tweets off my nig
+Truth:  0 Prediction:  1
+gotta 0.16284162119339676
+dem 0.27058508161522743
+tweets -0.2491900158270701
+nig 0.8830038991400142
+
+
+@ChaleCarlo5 fuck outta here and go put some more trash ass ink on your faggot ass self pussy
+Truth:  0 Prediction:  1
+fuck 0.5365394654006062
+outta 0.6351170670774035
+trash 0.08355239262464437
+ass 0.367339261928304
+faggot 1.4359667757355978
+ass 0.367339261928304
+self 0.30659401461874497
+pussy -1.0455825772296983
+
+
+@ChaleCarlo5 stay talking defending your fuckboy ass boyfriend or what? go suck him off while youre at it faggot
+Truth:  0 Prediction:  1
+stay -0.6058387382547257
+talking 0.3160738037907903
+ass 0.367339261928304
+boyfriend -0.11704689503145314
+suck 0.6660418269574417
+youre 0.6507000582640587
+faggot 1.4359667757355978
+
+
+@ChaseBasford chase you God damn faggot 😂😭😂😭
+Truth:  0 Prediction:  1
+chase 0.4064546917782436
+damn 0.3598442990861965
+faggot 1.4359667757355978
+
+
+@CheCha__ be gone my nigguh
+Truth:  0 Prediction:  1
+gone -0.038217639190945646
+nigguh 0.2840541304008151
+
+
+@Cheesus85 @greyyygoose faaaaggggottttt, speaking with the blonde hair and confused, you're a hypocrite, cuz you're a faggot
+Truth:  0 Prediction:  1
+speaking 0.4400126921952622
+hair 0.005426781611738628
+cuz 0.013227192605520313
+faggot 1.4359667757355978
+
+
+@Chicago_Rose1 Dunleavy, my cracker ass honkie
+Truth:  1 Prediction:  0
+cracker 0.7606261833077926
+ass 0.367339261928304
+
+
+@Chokmah_Makob ok! you billy goat hair hillbilly
+Truth:  1 Prediction:  2
+hair 0.005426781611738628
+hillbilly -0.15983124983370153
+
+
+@Christian_ESEM you don't know what your talking about retarded faggot
+Truth:  0 Prediction:  1
+know 0.15803041462717224
+talking 0.3160738037907903
+retarded 0.5092099056639494
+faggot 1.4359667757355978
+
+
+@CinWicked Did you just call My Sweet Baboo a ho?!?!
+Truth:  1 Prediction:  2
+just -0.17333551668510047
+
+
+@Cotton_Candy9 god wrote em now think again coon
+Truth:  1 Prediction:  2
+god 0.19967931488596927
+em -0.40439481287648266
+think 0.08376745435776453
+coon 1.3085206753071035
+
+
+@CrackerJhak Because you're a fag
+Truth:  0 Prediction:  1
+fag 1.1079297183124235
+
+
+@CsSalazar15 wetback 😁😂😂😂😂😭
+Truth:  0 Prediction:  2
+
+
+@Cyberobama @eReIevant 
+plot twist he is a faggot
+Truth:  1 Prediction:  0
+faggot 1.4359667757355978
+
+
+@DangItsTiff you look like fucking shrek bitch
+Truth:  0 Prediction:  1
+look 0.1520649443469483
+like 0.5028389664031451
+fucking 0.4849807942233571
+bitch -1.1737034324910127
+
+
+@DanielSizelove @Conrad_MLG get on cunt
+Truth:  0 Prediction:  1
+cunt 0.3085744200599597
+
+
+@DarienDaywalt bitch shut the fuck up goddam your a slut bitch whore nigga
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+shut 0.32658996359456693
+fuck 0.5365394654006062
+slut 0.14476666362913507
+bitch -1.1737034324910127
+whore 1.0834835529077205
+nigga 0.8104597352843714
+
+
+@Darienbaby_xoxo jk I'd fuck a dog before I fuck you fish pussy
+Truth:  0 Prediction:  1
+jk 0.19551599730221136
+fuck 0.5365394654006062
+dog -0.30387144756325346
+fuck 0.5365394654006062
+pussy -1.0455825772296983
+
+
+@DavetheBrave1 that hoe on some other shit bro rt and 100x better rn that a nigga high
+Truth:  0 Prediction:  1
+hoe -0.5267791739780862
+shit 0.0852342045401417
+bro 0.17453268978371975
+rt -0.3457953781362226
+better 0.39852422366171386
+rn 0.43243070428636227
+nigga 0.8104597352843714
+high 0.07334049396871223
+
+
+@DecodnLyfe @LupeFiasco @Larellj another black man? What does that have to do with anything? Once a monkey, always a monkey, Chicago idiot
+Truth:  1 Prediction:  2
+black 0.4551960182374316
+does -0.845952622502678
+idiot 0.4532591362270216
+
+
+@DevilFzyq @DevilElyie @TehDevilClan shut up fag
+Truth:  0 Prediction:  1
+shut 0.32658996359456693
+fag 1.1079297183124235
+
+
+@DivaMonRoe2uHoE @CheefPolo hoe hoe hoe, merry Christmas
+Truth:  2 Prediction:  1
+hoe -0.5267791739780862
+hoe -0.5267791739780862
+
+
+@DjChubbESwagg this like a retarded wu-tang clan
+Truth:  0 Prediction:  1
+like 0.5028389664031451
+retarded 0.5092099056639494
+
+
+@DonnerKay @surlyrevenant An enraged 6'4" 290 lb Mike Brown lethal weapon on legs.His hatred 4 the police & whitey added fuel 2 his arsenal
+Truth:  0 Prediction:  2
+police 0.6794805245717945
+whitey 0.9942933460952434
+
+
+@DrMalvo @_Rotten__ 
+Who is da "we" whitey?
+Truth:  1 Prediction:  0
+da 0.2883457964458534
+
+
+@Drfreezeburnn That's not bias. It's an objective fact that Philly fans are cunts.
+Truth:  0 Prediction:  1
+fact 0.732426210417733
+fans 0.11468340640170537
+
+
+@EricWithAHotDad faggot
+Truth:  1 Prediction:  0
+faggot 1.4359667757355978
+
+
+@EvanDMyers @nineinchessoft you have a redneck attitude. The same people that think Benghazzi is real think Fox fake nws is real. Your one
+Truth:  0 Prediction:  1
+redneck 0.3065818874763852
+people 0.3463913335172432
+think 0.08376745435776453
+real -0.2678422051546069
+think 0.08376745435776453
+fake 0.14271678084620812
+
+
+@FIFAcom Pepe because his defending was outstanding! His tackles were accurate nd he did hos job perfectly in both legs!
+Truth:  2 Prediction:  1
+nd 0.3170898838767588
+did -0.10448360482728625
+hos -0.5882199744062306
+job 0.5187711850446955
+
+
+@Fardousaa becuz no man should celebrate his bday at a drreams #faggot
+Truth:  0 Prediction:  1
+man 0.0680505020400257
+bday 0.16372830285325168
+
+
+@FeyeNody Ja zo denkt ieder wel 't zijne over zaken he. & je mag mij noemen hoe je wilt, ben namelijk erg voor vrijheid van meningsuiting.
+Truth:  1 Prediction:  2
+je 0.0
+hoe -0.5267791739780862
+je 0.0
+van -0.6787358093400532
+
+
+@Fit4LifeMike @chanelisabeth hoe don't make me put up screenshots of your texts to me hoe
+Truth:  0 Prediction:  1
+hoe -0.5267791739780862
+make 0.06236581429749861
+texts 0.991797840334269
+hoe -0.5267791739780862
+
+
+@Flow935 jus wanted to let yáll know hope the hurricane kills your soca sunday trash #LORDWILLIN
+Truth:  0 Prediction:  1
+jus 0.06756446417442102
+wanted 0.04476084995459039
+let -0.2998738239022173
+know 0.15803041462717224
+hope 0.4030925449027971
+sunday 0.7473814786965987
+trash 0.08355239262464437
+
+
+@FrankieJGrande ew queer white thirsty bitch
+Truth:  0 Prediction:  1
+queer 1.0963486596260332
+white 1.678927894939801
+thirsty -0.041479870549808714
+bitch -1.1737034324910127
+
+
+@FreddyAmazin ratchet looking nigger
+Truth:  0 Prediction:  1
+ratchet -0.3104485783324432
+looking 0.2661122852060117
+nigger 1.3643913760519675
+
+
+@Fromtheshwa yes now get off twitter, you lame negros should have never learned how to use the Internet
+Truth:  0 Prediction:  1
+yes 0.23557747019262026
+lame 0.2998459609037306
+learned 1.1293705158429987
+use -0.9086014914921104
+
+
+@FuckBoiRik hahahaha youza fuck wigger
+Truth:  0 Prediction:  1
+hahahaha 0.3938119513215203
+fuck 0.5365394654006062
+wigger 0.363633616694154
+
+
+@Fugazi3011 "leave you beaner retard"
+Truth:  0 Prediction:  1
+beaner 0.7054618515051964
+
+
+@Fulf_ShawnFulf peckerwood
+Truth:  1 Prediction:  2
+
+
+@Garner_412 heyyyyyyyyyyy fag boy am I gonna watch you play?
+Truth:  0 Prediction:  1
+fag 1.1079297183124235
+boy -0.051263028783320494
+gonna 0.10243193729449275
+watch 0.47357896208448413
+
+
+@GeneTNBARockBox Says the old man :( I hope you can survive another 10 years, you silly Jigga boo monkey
+Truth:  0 Prediction:  2
+old 0.10755420442989257
+man 0.0680505020400257
+hope 0.4030925449027971
+10 0.3366708212451453
+silly 0.41500787426858876
+boo 0.39023723098027024
+monkey -0.05943712381322144
+
+
+@Gladvillian u want me to make u one of my ghetto nunchucks, they come in singles and double_ended
+Truth:  2 Prediction:  1
+want 0.2000722192012721
+make 0.06236581429749861
+ghetto -0.40453742194995845
+come -0.097010052218246
+
+
+@GlitteredInPink hoe don't tweet me
+Truth:  0 Prediction:  1
+hoe -0.5267791739780862
+tweet 0.3998588028029356
+
+
+@GlynJackson2 @Rachh_Basss granted cracker isn't that bad because when you say that to a white person your saying their one of the slave
+Truth:  1 Prediction:  0
+cracker 0.7606261833077926
+bad -0.26068372324490696
+say 0.4745780643749701
+white 1.678927894939801
+person -0.019237821957049643
+saying -0.4026667123175922
+
+
+@God_loves_biebs Go pray in a church or something fag, no one cares about your religious bullshit.
+Truth:  0 Prediction:  1
+cares -0.1195168105646534
+
+
+@GossipCop screw the little porch monkey!
+Truth:  1 Prediction:  2
+little 0.040951604285533925
+porch 0.5001229301327903
+
+
+@GrizzboAdams @wyattnuckels haha ight nig calm yoself
+Truth:  0 Prediction:  1
+haha -0.1746883148911798
+nig 0.8830038991400142
+
+
+@GrizzboAdams fucking block your white ass because you try to start shit like a fucking queer so fuck you NIGGA
+Truth:  0 Prediction:  1
+fucking 0.4849807942233571
+block -0.5356072273307804
+white 1.678927894939801
+ass 0.367339261928304
+try -0.2905449708767223
+start -0.11694047847645396
+shit 0.0852342045401417
+like 0.5028389664031451
+fucking 0.4849807942233571
+queer 1.0963486596260332
+fuck 0.5365394654006062
+
+
+@GroteSmurf0 @illMartino @SvensTweet @KangUcup3 goh d AnoniemeAso meeting heeft weer pauze.Nog steeds niet bij hoofdstuk:hoe haal ik m'n ID?
+Truth:  2 Prediction:  1
+ik -0.07140083524473721
+
+
+@Gutierrez_Alf legit retard
+Truth:  0 Prediction:  1
+retard 0.3656454677694235
+
+
+@HaLaWa0402 not as sick as you muzzie trash @JewJitsuGrl @JoeDouglas1 @Darknight420 @blackorchidm16 
+Truth:  1 Prediction:  2
+sick 0.021125924317204208
+muzzie 0.8626398179625429
+trash 0.08355239262464437
+
+
+@HarveyLevinTMZ @sly309 they want what I got, I want what they got, America.they got the word nigger, I want it to
+Truth:  0 Prediction:  1
+want 0.2000722192012721
+want 0.2000722192012721
+got -0.062089170577541715
+word 0.23980921617833714
+want 0.2000722192012721
+
+
+@HaseenaBakhtali @steen020 @madraq Altyd zo geweest hoe vaak men ook zegt:dit nooit meer!LozeWoorden.PuntjeBijPaaltje vertonen z dierngedrag
+Truth:  2 Prediction:  1
+hoe -0.5267791739780862
+men -0.342098499176023
+
+
+@Herfarm @SteveWorks4You @TheDemocrats your low info redneck dumbasses vote for these corporate shills that idiots like you believe #dummies
+Truth:  0 Prediction:  2
+low 0.15722201892199666
+redneck 0.3065818874763852
+vote 0.41099418105472496
+like 0.5028389664031451
+believe 0.38482523367683324
+
+
+@Herfarm Move out of our country teabaggers!
+Truth:  0 Prediction:  2
+country 0.7427171387184757
+
+
+@Herman_NYRBlog he's am has no clue #heeb
+Truth:  1 Prediction:  2
+
+
+@Hi__________Bye omfg or the other pics of the tranny lmao
+Truth:  1 Prediction:  2
+pics -0.05691896121830582
+tranny 0.3137140891190188
+lmao 0.13467259093907688
+
+
+@HollowDaDonLOM those god damn chinks. 
+Truth:  0 Prediction:  1
+god 0.19967931488596927
+damn 0.3598442990861965
+
+
+@HouseCracka meet me later for a reach around Charlie Crist
+Truth:  1 Prediction:  2
+meet 0.09965173255344786
+later -0.06547248382371043
+
+
+@Hovaa_ cracker....
+Truth:  1 Prediction:  2
+
+
+@Hovaa_ ok wat ever u say whitey. u prolly never even seen shaft.
+Truth:  0 Prediction:  1
+ok 0.1649242429787343
+wat -0.29777085025169053
+say 0.4745780643749701
+prolly 0.5279099550264413
+seen -0.10573304374627075
+
+
+@HuffingtonPost y don't that bitch just shoot herself? so sick of all those whores!
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+just -0.17333551668510047
+shoot 0.6825063329675618
+sick 0.021125924317204208
+
+
+@IAMBJRAPS @cheffin_curry @GirlTimeUSA @LILBTHEBASEDGOD and you look like hmmm a nigger
+Truth:  1 Prediction:  0
+look 0.1520649443469483
+like 0.5028389664031451
+nigger 1.3643913760519675
+
+
+@IDisDummies Can you speak one coherent sentence without sounding like a nig? Seriously.
+Truth:  0 Prediction:  1
+speak 0.4982860901360226
+like 0.5028389664031451
+
+
+@IGGYAZALEA it was a joke you fugly bitch be happy uncle snoop even acknowledged your nasty ass lmao
+Truth:  0 Prediction:  1
+joke 0.17806761336268032
+bitch -1.1737034324910127
+happy 0.423090285845484
+uncle 0.8915272639010152
+nasty 0.2540474818529359
+ass 0.367339261928304
+lmao 0.13467259093907688
+
+
+@IWantHis_Heart Ok u fat precious lookin ass bitch, u big fat back at the barnyard lookin ass bitch. I can fix my grammar but u still fat
+Truth:  0 Prediction:  1
+fat 0.7483276481126211
+lookin 0.20591106204658932
+ass 0.367339261928304
+big -0.4664006934787208
+fat 0.7483276481126211
+lookin 0.20591106204658932
+ass 0.367339261928304
+fat 0.7483276481126211
+
+
+@IamShady_ that's not even a real word! Must have hit a blunt and started making up shit with your nigger ass lol
+Truth:  0 Prediction:  1
+real -0.2678422051546069
+hit 0.2799137530068102
+blunt 0.16960571551928288
+started -0.27157198072151917
+making 0.5973634844586443
+shit 0.0852342045401417
+nigger 1.3643913760519675
+ass 0.367339261928304
+lol -0.20493756194254492
+
+
+@Iemonaids done that spell check we know you meant fat liberal Dyke feminist Nazi bitches
+Truth:  0 Prediction:  1
+spell -0.0006463533052560904
+check -0.18544074143072548
+know 0.15803041462717224
+meant 0.046208467297078705
+fat 0.7483276481126211
+bitches -1.1570657683490801
+
+
+@IleanaGeorgina @Enriquuee_ kike your a soft nigga 😂
+Truth:  1 Prediction:  0
+soft 0.7312712464999366
+nigga 0.8104597352843714
+
+
+@ImToBlame you a fatherless wallet carrying ass video game playing ass negro breh. You filth. No way you can afford to date a #TwitterHoney.
+Truth:  0 Prediction:  1
+ass 0.367339261928304
+video 0.48494768826776163
+game -0.24952839792582296
+playing 0.01953423748342209
+ass 0.367339261928304
+negro 0.20565396616233328
+way 0.15302015757305285
+date 0.6121877040667327
+
+
+@ImpactParasite just fuckin roasted this faggot
+Truth:  0 Prediction:  1
+just -0.17333551668510047
+fuckin 0.28967358437403984
+faggot 1.4359667757355978
+
+
+@InTheOvenJews @SlaveCatcher88 @marylene58 we should hang out ovenjew. Have a lot in common. People waste time on nigs. Jews r r problem.
+Truth:  0 Prediction:  1
+hang 0.0028272423370867272
+lot 0.2225224097593066
+waste 0.7192490253396918
+time -0.13808008852493742
+
+
+@InfidelAlie that should read suck on my bacon encrusted middle finger Muslim twats
+Truth:  0 Prediction:  1
+read 0.45026030482450624
+suck 0.6660418269574417
+middle 0.1850476903629947
+finger 0.2892515866342939
+
+
+@InfidelAlie touché muzzie fuckers, hope it was set to go full of bacon and pork rinds
+Truth:  1 Prediction:  2
+muzzie 0.8626398179625429
+hope 0.4030925449027971
+set -0.09648880410179632
+
+
+@ItsMander @kfc
+You can always gets da colored folk back in da cage wit da KFC
+Truth:  0 Prediction:  1
+gets -0.42854919806809466
+da 0.2883457964458534
+colored -0.28389117290973764
+folk 0.3833474709883842
+da 0.2883457964458534
+wit 0.2382431535017882
+da 0.2883457964458534
+
+
+@ItsYOUR_man nothin much cousin touching white trash wigger wannabe bitch boy dick sucking fucking gay bitch
+Truth:  0 Prediction:  1
+nothin 0.43988623949588584
+cousin 0.028589915856843937
+white 1.678927894939801
+trash 0.08355239262464437
+wigger 0.363633616694154
+bitch -1.1737034324910127
+boy -0.051263028783320494
+dick 0.05322664690210934
+sucking 0.305841204576938
+fucking 0.4849807942233571
+gay 0.9598925035903995
+bitch -1.1737034324910127
+
+
+@JMC2488 @jetsgreen @TB12FAN and fuck you too ya little bitch you look like a Mexican sucking a cock in ur profile
+Truth:  0 Prediction:  1
+fuck 0.5365394654006062
+ya -0.10142157512642622
+little 0.040951604285533925
+bitch -1.1737034324910127
+look 0.1520649443469483
+like 0.5028389664031451
+sucking 0.305841204576938
+cock 0.666879664697463
+ur 0.42205846684227083
+profile 0.9800082965588224
+
+
+@JOLTNG niger
+Truth:  0 Prediction:  2
+
+
+@JPerez003 teabaggers are anti American. Hows it feel to hate your country?
+Truth:  1 Prediction:  2
+teabaggers 0.10230668559441465
+anti 0.11565571210620651
+feel -0.48473420273104934
+hate 0.7153588754270559
+
+
+@JRise88 @G_Anderson4 what do you want fag
+Truth:  0 Prediction:  1
+want 0.2000722192012721
+fag 1.1079297183124235
+
+
+@JRise88 @LongLiveTylerD your a fag
+Truth:  0 Prediction:  1
+fag 1.1079297183124235
+
+
+@JRise88 shut up you stupid bitch
+Truth:  0 Prediction:  1
+shut 0.32658996359456693
+stupid 0.7283111283686275
+bitch -1.1737034324910127
+
+
+@JStac825 @ThatAngryNigga at least after nearly two decades of complete trash they put out ATYSYC to redeem themselves.
+Truth:  1 Prediction:  2
+complete -0.3480785255702761
+trash 0.08355239262464437
+
+
+@JTrevorHowerton @HollyRFisher because it's hilarious how it makes teabaggers freak out. I'll do it again too.
+Truth:  1 Prediction:  2
+makes -0.16721744283966194
+teabaggers 0.10230668559441465
+freak 0.5133004006100915
+
+
+@JZolly23 also is search of dirty white trash hookers for the weekends
+Truth:  1 Prediction:  0
+search 0.7288062910438939
+dirty 0.2807188000328167
+white 1.678927894939801
+trash 0.08355239262464437
+
+
+@J_Nastyy_ @Bum_Farto why would a white man even go to a nigger hell hole of Detroit? An I've worked in A town how. Y'all good niggers!
+Truth:  1 Prediction:  0
+white 1.678927894939801
+man 0.0680505020400257
+nigger 1.3643913760519675
+hell -0.035527735788486045
+worked -0.16672147506846544
+town -0.33951663815719596
+good -0.19427181231321922
+
+
+@JacobbBacker fag
+Truth:  0 Prediction:  1
+fag 1.1079297183124235
+
+
+@JacobbBacker faggot
+Truth:  1 Prediction:  0
+faggot 1.4359667757355978
+
+
+@JacobbBacker you don't know shit about me faggot bitch
+Truth:  0 Prediction:  1
+know 0.15803041462717224
+shit 0.0852342045401417
+faggot 1.4359667757355978
+bitch -1.1737034324910127
+
+
+@JadeGreenleaf @DailySexSupply am i really a fag if I'm liking that video
+Truth:  1 Prediction:  0
+really 0.08056930549788316
+fag 1.1079297183124235
+video 0.48494768826776163
+
+
+@JadeGreenleaf fag
+Truth:  0 Prediction:  1
+fag 1.1079297183124235
+
+
+@JaneyPew nigger you are bigger than I am. Do you even #R4aperSec ?
+Truth:  1 Prediction:  0
+nigger 1.3643913760519675
+
+
+@JaredReve use monkey maker you prick!
+Truth:  1 Prediction:  2
+use -0.9086014914921104
+monkey -0.05943712381322144
+
+
+@JasonMoriarty13 I remember his nephew Lucas crying and dan saying "quit being such a pussy and grow a pair" or something. 😂😭 dans so funny.
+Truth:  0 Prediction:  1
+remember -0.524651602318214
+crying 0.4808253472129046
+saying -0.4026667123175922
+pussy -1.0455825772296983
+grow 0.7612475946894589
+
+
+@Jaytwofly huh, lol mad nigger is mad
+Truth:  0 Prediction:  1
+lol -0.20493756194254492
+mad -0.0332279936241725
+nigger 1.3643913760519675
+mad -0.0332279936241725
+
+
+@JennaHord12 Nooo Amber's supposed to kill me fag
+Truth:  1 Prediction:  0
+supposed -0.11241795298281307
+kill 1.3787723394011433
+fag 1.1079297183124235
+
+
+@JewelsAndDrugs9 @ladygaga @madonna lmao madonnas music sucks? yeah you're fucking stupid if you think gaga is better. retard
+Truth:  0 Prediction:  1
+lmao 0.13467259093907688
+music 0.5175110527644037
+yeah 0.01144113250731393
+fucking 0.4849807942233571
+stupid 0.7283111283686275
+think 0.08376745435776453
+retard 0.3656454677694235
+
+
+@JizzAtTheScene and how am I assume shit 
+,hmm cuz u don't know what fuck u talking about crackers these days.
+Truth:  0 Prediction:  1
+shit 0.0852342045401417
+cuz 0.013227192605520313
+know 0.15803041462717224
+fuck 0.5365394654006062
+talking 0.3160738037907903
+crackers 0.27515758788859607
+
+
+@JoeDouglas1 I guess blaspheme to your Allah is ok if your pos muzzie huh? @JewJitsuGrl @efilnikcufecin7 @Darknight420
+Truth:  0 Prediction:  1
+guess -0.713154452180587
+ok 0.1649242429787343
+muzzie 0.8626398179625429
+
+
+@JoeDouglas1 sit down and stfu raghead @Darknight420 @hajihuntingpat
+Truth:  0 Prediction:  1
+sit 0.4399250813406241
+stfu 0.21318624438034753
+
+
+@JoePrich shut up faggot
+Truth:  1 Prediction:  0
+shut 0.32658996359456693
+faggot 1.4359667757355978
+
+
+@Joey_D26 sweet comeback u fuckin herb I dnt watch soccer but id still wax your bitch ass in it go swallow the red soxs kids ur from NYC fag
+Truth:  0 Prediction:  1
+sweet 0.4105469100250373
+fuckin 0.28967358437403984
+dnt 0.37444831430623804
+watch 0.47357896208448413
+id -0.6351528306901774
+bitch -1.1737034324910127
+ass 0.367339261928304
+red -0.48656512251500994
+kids -0.024143784720953965
+ur 0.42205846684227083
+fag 1.1079297183124235
+
+
+@JosesitoRiveraa fuck no faggot
+Truth:  1 Prediction:  0
+fuck 0.5365394654006062
+faggot 1.4359667757355978
+
+
+@Juice__2 faggot
+Truth:  1 Prediction:  0
+faggot 1.4359667757355978
+
+
+@JustDoItSlow 😒FOREVER 21 hoes
+Truth:  2 Prediction:  1
+21 1.179192264429554
+hoes -1.0219309469053361
+
+
+@Jwreich142 @SteveWorks4You teabaggers are extremely dumb...
+Truth:  1 Prediction:  2
+teabaggers 0.10230668559441465
+
+
+@KeebitHalal @LogansWarning gotta love it when the islamofascist cow tries to make a retort about age, typical muzzie idiocy
+Truth:  0 Prediction:  1
+gotta 0.16284162119339676
+love -0.14168359906120426
+make 0.06236581429749861
+typical 0.13374708742974284
+muzzie 0.8626398179625429
+
+
+@KenSuttling @LesleySuttling Him as well, They like their fried chicken,esp the spear chuckers.
+Truth:  1 Prediction:  2
+like 0.5028389664031451
+fried -0.8323557360001442
+spear 1.079918144625538
+
+
+@KenSuttling Mr.Cox,the Chase me Charlie of his day.Bend over boy,while I conjugate your A**e
+Truth:  1 Prediction:  2
+
+
+@Kenny__Wright @itsfrankybitch @Amber_Nicole_21 @Kush_Boy420 @yoPapi_chulo you cant call someone a fag if you're snuggling up with guys
+Truth:  1 Prediction:  0
+fag 1.1079297183124235
+guys 0.4530837929947565
+
+
+@Kenny__Wright @itsfrankybitch @yoPapi_chulo so if your 17 and in high school you dont have your own house you fucking faggot
+Truth:  0 Prediction:  1
+high 0.07334049396871223
+school 0.5515527749144151
+dont -0.3035789349468693
+house 0.10361921573579508
+fucking 0.4849807942233571
+faggot 1.4359667757355978
+
+
+@Kenny__Wright @sincerelyayla faggot
+Truth:  1 Prediction:  0
+faggot 1.4359667757355978
+
+
+@Kevin_McAdams Because Ian's retarded
+Truth:  0 Prediction:  1
+retarded 0.5092099056639494
+
+
+@KimW16 and the plastic surgery of a tranny.
+Truth:  1 Prediction:  2
+
+
+@KingCuh @TEE_JONEZ io.. lol osi tangi! Haha a tuku ho tangible Terryn! Atunga ho fie lea lahi mai!
+Truth:  2 Prediction:  1
+lol -0.20493756194254492
+ho -0.2040001509791424
+ho -0.2040001509791424
+
+
+@KingHov1313 i got a dyke wit a child as whse mgr, and she jus hired another girlboy dis week....
+Truth:  0 Prediction:  1
+got -0.062089170577541715
+dyke 1.342297186544402
+wit 0.2382431535017882
+child -0.17623198690135888
+jus 0.06756446417442102
+dis 0.33905154238279395
+
+
+@KingLiibax r u a faggot?
+Truth:  1 Prediction:  0
+
+
+@KuntaKayne I have never seen such ignorant, illiterate pieces of shit in my life. Bring in Natl Guard & disperse this trash. @bassem_masri
+Truth:  0 Prediction:  1
+seen -0.10573304374627075
+shit 0.0852342045401417
+
+
+@KxRxSxB @SamRomero95 prairie nigger
+Truth:  1 Prediction:  0
+nigger 1.3643913760519675
+
+
+@L1LTR4P fucking losers wetbacks #SorryNotSorry
+Truth:  0 Prediction:  1
+fucking 0.4849807942233571
+
+
+@LaBugg09 😂😂 my fault it sound like it fucc nicca
+Truth:  2 Prediction:  1
+sound -0.1759646185985136
+like 0.5028389664031451
+fucc 0.3258984760477154
+nicca 0.12086333897546726
+
+
+@LeonBaptist idk you into mouthy spics on welfare with 6 kids and 3 baby daddy's?
+Truth:  0 Prediction:  1
+idk 0.31269188958271343
+kids -0.024143784720953965
+baby -0.2256611112537388
+
+
+@Levi_Page I don't bend that way queer. Thanks for the offer it's flattering.
+Truth:  0 Prediction:  1
+way 0.15302015757305285
+
+
+@LimitlessMudi @YoDeddyUgly Y'all both trash
+Truth:  1 Prediction:  2
+trash 0.08355239262464437
+
+
+@LoLDyrus It's retarded. Ignore the harlem shake fad and hope it goes away soon.
+Truth:  2 Prediction:  1
+shake -0.35417096558907074
+hope 0.4030925449027971
+goes 0.27786074442872977
+away 0.5742803273036223
+
+
+@LobstrThinkTank Yeah! Me too. My people, the women, laff at the set apart men... they love the real niggas or niggers.
+Truth:  0 Prediction:  1
+set -0.09648880410179632
+love -0.14168359906120426
+real -0.2678422051546069
+niggas 0.7681229879206604
+
+
+@LokiHulibele @mediacrooks @AamAadmiParty They have mix, not all are retards. AAP is Maoists, terrorists,Congies and delusional Retards
+Truth:  0 Prediction:  1
+
+
+@MIKEB_IN_THE_D rams are for fags
+Truth:  1 Prediction:  0
+fags 1.6962384849634629
+
+
+@MSoltan18 @Matt_Simonson @KoredeB9 nvm thought we were talking fifa sorry matt you're not trash at zombies
+Truth:  1 Prediction:  2
+thought 0.23676091218084944
+talking 0.3160738037907903
+sorry 0.20773364130553396
+trash 0.08355239262464437
+
+
+@MackWop u aint bout it wop
+Truth:  1 Prediction:  2
+aint 0.27894371596801587
+bout -0.015157262476508225
+wop -0.21981408472087538
+
+
+@MarianCristinax you a fag b
+Truth:  0 Prediction:  1
+fag 1.1079297183124235
+
+
+@Marlon_N_Gaines I am brown, while you are black and ignorant, your stupidity makes me sick, typical thug looking nigger.
+Truth:  1 Prediction:  0
+black 0.4551960182374316
+makes -0.16721744283966194
+typical 0.13374708742974284
+thug 0.45421602676671263
+looking 0.2661122852060117
+
+
+@Matt_Petrie22 geta Life faggot
+Truth:  0 Prediction:  1
+faggot 1.4359667757355978
+
+
+@Maxwell_Larsen your a cunt
+Truth:  0 Prediction:  1
+cunt 0.3085744200599597
+
+
+@McwilliamsBrett shut your legs hoe
+Truth:  0 Prediction:  1
+shut 0.32658996359456693
+legs 0.7342794071152837
+hoe -0.5267791739780862
+
+
+@MenachemDreyfus @NatlFascist88 @waspnse Shit your ass and shabbat your moms pussy u Jew bastard. Ur times coming. Heil Hitler!
+Truth:  0 Prediction:  1
+ass 0.367339261928304
+moms 0.38301027245056285
+pussy -1.0455825772296983
+times 0.038654700126384174
+
+
+@Mimistheone You really seem to love Sandusky. Weirdo. Ur a creepy ass cracker!
+Truth:  0 Prediction:  1
+really 0.08056930549788316
+love -0.14168359906120426
+ass 0.367339261928304
+
+
+@Mimistheone stop trolling me u creepy ass cracker!!!
+Truth:  0 Prediction:  1
+stop -0.01505124569671464
+ass 0.367339261928304
+
+
+@MoenKiana I am working fag
+Truth:  1 Prediction:  0
+working 0.7423881112276385
+fag 1.1079297183124235
+
+
+@Montea_Rollin @kayysavage I wasn't serious bitch 😂 bitch them niggas i named ain't fuccing witcho ass 😂😭 we all just making shit up 😏😩
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+bitch -1.1737034324910127
+niggas 0.7681229879206604
+named 0.6527498714409694
+ass 0.367339261928304
+just -0.17333551668510047
+making 0.5973634844586443
+shit 0.0852342045401417
+
+
+@Montulos Lakers are trash
+Truth:  1 Prediction:  2
+trash 0.08355239262464437
+
+
+@MorbidMermaid I swear to god nigger you better still hang with me before work. You got my hype
+Truth:  0 Prediction:  1
+swear -0.376091154366244
+god 0.19967931488596927
+nigger 1.3643913760519675
+better 0.39852422366171386
+hang 0.0028272423370867272
+got -0.062089170577541715
+
+
+@MorbidMermaid do you work today niglet?
+Truth:  0 Prediction:  2
+work 0.35031579461108026
+today -0.12041408688824834
+
+
+@Morning_Joe Wonder how many US citizens have joined ISIS after listening to Joe Scarborough trash this "black President?" Good Job Joe!!
+Truth:  1 Prediction:  2
+trash 0.08355239262464437
+
+
+@MrMooncricket @AtBlackface @UncleUnco @BobbyBotsods @FuckTheMallcops @RacistNegro69 ugly gay nigga bitch fucking peace of shit
+Truth:  0 Prediction:  1
+ugly 0.6627605333803737
+gay 0.9598925035903995
+nigga 0.8104597352843714
+bitch -1.1737034324910127
+fucking 0.4849807942233571
+shit 0.0852342045401417
+
+
+@MrMooncricket @RacistNegro69 fuck you, stupid ass coward ass punk bitch faggot ass racist piece of shit. Punk. Bitch, ain't worth my time!
+Truth:  0 Prediction:  1
+fuck 0.5365394654006062
+stupid 0.7283111283686275
+ass 0.367339261928304
+coward 0.5837797721876988
+ass 0.367339261928304
+punk 0.513503435828658
+bitch -1.1737034324910127
+faggot 1.4359667757355978
+ass 0.367339261928304
+racist 1.5512060307133109
+piece 0.2498515249021209
+worth 0.15861689746787025
+
+
+@MyNameShouldBe only one problem theres a "no pussies allowed" sorry @kerrythekilla...
+Truth:  0 Prediction:  1
+problem 0.25925494881001426
+pussies -0.13118618936925208
+sorry 0.20773364130553396
+
+
+@NOT_UR_BRO @niccol3_xo lmao nigga shoulda said I would be balless bc dat cold bitch wont stop blowin me#swaagg
+Truth:  0 Prediction:  1
+lmao 0.13467259093907688
+nigga 0.8104597352843714
+shoulda 0.5959609167678419
+said 0.11424486521700694
+bc 0.3020225824074971
+dat 0.009315016227896282
+cold -0.030801990933178064
+bitch -1.1737034324910127
+wont 0.683619777268898
+stop -0.01505124569671464
+
+
+@NYRKelsMads 
+Dat damn dog eats betta den most colored folk do.
+Truth:  2 Prediction:  1
+damn 0.3598442990861965
+dog -0.30387144756325346
+den -0.007454031131673406
+colored -0.28389117290973764
+folk 0.3833474709883842
+
+
+@NYRKelsMads 
+Dat dawg live betta den most colored folk in my hood
+Truth:  1 Prediction:  2
+dawg -0.28902006385396106
+live 0.37500594802180137
+den -0.007454031131673406
+colored -0.28389117290973764
+folk 0.3833474709883842
+hood 0.7214281467837604
+
+
+@NYRKelsMads @DArkMEATHOOK 
+Dat colored guy be braisin
+Truth:  1 Prediction:  2
+colored -0.28389117290973764
+guy -0.2396253094194241
+
+
+@NYRKelsMads @DaniloNavarro85 Hey fag, I said this was your aunts. *He* said it was you.
+Truth:  0 Prediction:  1
+said 0.11424486521700694
+said 0.11424486521700694
+
+
+@NYRKelsMads @pucksk8r 
+Ware da colored elite meet to eat
+Truth:  1 Prediction:  2
+da 0.2883457964458534
+colored -0.28389117290973764
+meet 0.09965173255344786
+eat -0.032562866628662375
+
+
+@Ncoleycole u still a mutt tho lol
+Truth:  2 Prediction:  1
+tho -0.4657422481380524
+lol -0.20493756194254492
+
+
+@Negroizzle @AnastasiaPacana @IHeinz2012 @R3lentlssTr0ll @M_Overture i trusted you queer cakes! wheres the passion? she made me do it dammit
+Truth:  1 Prediction:  0
+queer 1.0963486596260332
+
+
+@NoBeeetch @Iam_webster faggot
+Truth:  1 Prediction:  0
+faggot 1.4359667757355978
+
+
+@NotEvanLarkin FaceTime me nigger
+Truth:  1 Prediction:  0
+nigger 1.3643913760519675
+
+
+@NotoriousBM95 @Buckm00se fucking stupid crackers
+Truth:  1 Prediction:  0
+fucking 0.4849807942233571
+stupid 0.7283111283686275
+crackers 0.27515758788859607
+
+
+@NotoriousBM95 @gezus__ @Rodriguez5_ your getting blocked faggot
+Truth:  0 Prediction:  1
+getting 0.11009689828763926
+blocked 0.6863255171861572
+faggot 1.4359667757355978
+
+
+@NurbsTheOcho8 @tori_mills02 not dykes or anything👯😛👭
+Truth:  1 Prediction:  2
+
+
+@NyJusDntGAF just like a nig to come home when ever they want
+Truth:  0 Prediction:  1
+just -0.17333551668510047
+like 0.5028389664031451
+nig 0.8830038991400142
+come -0.097010052218246
+home 0.062476919029194534
+want 0.2000722192012721
+
+
+@NyJusDntGAF to late niggers died first
+Truth:  1 Prediction:  0
+late 0.4116801548085728
+niggers 2.0040266891774654
+died 0.43755865375587855
+
+
+@NyJusDntGAF what's up nigger 😁
+Truth:  1 Prediction:  0
+nigger 1.3643913760519675
+
+
+@OG_HARM @moetzart @duckydynamo look at this nigger ass nigger shit right here
+Truth:  0 Prediction:  1
+look 0.1520649443469483
+nigger 1.3643913760519675
+ass 0.367339261928304
+nigger 1.3643913760519675
+shit 0.0852342045401417
+right 0.28582506699350607
+
+
+@OLE_VertyBstard Yankee noodle is fucking awesome ya bastard.
+Truth:  1 Prediction:  2
+fucking 0.4849807942233571
+awesome 0.4648717311873358
+ya -0.10142157512642622
+
+
+@Oreo @NHL if u zoom in you can see his hairy nipples
+Truth:  1 Prediction:  2
+hairy 0.5095161168991361
+
+
+@Oskzilla fuck you fag!
+Truth:  0 Prediction:  1
+fuck 0.5365394654006062
+
+
+@Oskzilla fuck you niggah you gay. Lol
+Truth:  0 Prediction:  1
+fuck 0.5365394654006062
+niggah 0.023811742342369324
+
+
+@Oskzilla not fair! You're still a faggot -.-
+Truth:  1 Prediction:  0
+faggot 1.4359667757355978
+
+
+@Pacific_Tomb yeah, us crackers are the devil.
+Truth:  1 Prediction:  2
+crackers 0.27515758788859607
+
+
+@Pacman_Dre_SB I said something to you gorilla, stop listening to monkey music
+Truth:  1 Prediction:  2
+said 0.11424486521700694
+stop -0.01505124569671464
+monkey -0.05943712381322144
+music 0.5175110527644037
+
+
+@PatDollard Fuckin muzzie cunts, should all be deported, savages
+Truth:  0 Prediction:  1
+muzzie 0.8626398179625429
+
+
+@PatriotsOrg Screw the ragheads.
+Truth:  0 Prediction:  2
+
+
+@PaulMoon8 @yurista4life @justinmiculka01 you fuckin Yankees I'll be there in 2 months I'll meet you pussy
+Truth:  0 Prediction:  1
+fuckin 0.28967358437403984
+months 0.4331551959101927
+meet 0.09965173255344786
+pussy -1.0455825772296983
+
+
+@Pecan_B19 @ObeyMy_Realness dryer then them bad ass eyes of your fag
+Truth:  0 Prediction:  1
+bad -0.26068372324490696
+ass 0.367339261928304
+eyes 0.5903856951802517
+fag 1.1079297183124235
+
+
+@PlasticDom can we plz go to Starbucks and do that. Ebola sounds like a really ghetto hood name tbh.
+Truth:  1 Prediction:  2
+plz 0.10066150078172606
+sounds 0.01244759432742127
+like 0.5028389664031451
+really 0.08056930549788316
+ghetto -0.40453742194995845
+hood 0.7214281467837604
+
+
+@Police_TactGear Article is flawed. Took my first CHP with BRPD. Was well done. Even had 2 ghetto gals with a jammy Hi-purnt 9 but well done
+Truth:  1 Prediction:  2
+ghetto -0.40453742194995845
+
+
+@PraviKingDino you like men faggot.
+Truth:  1 Prediction:  0
+like 0.5028389664031451
+men -0.342098499176023
+
+
+@PrayForJack new york niggas quick to take off on a bitch in public boy lol!!!!!
+Truth:  0 Prediction:  1
+new 0.06546043972691364
+york 0.7479652012135626
+niggas 0.7681229879206604
+quick 0.4545734592860662
+bitch -1.1737034324910127
+public 0.17789419698300146
+boy -0.051263028783320494
+
+
+@ProperEtacet fuck your mother, faggot
+Truth:  0 Prediction:  1
+fuck 0.5365394654006062
+faggot 1.4359667757355978
+
+
+@QUAN1T0 You retarded bruh lol
+Truth:  0 Prediction:  1
+retarded 0.5092099056639494
+bruh 0.048321214920971065
+lol -0.20493756194254492
+
+
+@QovEm Just played against a Heimer support. Biggest faggot ever. Stupid cheese champion.
+Truth:  1 Prediction:  0
+played -0.22145170903158662
+faggot 1.4359667757355978
+cheese 0.33075568909902725
+
+
+@Qui_ThePharaoh @zApollo0803 @MildlyDarkSkin hes a lying faggot. he used inspect element to change the number of dollars in his account.
+Truth:  0 Prediction:  1
+hes 0.2970388865077046
+lying -0.15282143091290706
+used 0.030044340464651213
+change -0.04547202043088442
+number 0.17509086230693963
+dollars 0.5579496872716703
+
+
+@RFam2550 shut up faggot
+Truth:  1 Prediction:  0
+shut 0.32658996359456693
+faggot 1.4359667757355978
+
+
+@RealNoth no wonder your career is in the dump that's where trash like you belongs. Thanks to @greggutfeld for pointing out your true colors
+Truth:  1 Prediction:  2
+wonder 0.08856391933299873
+dump -0.2304734801345429
+trash 0.08355239262464437
+like 0.5028389664031451
+true -0.10691445018336951
+
+
+@RealWallieWall Sheet i can't do that too a cripple
+Truth:  1 Prediction:  2
+cripple 0.07449099189509237
+
+
+@RevolutionUK_ Jesus I would love to do that and more to those muzzie torturers, fucking animal savages
+Truth:  0 Prediction:  1
+love -0.14168359906120426
+muzzie 0.8626398179625429
+fucking 0.4849807942233571
+animal -0.03287977152873991
+
+
+@RichxInxFlavor I'm not a fag. Gtfo
+Truth:  0 Prediction:  1
+
+
+@Roscoedash lmao, soft ass nigga trying to act all tough, you a little bitch. Sit down and watch from the sidelines pussy.
+Truth:  0 Prediction:  1
+soft 0.7312712464999366
+ass 0.367339261928304
+nigga 0.8104597352843714
+trying 0.1198469215663621
+act -0.33037497449446646
+little 0.040951604285533925
+watch 0.47357896208448413
+
+
+@RottenStench 
+Tanks a lot dare mr. Pubes. I love my Uncle Tom :)
+Truth:  1 Prediction:  2
+lot 0.2225224097593066
+dare -0.9648613042778756
+love -0.14168359906120426
+
+
+@RylannWilliams whooooo? Chelsey? Fuck her lol. She juss a bitch
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+
+
+@SAMMI_boyden bruh we can finally roll like rednecks (': ((drug dealers))
+Truth:  0 Prediction:  1
+bruh 0.048321214920971065
+finally 0.1904577279896342
+roll -0.08112646463326592
+like 0.5028389664031451
+rednecks 0.9239766046311143
+
+
+@SAMMI_boyden well he's a cunt and he can suck my ass
+Truth:  0 Prediction:  1
+cunt 0.3085744200599597
+suck 0.6660418269574417
+ass 0.367339261928304
+
+
+@S_Roach happy birthday nicca do coon shit in a responsible way.
+Truth:  0 Prediction:  1
+happy 0.423090285845484
+birthday 0.06125255559531927
+nicca 0.12086333897546726
+coon 1.3085206753071035
+shit 0.0852342045401417
+
+
+@SadderDre @PoeticGenius19 who knows man. That Uncle Tom mentality will never die. Ol Martin Baker headass
+Truth:  1 Prediction:  0
+knows 0.46644649330530275
+
+
+@SalaciousSully I am always amazed at your resilience to keep on going into the night shift. Is it really better than the T.O. ghetto?
+Truth:  1 Prediction:  2
+going -0.12706409522021314
+night -0.4910036702713535
+really 0.08056930549788316
+better 0.39852422366171386
+
+
+@SalaciousSully hopefully not back in da ghetto?
+Truth:  2 Prediction:  1
+da 0.2883457964458534
+
+
+@SamRomero95 @KxRxSxB timber nigger
+Truth:  1 Prediction:  0
+nigger 1.3643913760519675
+
+
+@SandraGuzman_ nigger*
+Truth:  1 Prediction:  0
+
+
+@SchulzGrayson @Dswizzle3 oh woulda coulda shoulda ass niggas bitch ass nigga, what u bout oh ban wagging ass nigga catch your phase
+Truth:  0 Prediction:  1
+oh 0.3711238995705644
+woulda -0.07444406953062983
+shoulda 0.5959609167678419
+ass 0.367339261928304
+niggas 0.7681229879206604
+bitch -1.1737034324910127
+ass 0.367339261928304
+bout -0.015157262476508225
+oh 0.3711238995705644
+ass 0.367339261928304
+nigga 0.8104597352843714
+catch -0.05420932506882445
+
+
+@Scoob3y yeah and you're gonna play with retards who wanna do drugs all day but 🐸☕️
+Truth:  2 Prediction:  1
+yeah 0.01144113250731393
+gonna 0.10243193729449275
+play 0.37981919622667076
+retards 0.7902834998807331
+wanna -0.5164808928837503
+drugs -0.5603819147096069
+day 0.16464629217203658
+
+
+@ScottDeYager .......now. If you photshopped #Pinhead like #JohnGalt with PISTONS instead of #faggot NEEDLES> I might be impressed> #gay
+Truth:  1 Prediction:  0
+like 0.5028389664031451
+instead -0.7083097562745496
+
+
+@Seanability I love her too much. Maybe one of my bitchier birds...
+Truth:  1 Prediction:  2
+love -0.14168359906120426
+
+
+@Selxnaa I'm redneck crazy
+Truth:  2 Prediction:  1
+redneck 0.3065818874763852
+crazy -0.8223849296950075
+
+
+@Shmalec13 ya fag
+Truth:  0 Prediction:  1
+ya -0.10142157512642622
+fag 1.1079297183124235
+
+
+@Shvkxir @RickiRoma @BaeSongz @JayZOverrated Ahmed and retard mikey for special Olympic boxing
+Truth:  0 Prediction:  1
+retard 0.3656454677694235
+special 1.081607381866447
+
+
+@SlimGirl_Probz das calld usen yo brain retard y would i whoop yo ass n front of da police
+Truth:  0 Prediction:  1
+das 0.12088414445381322
+yo -0.08311104502955982
+brain 0.401265369876458
+retard 0.3656454677694235
+yo -0.08311104502955982
+ass 0.367339261928304
+da 0.2883457964458534
+police 0.6794805245717945
+
+
+@SlothNG i can guarantee a few things: you're white. you've never been anywhere NEAR a real ghetto. you, or a relative is a pig. 100%
+Truth:  0 Prediction:  1
+real -0.2678422051546069
+
+
+@SoftestMuffin @_tee13 @TorahBlaze Best believe We aint no christian slave brainwash black spooks miss white man, unlike yoself, she devil
+Truth:  0 Prediction:  1
+believe 0.38482523367683324
+aint 0.27894371596801587
+black 0.4551960182374316
+miss -0.7066925795738197
+white 1.678927894939801
+devil 0.033011183433800134
+
+
+@SoftestMuffin @_tee13 @TorahBlaze at the end of the day, they call yo dumb ass monkey, picka'nanny hoe. But u luv them white devils
+Truth:  0 Prediction:  1
+end -0.056773915712426515
+yo -0.08311104502955982
+dumb 0.36302595490075945
+ass 0.367339261928304
+white 1.678927894939801
+
+
+@Soldier1eaODGrn I don't give a flying fuck what a teabagger piece of human garbage like you thinks =)
+Truth:  0 Prediction:  1
+fuck 0.5365394654006062
+teabagger 0.07988868461151796
+piece 0.2498515249021209
+human 0.6619412098982771
+garbage -0.20612970511569287
+like 0.5028389664031451
+thinks 0.2100837975554969
+
+
+@Soldier1eaODGrn you are a teabagger scum who wants to threaten people with his penis extender. You are a danger to this country.
+Truth:  0 Prediction:  1
+teabagger 0.07988868461151796
+scum 1.029249906384272
+wants -0.12029979008532256
+people 0.3463913335172432
+
+
+@StephyRae7 faggot.
+Truth:  0 Prediction:  1
+
+
+@StephyRae7 is the biggest faggot in the world
+Truth:  0 Prediction:  1
+biggest 0.3450718906233584
+faggot 1.4359667757355978
+world 0.05366669505017782
+
+
+@Sterm26 @RealJamesWoods Just like when I call someone a nigger! It's not because they're black, it's about how they act. LIKE A NIGGER!
+Truth:  0 Prediction:  1
+like 0.5028389664031451
+
+
+@SteveStockmanTX @toddstarnes oh I see. Part of a giant govt take over eh. Stockboy you are a joke of a representative. #dumb teabagger
+Truth:  1 Prediction:  2
+oh 0.3711238995705644
+joke 0.17806761336268032
+teabagger 0.07988868461151796
+
+
+@SteveWorks4You Stockboy...everyone mocks you.
+Truth:  2 Prediction:  1
+
+
+@Steve_wojtkiw @EmmaLouisaSuttl Wise decision,this Alfie must be a right mong.
+Truth:  2 Prediction:  1
+right 0.28582506699350607
+
+
+@Steven_ratata bye youre a queer
+Truth:  0 Prediction:  1
+bye -0.047597349753020046
+youre 0.6507000582640587
+queer 1.0963486596260332
+
+
+@Stonisnipezz this is a joke right? You're on here like ugh I wish I was a jap and tweeting in gook and shit and jerkin to hentai.
+Truth:  0 Prediction:  1
+joke 0.17806761336268032
+like 0.5028389664031451
+ugh -0.10732932309370678
+wish 0.190779102225192
+tweeting -0.28260770682271297
+gook 1.00159246054065
+shit 0.0852342045401417
+
+
+@SuSuSudafed
+I eat dat chicken out your love box baby. Lovin a white woman while eatin chicken. A colored mans dream
+Truth:  2 Prediction:  1
+eat -0.032562866628662375
+dat 0.009315016227896282
+chicken 0.2544450393690254
+love -0.14168359906120426
+box 0.39924033463079756
+white 1.678927894939801
+woman -0.26315040880403073
+colored -0.28389117290973764
+dream 0.10176032243349183
+
+
+@SydneeSmalling fuck Miley tranny looking now damn ass nigga
+Truth:  0 Prediction:  1
+fuck 0.5365394654006062
+tranny 0.3137140891190188
+looking 0.2661122852060117
+damn 0.3598442990861965
+ass 0.367339261928304
+nigga 0.8104597352843714
+
+
+@Tanner_Harris_ I've been knowing fag
+Truth:  0 Prediction:  1
+knowing 0.4307043930994956
+fag 1.1079297183124235
+
+
+@Tcrawford20 he's trash
+Truth:  1 Prediction:  2
+trash 0.08355239262464437
+
+
+@TeamMarlo dumb nigger
+Truth:  1 Prediction:  0
+dumb 0.36302595490075945
+nigger 1.3643913760519675
+
+
+@ThatAssholeAlan nick background my nigger
+Truth:  1 Prediction:  0
+nigger 1.3643913760519675
+
+
+@TheChicagoBaker @stopbeingfamous @RaniaKhalek do birds have a 72% out of wedlock rate? is it white fathers that are running away?
+Truth:  0 Prediction:  2
+birds -0.8219733303413302
+white 1.678927894939801
+running 0.4223584127730877
+
+
+@TheErniie You're a little bitch.
+Truth:  0 Prediction:  1
+little 0.040951604285533925
+
+
+@TheKushZombie Aww y u so mad tho, a successful man LMFAO, hut hugging as faggot.
+Truth:  0 Prediction:  1
+mad -0.0332279936241725
+man 0.0680505020400257
+
+
+@TheREALJB1RD @Mightymorph Big birds, big peckers.... They always mad cause they only get laid once and that's by their mother.
+Truth:  1 Prediction:  2
+big -0.4664006934787208
+mad -0.0332279936241725
+cause -0.13022506233495068
+
+
+@TheREALJB1RD @winchstrracin @wyatt11w Maybe he can call Hootie back up, he don't answer me anymore but still have crows.
+Truth:  2 Prediction:  1
+answer -0.13994054811219048
+anymore -0.3147062877630413
+
+
+@TheRealJRSmith And its people like you that give us all a bad name, you are a disgusting piece of shit of a person a nigger is what you are
+Truth:  0 Prediction:  1
+people 0.3463913335172432
+like 0.5028389664031451
+bad -0.26068372324490696
+disgusting -0.011748697133246312
+piece 0.2498515249021209
+shit 0.0852342045401417
+person -0.019237821957049643
+nigger 1.3643913760519675
+
+
+@TheShoeBible @Steamed_Greens Them hoes are clean!
+Truth:  2 Prediction:  1
+hoes -1.0219309469053361
+
+
+@The_Red_Sea @shetheTRUTHtho say that shit to my face "Bruh" you a bitch for gettin in a man u dont know business. Handle yo own shit
+Truth:  0 Prediction:  1
+say 0.4745780643749701
+shit 0.0852342045401417
+face 0.39299756108114897
+bitch -1.1737034324910127
+gettin 0.3980491134398629
+man 0.0680505020400257
+dont -0.3035789349468693
+know 0.15803041462717224
+yo -0.08311104502955982
+shit 0.0852342045401417
+
+
+@TherealGeorgeZ you are a pussy without your guns bitch as spic. Your daddy doesn't even respect the sperm he drop in your moms stank pussy
+Truth:  0 Prediction:  1
+pussy -1.0455825772296983
+guns 0.4119202191297392
+bitch -1.1737034324910127
+daddy 0.5239815459150243
+respect 0.320081922698908
+drop -0.06441215852065225
+moms 0.38301027245056285
+stank 0.23281626963297555
+pussy -1.0455825772296983
+
+
+@TielerMLG @psvch @HalfAssed_ coming to the rescue of some retard licking dirty skidmarks on the internet... you guys are fucktards
+Truth:  0 Prediction:  1
+coming 0.21530071707784715
+retard 0.3656454677694235
+dirty 0.2807188000328167
+guys 0.4530837929947565
+
+
+@TreyBizzy I thought you would like him cause of the Chi but yeah he a faggot
+Truth:  0 Prediction:  1
+thought 0.23676091218084944
+like 0.5028389664031451
+cause -0.13022506233495068
+yeah 0.01144113250731393
+faggot 1.4359667757355978
+
+
+@TreyDoe_: @HallDerik @20ToLife_ once fag." You got pressed to the ground? ..hang up your cleats n never put them back on or think about it
+Truth:  2 Prediction:  1
+got -0.062089170577541715
+think 0.08376745435776453
+
+
+@UnicornCowboy @Lvl_7_Eevee @hisorraya mutha fuckahs better bring me all the brownies ever!
+Truth:  1 Prediction:  2
+better 0.39852422366171386
+bring -0.1904402633256316
+brownies -0.5453715840093392
+
+
+@Versanche only faggots drive stick
+Truth:  0 Prediction:  1
+faggots 2.1188647537750778
+drive -0.4264571277178569
+stick 0.08318139922544666
+
+
+@ViewFromBoxSeat She's a cunt
+Truth:  0 Prediction:  1
+cunt 0.3085744200599597
+
+
+@VinceSchilling Vince, what is the general feeling of the natives that you know in regards to the term "redskins"? Offensive to them or not?
+Truth:  1 Prediction:  2
+general 0.11871936743695048
+feeling 0.379864397757186
+know 0.15803041462717224
+term 0.2544431724911998
+
+
+@WaTch_Scenario Yeah so you better play with me ya nigger
+Truth:  0 Prediction:  1
+better 0.39852422366171386
+play 0.37981919622667076
+ya -0.10142157512642622
+nigger 1.3643913760519675
+
+
+@Walmart fuck your store bitch
+Truth:  0 Prediction:  1
+fuck 0.5365394654006062
+store 0.397004375222634
+bitch -1.1737034324910127
+
+
+@WeBeatBitches thats trash, its ot?
+Truth:  1 Prediction:  2
+thats 0.02793553333441663
+
+
+@WendyDavisTexas @GregAbbott_TX So you support "illegals" coming here and spreading disease among Americans Dream that bitch!
+Truth:  0 Prediction:  1
+support 0.7493906285474796
+coming 0.21530071707784715
+
+
+@Wes_vL faggot
+Truth:  1 Prediction:  0
+faggot 1.4359667757355978
+
+
+@Wimp_W_Diesel yu forgot we beat yall? Thats like a garbage man calling a janitor trash
+Truth:  2 Prediction:  1
+yu 0.2225920594007355
+forgot 0.36893515535526206
+beat 0.2432775834373389
+like 0.5028389664031451
+garbage -0.20612970511569287
+man 0.0680505020400257
+calling 0.2167273692545969
+trash 0.08355239262464437
+
+
+@WyattNuckels @grizzboadams hey faggot spell faggot right you dipshit
+Truth:  1 Prediction:  0
+hey -0.07371349778924698
+faggot 1.4359667757355978
+spell -0.0006463533052560904
+faggot 1.4359667757355978
+right 0.28582506699350607
+
+
+@WyattNuckels insecure much put all you insults in one tweet. Fucking dumbass dude I'd wreck you you faggot
+Truth:  0 Prediction:  1
+dumbass -0.48364514184247526
+dude 0.0939034795606719
+faggot 1.4359667757355978
+
+
+@YellabeautyKC home coon
+Truth:  2 Prediction:  0
+home 0.062476919029194534
+coon 1.3085206753071035
+
+
+@YoungJeezy got me feelin like #trappin ain't dead. Got me ready to call the #guala! #Salute da truth! #SeenItAll #SeenItAllTheAutobiography
+Truth:  2 Prediction:  1
+got -0.062089170577541715
+feelin -0.014062990647430156
+like 0.5028389664031451
+ready -0.4332099052090039
+da 0.2883457964458534
+
+
+@YunGMiGo @BigMoneyNiquee lol send dat nicca clean out talmbout some n what if he really is 😂😂😂
+Truth:  1 Prediction:  2
+lol -0.20493756194254492
+send 0.11733353111398029
+dat 0.009315016227896282
+nicca 0.12086333897546726
+clean -0.1907947826465838
+talmbout 0.2098522026769526
+really 0.08056930549788316
+
+
+@YungRajee Shit ill pay the premium to get away from these anything ass hoes
+Truth:  0 Prediction:  1
+ill 0.40221220490350224
+pay 0.31499710517571083
+away 0.5742803273036223
+ass 0.367339261928304
+hoes -1.0219309469053361
+
+
+@ZakSitton lol cracker
+Truth:  1 Prediction:  2
+lol -0.20493756194254492
+cracker 0.7606261833077926
+
+
+@ZaneIsClasker the fuck r u talking about I told u once and am going to tell u against nigga I love white bitch gtf bro
+Truth:  0 Prediction:  1
+fuck 0.5365394654006062
+talking 0.3160738037907903
+told -0.17776491361768829
+going -0.12706409522021314
+tell -0.04759826196915343
+nigga 0.8104597352843714
+love -0.14168359906120426
+white 1.678927894939801
+bitch -1.1737034324910127
+bro 0.17453268978371975
+
+
+@Zwaaad fag
+Truth:  0 Prediction:  1
+fag 1.1079297183124235
+
+
+@_Andrizzy_ aw drake is, do you sit in the corner and cry when you listen to him? lmfao, pussy dick rider, how drakes cock taste faggot.
+Truth:  0 Prediction:  1
+aw -0.06902936033070489
+drake 0.013289393485180944
+sit 0.4399250813406241
+listen 0.28205227672677746
+pussy -1.0455825772296983
+dick 0.05322664690210934
+cock 0.666879664697463
+taste -0.21627633272064248
+
+
+@_C_Parris69_ your picture makes you look like a serious fag. #justsayin lol
+Truth:  0 Prediction:  1
+picture 0.4205446022465894
+makes -0.16721744283966194
+look 0.1520649443469483
+like 0.5028389664031451
+lol -0.20493756194254492
+
+
+@_GOLDwhippp faggots, old people, people who can't drive, drunk people
+Truth:  0 Prediction:  1
+old 0.10755420442989257
+people 0.3463913335172432
+drunk 0.08811585994527085
+people 0.3463913335172432
+
+
+@_IAMKEN fuck Brett Farve redneck ass, he stuckup he don't give a damn lol he be on campus acting like he the shit
+Truth:  0 Prediction:  1
+fuck 0.5365394654006062
+redneck 0.3065818874763852
+damn 0.3598442990861965
+lol -0.20493756194254492
+acting 0.5370865999712774
+like 0.5028389664031451
+shit 0.0852342045401417
+
+
+@_IAMKEN you'll make the team, them niggas trash. Lol
+Truth:  0 Prediction:  1
+make 0.06236581429749861
+niggas 0.7681229879206604
+
+
+@_KaeeJones the bird gone run from your ass
+Truth:  1 Prediction:  2
+bird -1.174733324122988
+gone -0.038217639190945646
+run -0.19571376140227564
+ass 0.367339261928304
+
+
+@_LezzzBeHonest 
+I'm colored. Ain't supposed to be no good influence
+Truth:  1 Prediction:  2
+supposed -0.11241795298281307
+good -0.19427181231321922
+
+
+@_Marzzz nigger
+Truth:  1 Prediction:  0
+nigger 1.3643913760519675
+
+
+@_XoXoKelsey_ hell naw fuck them bitches serves them right
+Truth:  0 Prediction:  1
+hell -0.035527735788486045
+naw 0.34824025404586145
+fuck 0.5365394654006062
+bitches -1.1570657683490801
+right 0.28582506699350607
+
+
+@__Black_Jesus yea I forgot I was talkin to a degenerate faggot
+Truth:  0 Prediction:  1
+yea -0.28893393536723977
+forgot 0.36893515535526206
+talkin 0.6313209355896743
+faggot 1.4359667757355978
+
+
+@__C_h_i_n_g__ your daughter can date this little fag bag @Bekkalina13 @PimpSlapnCow 
+Truth:  1 Prediction:  0
+date 0.6121877040667327
+little 0.040951604285533925
+fag 1.1079297183124235
+bag 0.3117822968547034
+
+
+@_angelaaau hey fag i <3 you
+Truth:  0 Prediction:  1
+hey -0.07371349778924698
+fag 1.1079297183124235
+
+
+@_cblaze @Barbod6FCB @ODDBEAST Man bitch am not gonna do a damn thang, if u don't like what I got to say then unfollow me
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+gonna 0.10243193729449275
+damn 0.3598442990861965
+like 0.5028389664031451
+got -0.062089170577541715
+say 0.4745780643749701
+unfollow 0.6945102190681455
+
+
+@_elennamichelle only when ur around me 😋 gotta keep dat scent to keep filthy niggers away
+Truth:  1 Prediction:  0
+ur 0.42205846684227083
+gotta 0.16284162119339676
+dat 0.009315016227896282
+niggers 2.0040266891774654
+away 0.5742803273036223
+
+
+@_justlexis lol whatever. We're fags.
+Truth:  1 Prediction:  0
+lol -0.20493756194254492
+
+
+@_n1k_nak Status Report: Making a pit stop in Canada to rape bitches
+Truth:  0 Prediction:  1
+stop -0.01505124569671464
+rape 0.8480155569511861
+bitches -1.1570657683490801
+
+
+@_thecrave only if it's funny tweets about ashy niggers
+Truth:  1 Prediction:  0
+funny 0.28271664444001493
+tweets -0.2491900158270701
+niggers 2.0040266891774654
+
+
+@ahimla2 - we do not want you here either! Suck my pigs arse you muzzie biotch! Get the phuck out and go back to your hellhole life!
+Truth:  1 Prediction:  0
+want 0.2000722192012721
+muzzie 0.8626398179625429
+
+
+@aj2amazing Obispo ho. We'll do it big
+Truth:  2 Prediction:  1
+big -0.4664006934787208
+
+
+@alexiscarfield Thought to myself SHEEBA-SHEEBA, got my ass lookin' like a zebra!
+Truth:  1 Prediction:  2
+got -0.062089170577541715
+ass 0.367339261928304
+like 0.5028389664031451
+
+
+@allsportsbruh you say waste a draft pick on Manziel when we have Mallet. that's why I'm telling you to delete your account. You're retarded
+Truth:  0 Prediction:  1
+say 0.4745780643749701
+waste 0.7192490253396918
+pick 0.3662974465333866
+telling -0.426161879416332
+delete 0.5218878429945059
+retarded 0.5092099056639494
+
+
+@aravosis May I jump in u ball-less dick-wad? As a conservative, feminist, disabled vet bitch, I wish u luck with a capital F. @DLoesch
+Truth:  0 Prediction:  1
+jump 0.4928460852577221
+wish 0.190779102225192
+luck 0.3619987940072458
+
+
+@ashhruggiero happy birthday queer
+Truth:  0 Prediction:  1
+happy 0.423090285845484
+birthday 0.06125255559531927
+queer 1.0963486596260332
+
+
+@asshole_king pats owner is a kike.
+Truth:  0 Prediction:  2
+
+
+@atownbrown08 @CarmineZozzora LOL that hasn't worked well for black folks in the past. They better bring a few crackers with um.
+Truth:  1 Prediction:  2
+worked -0.16672147506846544
+black 0.4551960182374316
+folks -0.6651525042598782
+better 0.39852422366171386
+bring -0.1904402633256316
+crackers 0.27515758788859607
+
+
+@atspace your 2. And 3. Nigga them hoes suck wayans brothers are not funny at all Jamie foxx should be number 2
+Truth:  0 Prediction:  1
+hoes -1.0219309469053361
+suck 0.6660418269574417
+funny 0.28271664444001493
+number 0.17509086230693963
+
+
+@aurabogado el negro?
+Truth:  2 Prediction:  1
+
+
+@austin_farrar your a fucking queer faggot bitch
+Truth:  0 Prediction:  1
+fucking 0.4849807942233571
+queer 1.0963486596260332
+faggot 1.4359667757355978
+bitch -1.1737034324910127
+
+
+@bad_boy_six @ksteven37 
+Here ya go wetback, eat this.. 
+Truth:  0 Prediction:  1
+ya -0.10142157512642622
+eat -0.032562866628662375
+
+
+@badshah200 Ur pal @STLAbuBadu threat2 "apostate kufar">"I cld cut ur neck w/sword of islam &watch u squeal like a bitch like Daniel Pearl"
+Truth:  0 Prediction:  1
+cut 0.2643735170433318
+ur 0.42205846684227083
+neck 0.5835726890377803
+like 0.5028389664031451
+bitch -1.1737034324910127
+like 0.5028389664031451
+
+
+@beenlame @FuckTraVonn faggot
+Truth:  1 Prediction:  0
+faggot 1.4359667757355978
+
+
+@beesands10 But that's what you call white trash with money!!!!!
+Truth:  0 Prediction:  1
+white 1.678927894939801
+trash 0.08355239262464437
+
+
+@bellaangeletti no ud still be a fag if I was lolz
+Truth:  0 Prediction:  1
+fag 1.1079297183124235
+
+
+@bernadettvajda they always put gingers in red, yellow, or leopard print.
+Truth:  1 Prediction:  2
+
+
+@bill_gaines @MorningJoe ATF is in charge of prosecuting cases and the #teabagger Republicans won't confirm a director to lead the agency.
+Truth:  1 Prediction:  2
+charge 0.264433537797881
+lead -0.5181194965724174
+
+
+@bitchkrieg like the new AVI. My Twitter is retarded and shows you in the cubs hat but when I stalk your profile it show the new one
+Truth:  0 Prediction:  1
+like 0.5028389664031451
+new 0.06546043972691364
+retarded 0.5092099056639494
+hat 0.19179493789101476
+profile 0.9800082965588224
+new 0.06546043972691364
+
+
+@bnp We are being overrun by mongrels because ZOG or the Jews that run our countries want the white man to perish.
+Truth:  0 Prediction:  1
+run -0.19571376140227564
+want 0.2000722192012721
+white 1.678927894939801
+man 0.0680505020400257
+
+
+@bongwynnn wow what a faggot
+Truth:  1 Prediction:  0
+wow 0.23536035486089782
+faggot 1.4359667757355978
+
+
+@bonnoxxx haha bitch ima draw a webb in bullets round yo fuggin forehead #BeamThat bitch i know where you reside
+Truth:  0 Prediction:  1
+haha -0.1746883148911798
+bitch -1.1737034324910127
+ima -0.15935130799657102
+round 0.24195925523413708
+yo -0.08311104502955982
+bitch -1.1737034324910127
+know 0.15803041462717224
+
+
+@bonnoxxx nah she said you a fag
+Truth:  0 Prediction:  1
+nah -0.02773148346719189
+said 0.11424486521700694
+fag 1.1079297183124235
+
+
+@bsails33 dyke ron🌈🎭😂
+Truth:  1 Prediction:  0
+dyke 1.342297186544402
+
+
+@caylinwillis Fuck the Yankees
+Truth:  1 Prediction:  2
+
+
+@clangloisss hmu negro
+Truth:  2 Prediction:  1
+negro 0.20565396616233328
+
+
+@cleggzta Ho ho ho.
+Truth:  2 Prediction:  1
+ho -0.2040001509791424
+
+
+@coffincreepxx you had to throw in the faggot word smh smh smh
+Truth:  0 Prediction:  1
+throw -0.07981847726066267
+faggot 1.4359667757355978
+word 0.23980921617833714
+smh 0.3498020958929411
+smh 0.3498020958929411
+smh 0.3498020958929411
+
+
+@danram70 @Buflo_dolla ....so ur a fag?
+Truth:  1 Prediction:  0
+ur 0.42205846684227083
+
+
+@danram70 pussy. It's science. Donaire via Rachel spelling error
+Truth:  2 Prediction:  1
+
+
+@darthdanaa Yes you do retard.
+Truth:  0 Prediction:  1
+
+
+@davidly62793584 how many fuckin fags did a even get? Shouldnt be allowed into my wallet whilst under the influence haha
+Truth:  0 Prediction:  1
+fuckin 0.28967358437403984
+fags 1.6962384849634629
+did -0.10448360482728625
+haha -0.1746883148911798
+
+
+@delaney_guinan you did a good job doing that to me and not texting back faggot
+Truth:  0 Prediction:  1
+did -0.10448360482728625
+good -0.19427181231321922
+job 0.5187711850446955
+doing -0.01692777343951281
+texting 0.1930171003504215
+faggot 1.4359667757355978
+
+
+@densonkeith most of these people are followers of followers of truth, but they themselves are still niggers... their outlook, mind & all.
+Truth:  0 Prediction:  1
+people 0.3463913335172432
+followers 0.23347504716394063
+followers 0.23347504716394063
+mind -0.027632960174561464
+
+
+@dinneny is out of his goddamn bird trying to say YoBurger is better than 5 guys
+Truth:  1 Prediction:  2
+goddamn -0.2292505235422369
+bird -1.174733324122988
+trying 0.1198469215663621
+say 0.4745780643749701
+better 0.39852422366171386
+guys 0.4530837929947565
+
+
+@discordianslip Alright, amateur grease monkey, show me how its done.
+
+Wait, that sounds racist...
+Truth:  1 Prediction:  0
+sounds 0.01244759432742127
+
+
+@discordianslip If you say one disparaging word about the Charlie Brown xmas special I will slash the tires on your car.
+Truth:  1 Prediction:  2
+say 0.4745780643749701
+word 0.23980921617833714
+special 1.081607381866447
+
+
+@dish_answers 
+You gots da BET and da MSNBC wit dat colored reverend who only listen to coloreds. What else I missing?
+Truth:  0 Prediction:  1
+gots 0.4320382569075951
+da 0.2883457964458534
+da 0.2883457964458534
+wit 0.2382431535017882
+dat 0.009315016227896282
+colored -0.28389117290973764
+listen 0.28205227672677746
+
+
+@djfeds suck my dick tacos el negro better
+Truth:  0 Prediction:  1
+suck 0.6660418269574417
+dick 0.05322664690210934
+negro 0.20565396616233328
+better 0.39852422366171386
+
+
+@drboycewatkins1 Coons and monkeys like you disgust me, you minstrel show negro. Crying about shit all the time you're a disgrace everywhere
+Truth:  0 Prediction:  1
+like 0.5028389664031451
+shit 0.0852342045401417
+time -0.13808008852493742
+
+
+@drew4130 @mailgal2000
+Y'all hire colored folk? Only work half da day and throw da mail in da sewer if we ain't done
+Truth:  0 Prediction:  2
+colored -0.28389117290973764
+work 0.35031579461108026
+half 0.13066172131340206
+da 0.2883457964458534
+day 0.16464629217203658
+throw -0.07981847726066267
+da 0.2883457964458534
+da 0.2883457964458534
+
+
+@dtholcomb32 they hv loads of cushion on the soles of them. They would feel good on ur dick.
+Truth:  1 Prediction:  2
+soles -0.6319205779186913
+feel -0.48473420273104934
+good -0.19427181231321922
+ur 0.42205846684227083
+
+
+@eanahS__ nips
+Truth:  2 Prediction:  1
+nips -0.3622024567251711
+
+
+@edwards_cait ghetto, driving a nice car, and not having to pay a lot for rent. I drive a Lexus, and pay little rent. Just saying.
+Truth:  2 Prediction:  1
+driving -0.7201048039665978
+nice -0.2794984576544577
+having 0.47329665551325883
+pay 0.31499710517571083
+lot 0.2225224097593066
+drive -0.4264571277178569
+pay 0.31499710517571083
+little 0.040951604285533925
+
+
+@ehasselbeck @bi_politics teaching that pretend son to b a pussy! his son would have LACE ON HIS JOCK STRAP!
+Truth:  0 Prediction:  1
+son 0.3614569100340005
+son 0.3614569100340005
+
+
+@el_prietito @lovexlilyy Them jigaboos aka homewreckers needs to get blocked!
+Truth:  0 Prediction:  1
+aka 0.7845587589339795
+needs 0.0046360961388382735
+
+
+@elchavaloko who cares tbh ones a shitty dirty Argentino & the other is a feather fisted nigger
+Truth:  0 Prediction:  1
+cares -0.1195168105646534
+tbh 0.5363270549948463
+ones -0.04178312450035297
+shitty 0.022765235518959204
+dirty 0.2807188000328167
+feather 0.4488843167497959
+nigger 1.3643913760519675
+
+
+@ellese97 your rhyming is ghetto
+Truth:  1 Prediction:  2
+ghetto -0.40453742194995845
+
+
+@emmysetter14 dayum saterlyt shoz un bayg ho-ul
+Truth:  2 Prediction:  1
+
+
+@erinscafe If I have to watch baseball I actually go for the Mets because Jon Stewart. And fuck the Yankees.
+Truth:  1 Prediction:  2
+watch 0.47357896208448413
+baseball -0.26095862174917833
+actually 0.07757264858080656
+fuck 0.5365394654006062
+
+
+@erinscafe We hate the Yankees though, right? I feel like I'm really good at hating them.
+Truth:  0 Prediction:  2
+hate 0.7153588754270559
+feel -0.48473420273104934
+like 0.5028389664031451
+really 0.08056930549788316
+good -0.19427181231321922
+hating 0.832429390823952
+
+
+@frankthetank215 @Jim_McCloskey Fran is a hillbilly Virginia mountain man who has pre-1800s white Anglo-Saxon beliefs #frankensteinMD #kikme
+Truth:  2 Prediction:  0
+hillbilly -0.15983124983370153
+man 0.0680505020400257
+white 1.678927894939801
+
+
+@fucktyler me too Tyler it just makes me think that they're lil nigger baby hoodrats.
+Truth:  0 Prediction:  1
+just -0.17333551668510047
+makes -0.16721744283966194
+think 0.08376745435776453
+lil -0.28975725996665497
+nigger 1.3643913760519675
+baby -0.2256611112537388
+
+
+@garrett_winker wow u hoe is the term for women
+Truth:  0 Prediction:  1
+wow 0.23536035486089782
+hoe -0.5267791739780862
+term 0.2544431724911998
+women 0.026152790273142622
+
+
+@gayle_ryan I don't hate the Japs. But, I AINT FORGETTING GETTIN JAPPED EITHER.
+Truth:  0 Prediction:  1
+hate 0.7153588754270559
+
+
+@gellebeaux_ whatever hoe bitch #1 them "fags" beat yall sad asses too
+Truth:  0 Prediction:  1
+hoe -0.5267791739780862
+bitch -1.1737034324910127
+beat 0.2432775834373389
+yall 0.3134987098852951
+sad -0.07663357882972795
+
+
+@georgiathenewsa you look like a welfare bitch compared to Latinas I date and fuck. You need fashion and makeup tips tbh
+Truth:  0 Prediction:  1
+look 0.1520649443469483
+like 0.5028389664031451
+bitch -1.1737034324910127
+date 0.6121877040667327
+need -0.1618409294459405
+tbh 0.5363270549948463
+
+
+@gezus__ @MANIAC3X @bam00se @Woody_AFC mean bro fucking faggot
+Truth:  0 Prediction:  1
+mean -0.042316468356492574
+bro 0.17453268978371975
+fucking 0.4849807942233571
+faggot 1.4359667757355978
+
+
+@ghostattics translation: "i like how i dont really have to think about it" or "i dont think queers deserve a happy ending"
+Truth:  1 Prediction:  0
+like 0.5028389664031451
+dont -0.3035789349468693
+really 0.08056930549788316
+think 0.08376745435776453
+dont -0.3035789349468693
+think 0.08376745435776453
+queers 2.158146837705591
+deserve 0.11617924406484452
+happy 0.423090285845484
+
+
+@grrizzIy @YUNGxSMBA the only place for a ho in the garden
+Truth:  1 Prediction:  2
+place 0.6090324374082834
+ho -0.2040001509791424
+
+
+@gusandrews HEY! I'M still on LambdaMOO. (and it really is empty, nobody to talk to except that asshole bird...)
+Truth:  1 Prediction:  2
+really 0.08056930549788316
+talk -0.33071209452315925
+asshole 0.5986148031144423
+
+
+@gvvenivere learn how to type ya hillbilly
+Truth:  0 Prediction:  2
+learn 0.7801006127832036
+type 0.2476376448000601
+ya -0.10142157512642622
+hillbilly -0.15983124983370153
+
+
+@hand_tex @drapermark37 humans are evil man. Cutting tusks of these beautiful animals so chinks think the get a hard on.
+Truth:  0 Prediction:  1
+evil 0.5799622049950471
+beautiful 0.20924118213126733
+think 0.08376745435776453
+hard -0.22738748141553972
+
+
+@haylebopp last year i had to explain why "queer theory" is the acceptable academic term
+Truth:  2 Prediction:  1
+year -1.0484004782092742
+term 0.2544431724911998
+
+
+@hekterr don't stop now half breed, I'm just starting to learn about what makes you a dumb ass
+Truth:  0 Prediction:  1
+stop -0.01505124569671464
+half 0.13066172131340206
+just -0.17333551668510047
+starting 0.8255540855365093
+learn 0.7801006127832036
+makes -0.16721744283966194
+dumb 0.36302595490075945
+ass 0.367339261928304
+
+
+@heyrmbr probs that fag Vhia
+Truth:  0 Prediction:  1
+fag 1.1079297183124235
+
+
+@hunterbuch66 @kieffer_jason @sbsylvester all u can pull is the fucking retard
+Truth:  0 Prediction:  1
+pull 0.1642196582902286
+fucking 0.4849807942233571
+retard 0.3656454677694235
+
+
+@hunterbuch66 @kieffer_jason @sbsylvester yo fat ugly ass couldn't even pull the ugly bitch in the school
+Truth:  0 Prediction:  1
+yo -0.08311104502955982
+fat 0.7483276481126211
+ugly 0.6627605333803737
+ass 0.367339261928304
+pull 0.1642196582902286
+ugly 0.6627605333803737
+bitch -1.1737034324910127
+school 0.5515527749144151
+
+
+@i2ose is it full of niggers
+Truth:  1 Prediction:  0
+niggers 2.0040266891774654
+
+
+@iGivePussyCPR monkey & his cigarette. He's dead serious 😂
+Truth:  1 Prediction:  2
+monkey -0.05943712381322144
+dead -0.9631620457310303
+
+
+@iNURSELISA @blackredsoxfan 
+It's a nice way of callin y'all honkies
+Truth:  0 Prediction:  2
+nice -0.2794984576544577
+way 0.15302015757305285
+callin 1.1935662900964235
+
+
+@ilovetmills faggot
+Truth:  1 Prediction:  0
+faggot 1.4359667757355978
+
+
+@iowahawkblog @jjauthor to ---->@DavidMasciotra get past boot camp, and go active a few years, see what we REALLY do daily you liberal pussy
+Truth:  0 Prediction:  1
+past 0.3887646463938813
+daily 0.19770172246793985
+pussy -1.0455825772296983
+
+
+@itsjaylaaa eat shit nigga bitch turd bag dick beetle
+Truth:  0 Prediction:  1
+eat -0.032562866628662375
+shit 0.0852342045401417
+nigga 0.8104597352843714
+bitch -1.1737034324910127
+bag 0.3117822968547034
+dick 0.05322664690210934
+
+
+@izzayy_bitches & 4th my guinea pig will haunt you
+Truth:  1 Prediction:  2
+pig 0.10651483112706199
+
+
+@jakiekoelewijn nigga who's bitch u fucking cracker get your gay ass out my mentions.
+Truth:  0 Prediction:  1
+nigga 0.8104597352843714
+bitch -1.1737034324910127
+fucking 0.4849807942233571
+cracker 0.7606261833077926
+gay 0.9598925035903995
+ass 0.367339261928304
+
+
+@jaredlikelndn monkey dong
+Truth:  1 Prediction:  2
+monkey -0.05943712381322144
+
+
+@jasonjwilde On that 4th down incompletion, both the slants looked like better options. Shame, but there’s a youth & lack of trust going on.
+Truth:  2 Prediction:  1
+looked -0.7489114313451736
+like 0.5028389664031451
+better 0.39852422366171386
+trust -0.5733092712337629
+going -0.12706409522021314
+
+
+@jayswaggkillah Is a fag
+Truth:  0 Prediction:  1
+fag 1.1079297183124235
+
+
+@jazqui That's why I'm partially glad that I have to say "Hi ho, Kermit the Frog here" to slip into my Kermit voice well.
+Truth:  2 Prediction:  1
+glad -0.4996336833536306
+say 0.4745780643749701
+voice -0.40629962991329516
+
+
+@jeffgill24 hey #teabagger Bohner said he got "98% of what he wanted" in sequester. You sound like a moron when everyone knows you are LYING
+Truth:  2 Prediction:  1
+hey -0.07371349778924698
+said 0.11424486521700694
+got -0.062089170577541715
+sound -0.1759646185985136
+like 0.5028389664031451
+knows 0.46644649330530275
+
+
+@jmellor432 fag
+Truth:  0 Prediction:  1
+fag 1.1079297183124235
+
+
+@joeylattime @Mawson38 @ameriC00N thats just me rooting against a team I hate not banwagoning u retard u have a different favorite
+Truth:  0 Prediction:  1
+thats 0.02793553333441663
+just -0.17333551668510047
+team 0.3831582279955549
+hate 0.7153588754270559
+retard 0.3656454677694235
+different 0.2830265878289989
+favorite 0.20086358316737718
+
+
+@josh_helton Xbox live fags
+Truth:  1 Prediction:  0
+live 0.37500594802180137
+fags 1.6962384849634629
+
+
+@joshgnf @brana_nv @define808 @ironbjk @mrjstn oh shut up faggot get a disease overused on twitter
+Truth:  0 Prediction:  1
+oh 0.3711238995705644
+shut 0.32658996359456693
+faggot 1.4359667757355978
+twitter -0.027876818095968196
+
+
+@jumpmastere8 @dmcgowen1776 @visitorvisiting its retarded
+Truth:  0 Prediction:  1
+retarded 0.5092099056639494
+
+
+@just_joshin7 fag.
+Truth:  0 Prediction:  1
+
+
+@kathleenparker of the washington post to call the President ignorant I ask you racist ,angry ,bitter, bitch look in the mirror!!!!!!!!!!!
+Truth:  1 Prediction:  0
+post 0.28943521985157517
+ignorant 1.3258138804209318
+ask -0.011146776462943644
+racist 1.5512060307133109
+bitch -1.1737034324910127
+look 0.1520649443469483
+
+
+@kcSnowWhite7 @SamSaunders42 don't forget nappy headed, butt ugly bitch, who's married to a Muslim
+Truth:  0 Prediction:  1
+forget -0.16093921150419133
+butt 0.671680993813399
+ugly 0.6627605333803737
+married 0.7476142899028181
+
+
+@keltor_wade nah dude mostly just sound like a faggot
+Truth:  0 Prediction:  1
+nah -0.02773148346719189
+dude 0.0939034795606719
+just -0.17333551668510047
+sound -0.1759646185985136
+like 0.5028389664031451
+faggot 1.4359667757355978
+
+
+@kfocht735 Nope - got lucky - some washing on the slopes, gonna make it a little rough combining but feeling very fortunate today
+Truth:  2 Prediction:  1
+got -0.062089170577541715
+lucky -0.8007449592133542
+gonna 0.10243193729449275
+make 0.06236581429749861
+little 0.040951604285533925
+feeling 0.379864397757186
+today -0.12041408688824834
+
+
+@kieffer_jason @hunterbuch66 @sbsylvester u fucking trailer trash
+Truth:  1 Prediction:  0
+fucking 0.4849807942233571
+trailer 1.2435123998501276
+trash 0.08355239262464437
+
+
+@kieffer_jason @zach_smith98 @NathannDevlin so why the fuck are still talking shit. You acting like a pussy ass nigga
+Truth:  0 Prediction:  1
+fuck 0.5365394654006062
+talking 0.3160738037907903
+acting 0.5370865999712774
+like 0.5028389664031451
+pussy -1.0455825772296983
+ass 0.367339261928304
+nigga 0.8104597352843714
+
+
+@kieffer_jason bitch was i talking to u stfu and get off my page oh bitch nigga u bout that life
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+talking 0.3160738037907903
+stfu 0.21318624438034753
+page 0.13178768824336767
+oh 0.3711238995705644
+bitch -1.1737034324910127
+nigga 0.8104597352843714
+bout -0.015157262476508225
+life 0.12964083556097986
+
+
+@kieffer_jason here let me say it more clearly since your retarded ass don't understand
+Truth:  0 Prediction:  1
+let -0.2998738239022173
+say 0.4745780643749701
+clearly 0.3424408442123511
+retarded 0.5092099056639494
+ass 0.367339261928304
+understand 0.09259245368123215
+
+
+@kieffer_jason how would u know if I don't fuck with you? Exactly you don't wtf I got shut your retarded ass up
+Truth:  0 Prediction:  1
+know 0.15803041462717224
+fuck 0.5365394654006062
+wtf -0.40564846814195066
+got -0.062089170577541715
+shut 0.32658996359456693
+retarded 0.5092099056639494
+ass 0.367339261928304
+
+
+@kieffer_jason lmao why ur dad raised u to be a bitch made nigga
+Truth:  0 Prediction:  1
+lmao 0.13467259093907688
+ur 0.42205846684227083
+dad 0.56102295277827
+raised 0.34549989249815377
+bitch -1.1737034324910127
+nigga 0.8104597352843714
+
+
+@kieffer_jason oh am I lame but yo pussy ass didn't show up the fuck u talking bout oh scary ass white boy
+Truth:  0 Prediction:  1
+oh 0.3711238995705644
+lame 0.2998459609037306
+yo -0.08311104502955982
+pussy -1.0455825772296983
+ass 0.367339261928304
+fuck 0.5365394654006062
+talking 0.3160738037907903
+bout -0.015157262476508225
+oh 0.3711238995705644
+scary 0.533121763355212
+ass 0.367339261928304
+white 1.678927894939801
+boy -0.051263028783320494
+
+
+@kieffer_jason oh but I am and my grades say other wise so u can stfu and get off my Twitter or u can box simple ass that pussy boy
+Truth:  0 Prediction:  1
+oh 0.3711238995705644
+say 0.4745780643749701
+stfu 0.21318624438034753
+box 0.39924033463079756
+simple 0.4383224003349483
+ass 0.367339261928304
+pussy -1.0455825772296983
+boy -0.051263028783320494
+
+
+@kieffer_jason your so fucking retared its not even funny bitch im going to sleep u
+Truth:  0 Prediction:  1
+fucking 0.4849807942233571
+funny 0.28271664444001493
+bitch -1.1737034324910127
+im 0.022301873299480857
+going -0.12706409522021314
+sleep -0.10807602028395003
+
+
+@kiela_g_3 😂😂Alright fag what about this? 
+Truth:  0 Prediction:  1
+fag 1.1079297183124235
+
+
+@kincade00 shut up bitch for I spit on you
+Truth:  0 Prediction:  1
+shut 0.32658996359456693
+bitch -1.1737034324910127
+spit 0.559493448833656
+
+
+@kingxxlopez Roberts is a fuckin fag😂 smack the shit outta him
+Truth:  0 Prediction:  1
+fuckin 0.28967358437403984
+smack 0.0942172425729588
+shit 0.0852342045401417
+outta 0.6351170670774035
+
+
+@kitten_nugget69 stfu dyke looking hoe.
+Truth:  0 Prediction:  1
+stfu 0.21318624438034753
+dyke 1.342297186544402
+looking 0.2661122852060117
+
+
+@kittty_jpg @SteeZeyFLOW @nosfiend215 at least im not black bitch your parents left you in the mcdonalds parking lot after you were born
+Truth:  0 Prediction:  1
+im 0.022301873299480857
+black 0.4551960182374316
+bitch -1.1737034324910127
+parents 0.4647278509973491
+left 0.1923741452735141
+lot 0.2225224097593066
+born 0.5129095768638335
+
+
+@kliontiii @yfly23 lol tell Liv none of her usual redneck hillbilly places an none of ur black gangsta places either
+Truth:  1 Prediction:  2
+lol -0.20493756194254492
+tell -0.04759826196915343
+redneck 0.3065818874763852
+hillbilly -0.15983124983370153
+ur 0.42205846684227083
+black 0.4551960182374316
+
+
+@klvyupthatsm3 @Huntermoore ew you look like a cheap tranny hooker
+Truth:  1 Prediction:  2
+look 0.1520649443469483
+like 0.5028389664031451
+cheap -0.45780189468428517
+tranny 0.3137140891190188
+
+
+@kmdk83 @BeautifulMined
+I hopes dis ain't cause he colored cause I knows he be actin all nigga like
+Truth:  0 Prediction:  1
+dis 0.33905154238279395
+cause -0.13022506233495068
+colored -0.28389117290973764
+cause -0.13022506233495068
+knows 0.46644649330530275
+actin 0.1379458458979925
+nigga 0.8104597352843714
+like 0.5028389664031451
+
+
+@kristin12909 better nig. Lol but if anything ill flip u the 10 or something. Im tryna get some more cash
+Truth:  0 Prediction:  1
+better 0.39852422366171386
+ill 0.40221220490350224
+flip 0.04341618357455534
+10 0.3366708212451453
+tryna -0.09046026614326096
+cash 0.9796651052253446
+
+
+@ktpowers98 @WendyDavisTexas Ha Ha Ha no good fat dyke
+Truth:  0 Prediction:  1
+good -0.19427181231321922
+fat 0.7483276481126211
+dyke 1.342297186544402
+
+
+@leetreble_ quit bitching faggot, happy you cant see your faggot family cry baby little girl crying in the parking lot, you aint a man sissy
+Truth:  0 Prediction:  1
+quit 0.18167947751580277
+happy 0.423090285845484
+faggot 1.4359667757355978
+family 0.26195262557546695
+baby -0.2256611112537388
+little 0.040951604285533925
+girl -0.34488645426317976
+crying 0.4808253472129046
+aint 0.27894371596801587
+man 0.0680505020400257
+
+
+@leiacatherinexx don’t be a hurt little faggot
+Truth:  0 Prediction:  1
+hurt 0.25434074041975124
+little 0.040951604285533925
+faggot 1.4359667757355978
+
+
+@lilimaeee nigger
+Truth:  1 Prediction:  0
+nigger 1.3643913760519675
+
+
+@lnsightful @zT_Supreme @uncr4fted @yoPapi_chulo omg no plz stop calling me an idiot... are we in kindergarden you fucking faggot
+Truth:  0 Prediction:  1
+omg 0.04304696431301286
+plz 0.10066150078172606
+stop -0.01505124569671464
+calling 0.2167273692545969
+fucking 0.4849807942233571
+faggot 1.4359667757355978
+
+
+@lord_jonesss none of my business ? Nigga if you get that I'm living with you lol and I'm stealing one of them bitches and 100k 🐸☕️
+Truth:  0 Prediction:  1
+business 0.6236496832942959
+living -0.1530830142404709
+lol -0.20493756194254492
+stealing 0.8550092357555902
+bitches -1.1570657683490801
+
+
+@lucioxnava how about darkskin dykes?
+Truth:  1 Prediction:  2
+
+
+@luvvida You're right.. I be around my nig....
+Truth:  0 Prediction:  1
+
+
+@m_gast faggot
+Truth:  1 Prediction:  0
+faggot 1.4359667757355978
+
+
+@maggie_burdis @nickgoldapp lmao dude you are probably the biggest fag in nebraska 😂😂😂😂😂
+Truth:  0 Prediction:  1
+lmao 0.13467259093907688
+dude 0.0939034795606719
+probably -0.026873081206891018
+biggest 0.3450718906233584
+fag 1.1079297183124235
+
+
+@marclamonthill will you mention why being called nigger is wrong(witch i agree with) & bossy is wrong.but being called a pimp is still ok?
+Truth:  0 Prediction:  1
+called -0.41619733568124584
+nigger 1.3643913760519675
+agree 0.9133100268475396
+called -0.41619733568124584
+
+
+@marylene58 @sunflower1790 @shelliecorreia @Jan4USA no just a niggress that thinks she's human.
+Truth:  0 Prediction:  2
+just -0.17333551668510047
+thinks 0.2100837975554969
+
+
+@max_dashevsky u and taber the shit coon
+Truth:  1 Prediction:  0
+shit 0.0852342045401417
+coon 1.3085206753071035
+
+
+@mayhemmiller faggot
+Truth:  1 Prediction:  0
+faggot 1.4359667757355978
+
+
+@mayormcginn @usmayors @SenFeinstein White people need those weapons to defend themselves from the subhuman trash your sort unleashes on us.
+Truth:  2 Prediction:  0
+people 0.3463913335172432
+need -0.1618409294459405
+trash 0.08355239262464437
+
+
+@midgetmadz shut your dirty dirt trap you limp knees, ashy footed, blue balls, isolated hamster wheel, no nipples bitch
+Truth:  0 Prediction:  1
+shut 0.32658996359456693
+dirty 0.2807188000328167
+dirt 0.5103072514976567
+trap 0.5112938350512082
+blue -0.24884444345372295
+bitch -1.1737034324910127
+
+
+@mike_ray7 congratulations, you are officially fucking retarded.
+Truth:  0 Prediction:  1
+fucking 0.4849807942233571
+
+
+@mikeoe7765 That talentless skag IS a wardrobe malfunction.
+Truth:  1 Prediction:  2
+
+
+@milfmob @yoPapi_chulo fight me you fucking obese niglet
+Truth:  0 Prediction:  1
+fight 0.10626217776724291
+fucking 0.4849807942233571
+
+
+@miranda_mills okay, let's fight you ginger faggot
+Truth:  0 Prediction:  1
+fight 0.10626217776724291
+faggot 1.4359667757355978
+
+
+@mistaturk5 @DaUnfuqwitable1 nigga chill throw me in the jungle watch me come out with a gorilla monkey cheetah coat
+Truth:  1 Prediction:  2
+nigga 0.8104597352843714
+chill 0.39463880932473006
+throw -0.07981847726066267
+watch 0.47357896208448413
+come -0.097010052218246
+monkey -0.05943712381322144
+
+
+@moneydriven I see a picture of you smoking, such a man of god. Disgraceful nig, you sir, are an embarrassment.
+Truth:  0 Prediction:  1
+picture 0.4205446022465894
+man 0.0680505020400257
+
+
+@mrfoolycooly @DM___3 faggot alert
+Truth:  1 Prediction:  0
+faggot 1.4359667757355978
+
+
+@mrgeology no you ignorant cement headed hillbilly. You said taxing. Cant you fuckin read you fucking knob gobbling douchebag
+Truth:  0 Prediction:  1
+ignorant 1.3258138804209318
+headed 0.247825235144697
+said 0.11424486521700694
+fuckin 0.28967358437403984
+read 0.45026030482450624
+fucking 0.4849807942233571
+
+
+@nCrusade @GodManiac_ come wage with us fag
+Truth:  0 Prediction:  1
+come -0.097010052218246
+fag 1.1079297183124235
+
+
+@oVoshubham No the fuck am not bitch how bout u get out there bitch ass Nigga stupid ass
+Truth:  0 Prediction:  1
+fuck 0.5365394654006062
+bitch -1.1737034324910127
+bout -0.015157262476508225
+bitch -1.1737034324910127
+ass 0.367339261928304
+stupid 0.7283111283686275
+ass 0.367339261928304
+
+
+@okoruoni You're trash.
+Truth:  1 Prediction:  2
+
+
+@oliviagobert lmao yes I kind of like it it's not that ghetto yet & they are and then he says "u feel me" 😍😍😭💦
+Truth:  2 Prediction:  1
+lmao 0.13467259093907688
+yes 0.23557747019262026
+kind -0.654763130577093
+like 0.5028389664031451
+ghetto -0.40453742194995845
+says -0.3516174907653214
+feel -0.48473420273104934
+
+
+@onIinebaby I knew you were a faggot though
+Truth:  0 Prediction:  1
+knew 0.08513711695120797
+faggot 1.4359667757355978
+
+
+@passIt2Liv Hit a bitch it's not like you can see the bruises
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+like 0.5028389664031451
+
+
+@patrickkimmis @White1979 Remember Dad running a rotary hoe over corn after a freeze to knock the dead leaves off after they turn brown
+Truth:  2 Prediction:  1
+running 0.4223584127730877
+hoe -0.5267791739780862
+knock -0.07706560670039696
+dead -0.9631620457310303
+turn 0.17293704120191072
+brown -0.4172278054019676
+
+
+@percolate @kcraigwell what's next? fingers in dykes?
+Truth:  1 Prediction:  2
+
+
+@phishlicia I'm 5'8 fag 😘😘
+Truth:  0 Prediction:  1
+fag 1.1079297183124235
+
+
+@phreshagu_25 yeah you right and you know them Mexicans bringing all they family that hoe finna be packed
+Truth:  0 Prediction:  1
+yeah 0.01144113250731393
+right 0.28582506699350607
+know 0.15803041462717224
+family 0.26195262557546695
+hoe -0.5267791739780862
+finna 0.157179324391707
+
+
+@pistol_pete96 @ZP3_ fuck y'all if you doubt me, I'm a piece of white trash I say it proudly
+Truth:  1 Prediction:  0
+fuck 0.5365394654006062
+doubt 0.49956749595847505
+piece 0.2498515249021209
+white 1.678927894939801
+trash 0.08355239262464437
+say 0.4745780643749701
+
+
+@pombuenaa I'm surprised you could read it with slits for eyes
+Truth:  0 Prediction:  2
+surprised 0.11670876026506359
+read 0.45026030482450624
+eyes 0.5903856951802517
+
+
+@potpwincess @longbongchris she's a dyke
+Truth:  1 Prediction:  0
+dyke 1.342297186544402
+
+
+@rasheedibrahim_ once it gets cold yall gonna be trash again lol
+Truth:  2 Prediction:  1
+gets -0.42854919806809466
+cold -0.030801990933178064
+yall 0.3134987098852951
+gonna 0.10243193729449275
+trash 0.08355239262464437
+lol -0.20493756194254492
+
+
+@realDonaldTrump he looks like reg. Memphis,tn. trash! we got them everywhere.
+Truth:  0 Prediction:  2
+looks 0.14423042700636032
+like 0.5028389664031451
+got -0.062089170577541715
+
+
+@red_is_raw lol yeah birds be chirping outside. Bastards.
+Truth:  1 Prediction:  2
+lol -0.20493756194254492
+yeah 0.01144113250731393
+birds -0.8219733303413302
+
+
+@salsteelo @VictorLeaChavez that nigga Vic acting like he yellow bone with 15k followers and can't answer a nigga phone
+Truth:  1 Prediction:  2
+nigga 0.8104597352843714
+acting 0.5370865999712774
+like 0.5028389664031451
+yellow -0.8998551873832621
+bone -0.33284432278627507
+followers 0.23347504716394063
+answer -0.13994054811219048
+nigga 0.8104597352843714
+phone -0.05131591794354279
+
+
+@samzbikowski Cody is ALWAYS calling people "nigger". He's a fucking spaz!
+Truth:  0 Prediction:  1
+calling 0.2167273692545969
+people 0.3463913335172432
+fucking 0.4849807942233571
+
+
+@samzbikowski some negro amigo pulled a gun on Nate and I a few weeks ago. I was STOKED!🔫🔫🔫
+Truth:  0 Prediction:  1
+negro 0.20565396616233328
+gun 0.4864556604362226
+weeks 0.4287184219047014
+
+
+@sarahVICwood im going to murder that fucking cunt
+Truth:  0 Prediction:  1
+im 0.022301873299480857
+going -0.12706409522021314
+fucking 0.4849807942233571
+cunt 0.3085744200599597
+
+
+@sassyharryballs ugly white bitch
+Truth:  0 Prediction:  1
+ugly 0.6627605333803737
+white 1.678927894939801
+bitch -1.1737034324910127
+
+
+@sassyharryballs ur ballsack is hairy gtfo tranny prude bitch
+Truth:  0 Prediction:  1
+ur 0.42205846684227083
+hairy 0.5095161168991361
+tranny 0.3137140891190188
+bitch -1.1737034324910127
+
+
+@sbsylvester @kieffer_jason @hunterbuch66 bitch u ugly then hoe
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+ugly 0.6627605333803737
+hoe -0.5267791739780862
+
+
+@secretasianman @kitt Yeah, she's a real pom maven.
+Truth:  2 Prediction:  1
+real -0.2678422051546069
+
+
+@shaelynspacyyy they trash though?
+Truth:  1 Prediction:  2
+trash 0.08355239262464437
+
+
+@shefeelsD_Payne hell naw he ain't he the star of that team lol but I'm sure that white honkey called him a nigga
+Truth:  0 Prediction:  1
+hell -0.035527735788486045
+naw 0.34824025404586145
+star 0.6856898445909271
+team 0.3831582279955549
+lol -0.20493756194254492
+sure -0.04380813163869448
+white 1.678927894939801
+honkey 0.27608210227241625
+called -0.41619733568124584
+nigga 0.8104597352843714
+
+
+@sho_time_ @MitchVorce chill ur pussy gay af
+Truth:  0 Prediction:  1
+chill 0.39463880932473006
+ur 0.42205846684227083
+pussy -1.0455825772296983
+gay 0.9598925035903995
+af 0.7098701651762828
+
+
+@sizzurp__ @bootyacid @ILIKECATS74 @yoPapi_chulo i bet you are, faggot.
+Truth:  1 Prediction:  0
+bet 0.3701903880422783
+
+
+@sizzurp__ @bootyacid @ILIKECATS74 @yoPapi_chulo yeah ok nigger.
+Truth:  0 Prediction:  1
+yeah 0.01144113250731393
+ok 0.1649242429787343
+
+
+@skinheadrob shut up faggot
+Truth:  1 Prediction:  0
+shut 0.32658996359456693
+faggot 1.4359667757355978
+
+
+@skrabah Don't my nigga me honkie
+Truth:  0 Prediction:  1
+nigga 0.8104597352843714
+
+
+@sramirez07943 you're failing at that and you don't know where I live faggot
+Truth:  1 Prediction:  0
+know 0.15803041462717224
+live 0.37500594802180137
+faggot 1.4359667757355978
+
+
+@stevoburns561 @ImSwaveyNShit @FreddieGibbs Soft shit? Are you handicapped or retarded?
+Truth:  0 Prediction:  1
+
+
+@summerdawn_1996 #NudesAreMyLife omfg that's mine faggot
+Truth:  1 Prediction:  0
+faggot 1.4359667757355978
+
+
+@teeritz So six martinis before passing out on the couch after watching Euro-trash into the wee hours. Got it.
+Truth:  1 Prediction:  2
+watching -0.1276973847861242
+
+
+@therealjuicyj @ProjectPatHcp yea ho
+Truth:  2 Prediction:  1
+yea -0.28893393536723977
+ho -0.2040001509791424
+
+
+@tjdunn23 you're such a darkie.
+Truth:  1 Prediction:  2
+
+
+@tkdfighter 
+He gotta be colored
+Truth:  1 Prediction:  2
+gotta 0.16284162119339676
+colored -0.28389117290973764
+
+
+@tori_mills02 I believe that you fuckin can punk nigga bitch😈💪
+Truth:  0 Prediction:  1
+believe 0.38482523367683324
+fuckin 0.28967358437403984
+punk 0.513503435828658
+nigga 0.8104597352843714
+
+
+@tracieeeeee wha? me? i'm just waiting for showtime to bring back queer as folk.
+Truth:  2 Prediction:  1
+just -0.17333551668510047
+waiting -0.3850473089213425
+bring -0.1904402633256316
+queer 1.0963486596260332
+
+
+@triple6em96 @Hunglikerobby_ bitch you watch your fucking mouth you dirty whore. I swear to god that's a thin line
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+watch 0.47357896208448413
+fucking 0.4849807942233571
+mouth 0.5110265389710993
+dirty 0.2807188000328167
+swear -0.376091154366244
+god 0.19967931488596927
+line -0.18871272096218447
+
+
+@true_east_ @TroyMadden yall trash but @thEMANacho cold
+Truth:  1 Prediction:  2
+yall 0.3134987098852951
+trash 0.08355239262464437
+cold -0.030801990933178064
+
+
+@truuueee_ that bitch done.. have it to u on Sunday my nigga
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+nigga 0.8104597352843714
+
+
+@tyler_smith55 your talking to every hick in San Antonio I ride with a big 45 in the console
+Truth:  1 Prediction:  2
+talking 0.3160738037907903
+hick 0.06418731863617441
+ride -0.07026566081740807
+big -0.4664006934787208
+
+
+@valeriaaa_111 nigger
+Truth:  1 Prediction:  0
+nigger 1.3643913760519675
+
+
+@valonfox13 not no but hell no, when blk. stop sayin nigger I will, what they can have I can have. this is america
+Truth:  0 Prediction:  1
+hell -0.035527735788486045
+stop -0.01505124569671464
+sayin 0.14755215046684506
+nigger 1.3643913760519675
+america 0.9162132938676583
+
+
+@vernon1488 town . At a movie with friends. I stabbed a nig 3 times and got sent to prison. Justice?
+Truth:  0 Prediction:  1
+town -0.33951663815719596
+movie 0.46069740166708634
+nig 0.8830038991400142
+times 0.038654700126384174
+got -0.062089170577541715
+
+
+@vh1ADENECA @260chocolate @4Sunshinejones1 aye, I respect ya hustle and all but dont tweet me anymore trash ass videos...thank u kindly
+Truth:  2 Prediction:  1
+respect 0.320081922698908
+ya -0.10142157512642622
+dont -0.3035789349468693
+tweet 0.3998588028029356
+anymore -0.3147062877630413
+trash 0.08355239262464437
+ass 0.367339261928304
+
+
+@vinny2vicious faggot I knew you weren't really my friend.
+Truth:  0 Prediction:  1
+faggot 1.4359667757355978
+knew 0.08513711695120797
+really 0.08056930549788316
+
+
+@vj44 did I mention you are an ugly cunt? Go back to Iran.
+Truth:  0 Prediction:  1
+did -0.10448360482728625
+ugly 0.6627605333803737
+
+
+@white_thunduh my bitch dont want your ugly ass gtfo ol peyton manning lookin ass
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+dont -0.3035789349468693
+want 0.2000722192012721
+ugly 0.6627605333803737
+ass 0.367339261928304
+ol 0.5713708212788462
+lookin 0.20591106204658932
+ass 0.367339261928304
+
+
+@whiteangelss84 y dont u end us monkeys then? U hate us because were better than crackers & I love it. Deep down u know weve done nothin 2 u
+Truth:  0 Prediction:  2
+dont -0.3035789349468693
+end -0.056773915712426515
+hate 0.7153588754270559
+better 0.39852422366171386
+crackers 0.27515758788859607
+love -0.14168359906120426
+know 0.15803041462717224
+nothin 0.43988623949588584
+
+
+@who__CHRISJONES @WhyYouSoShort who is dis crack ass cracker
+Truth:  0 Prediction:  1
+dis 0.33905154238279395
+crack 0.05028021368912992
+ass 0.367339261928304
+cracker 0.7606261833077926
+
+
+@whoelsebutkey you just a dark ie my nig.. It's ok..
+Truth:  1 Prediction:  0
+just -0.17333551668510047
+dark 0.9477613867348874
+
+
+@wutkarina Alright fag
+Truth:  0 Prediction:  1
+fag 1.1079297183124235
+
+
+@xZimpx @Prophzilla This is Twitter. Not only are you a fag but you're also retarded.
+Truth:  0 Prediction:  1
+fag 1.1079297183124235
+
+
+@xcorey21 uh you're trash. 😘
+Truth:  1 Prediction:  2
+uh -0.44710176496989557
+
+
+@yaboysloth you pissing in my trash can again?
+Truth:  1 Prediction:  2
+trash 0.08355239262464437
+
+
+@yawlknow @HoskinsTy96 "all of these rednecks and none of them can keep the fire lit" 😂😂
+Truth:  0 Prediction:  1
+rednecks 0.9239766046311143
+
+
+@yeaThtsMyBitch trash
+Truth:  1 Prediction:  2
+trash 0.08355239262464437
+
+
+@zfunk007 I like how his tattoo on his head forms a mullet. White trash people can be so entertaining sometimes
+Truth:  1 Prediction:  0
+like 0.5028389664031451
+head 0.0607736302022471
+trash 0.08355239262464437
+people 0.3463913335172432
+
+
+@zhandlen I love WHITE NOISE and love Delillo. I’ve resisted reading HOUSE OF LEAVES for years. It mocks me on my shelf.
+Truth:  2 Prediction:  1
+love -0.14168359906120426
+love -0.14168359906120426
+
+
+@zlyouell @SpongeBobVlnes dyke ron👭👯😂
+Truth:  1 Prediction:  0
+dyke 1.342297186544402
+
+
+A guy claiming to be Republican called C-Span news and said "Republicans hate that nigger Obama" 
+Truth:  0 Prediction:  1
+guy -0.2396253094194241
+called -0.41619733568124584
+news 0.2887085748335198
+said 0.11424486521700694
+hate 0.7153588754270559
+nigger 1.3643913760519675
+
+
+A nicca say he ballin ask em where his title n his deeds at not wher his clothes n his keys at
+Truth:  0 Prediction:  1
+nicca 0.12086333897546726
+say 0.4745780643749701
+ask -0.011146776462943644
+em -0.40439481287648266
+clothes 0.7130332011480313
+
+
+AND #NorthKorea called #Barack a monkey. LOL! 
+RT! 
+*If the shoe fits! 'Cause it sure looks like he married one! 
+
+Truth:  2 Prediction:  1
+called -0.41619733568124584
+sure -0.04380813163869448
+looks 0.14423042700636032
+like 0.5028389664031451
+married 0.7476142899028181
+
+
+Absolutely absurd that they even had to think about that call. #joke #zebras
+Truth:  2 Prediction:  1
+think 0.08376745435776453
+
+
+Accept your flaws and imperfections because that's what makes you, YOU! See I'm a fuck, small dick faggot with parents who don't love me.
+Truth:  0 Prediction:  1
+makes -0.16721744283966194
+small 0.20406816575579603
+dick 0.05322664690210934
+faggot 1.4359667757355978
+parents 0.4647278509973491
+love -0.14168359906120426
+
+
+Ain't no love in the ghetto 💔
+Truth:  2 Prediction:  1
+love -0.14168359906120426
+ghetto -0.40453742194995845
+
+
+Ain't shit like fucking another nigga bitch and askin her "who pussy is this" and she say yours lmao no bitch im stealing this pussy lol
+Truth:  0 Prediction:  1
+shit 0.0852342045401417
+like 0.5028389664031451
+fucking 0.4849807942233571
+nigga 0.8104597352843714
+bitch -1.1737034324910127
+pussy -1.0455825772296983
+say 0.4745780643749701
+lmao 0.13467259093907688
+bitch -1.1737034324910127
+im 0.022301873299480857
+stealing 0.8550092357555902
+pussy -1.0455825772296983
+lol -0.20493756194254492
+
+
+All da lil bald headed bitches standn outside of kevin gates tryna get in 😂😂😂
+Truth:  0 Prediction:  1
+da 0.2883457964458534
+lil -0.28975725996665497
+bald 0.8731970097664568
+headed 0.247825235144697
+bitches -1.1570657683490801
+outside 0.5042833111674585
+tryna -0.09046026614326096
+
+
+All you muzzy lovers need to do one thing. Tell muzzies in the mideast to leave Israel alone. Don't start no shit won't be no shit. #Israel
+Truth:  0 Prediction:  1
+need -0.1618409294459405
+leave 0.23873263784272544
+start -0.11694047847645396
+shit 0.0852342045401417
+
+
+All you ofay got left is da Oscars. Better Enjoy dat before us colored folk get dat too!
+Truth:  1 Prediction:  2
+got -0.062089170577541715
+left 0.1923741452735141
+da 0.2883457964458534
+dat 0.009315016227896282
+colored -0.28389117290973764
+folk 0.3833474709883842
+dat 0.009315016227896282
+
+
+Allergies have my eyes all red and chink eyed, I look like I'm stoned
+Truth:  1 Prediction:  0
+eyes 0.5903856951802517
+red -0.48656512251500994
+chink 1.512518776457173
+look 0.1520649443469483
+like 0.5028389664031451
+
+
+Almost everyone I met in #Paris was absolute trash. And if they support a republican government, I hope they fucking die.
+Truth:  1 Prediction:  0
+met -0.6792402498468105
+support 0.7493906285474796
+republican 0.08366556624778816
+hope 0.4030925449027971
+fucking 0.4849807942233571
+
+
+Almost got to see a white boy get beat around today, but he ran like a bitch.
+Truth:  0 Prediction:  1
+got -0.062089170577541715
+white 1.678927894939801
+boy -0.051263028783320494
+beat 0.2432775834373389
+ran 0.32315590495066704
+like 0.5028389664031451
+
+
+Already more yellows than the last 2 years combined #IndyCar #Honda200
+Truth:  0 Prediction:  2
+years 0.5365684567261455
+
+
+Alright ya faggots. Lets just stop with all the S/O and R/T. No one gives a fuck on what you think of other people. Probably lying anyways
+Truth:  0 Prediction:  1
+ya -0.10142157512642622
+just -0.17333551668510047
+stop -0.01505124569671464
+fuck 0.5365394654006062
+think 0.08376745435776453
+lying -0.15282143091290706
+anyways 0.4179280856424331
+
+
+And I wanna say something SOOOOOO bad to these two cunts on Twitter eh..
+Truth:  0 Prediction:  1
+wanna -0.5164808928837503
+say 0.4745780643749701
+bad -0.26068372324490696
+cunts 0.33959846855966785
+
+
+Ankles 💀😂“@Saina_faal: “@martian_Mulah: Hood bitches with long weave is the worst thing ever” weave that be touching their ashy ankles 😷”
+Truth:  0 Prediction:  1
+bitches -1.1570657683490801
+long -0.31899969971151754
+weave 0.4037792502673988
+worst -0.0015995425098552654
+thing 0.47519773629962614
+weave 0.4037792502673988
+
+
+Annnnd you're a dyke. ✋
+Truth:  1 Prediction:  0
+
+
+Anyone want to share their thoughts on their mock draft?? Just kidding. SHUT YOUR FILTHY DAMNED MOUTH, YOU CLODS.
+Truth:  1 Prediction:  2
+want 0.2000722192012721
+share 0.28322358814570303
+mock -0.6612613337001628
+
+
+Apaches' 30 MM rounds turn Jihadis into tomato soup @MarkRothschild1 @Rockprincess818 @NoFear3136 @Lanna70115
+Truth:  0 Prediction:  2
+30 0.009859992246194842
+turn 0.17293704120191072
+
+
+Apparently im a honky. Pfft. Like that's a bad thing.
+Truth:  2 Prediction:  1
+im 0.022301873299480857
+bad -0.26068372324490696
+
+
+Are poor little guinea pig died :(
+Truth:  2 Prediction:  1
+poor 0.0882831563317103
+little 0.040951604285533925
+pig 0.10651483112706199
+died 0.43755865375587855
+
+
+As soon as we left Iraq all these towel heads think they can fucking barge in and take over what we worked so hard to set up. Pisses me off.
+Truth:  0 Prediction:  1
+soon 0.48815541394208484
+left 0.1923741452735141
+heads 0.6798419100330125
+think 0.08376745435776453
+fucking 0.4849807942233571
+worked -0.16672147506846544
+hard -0.22738748141553972
+set -0.09648880410179632
+
+
+Ask the governor how we are supposed to pay for this? Typical #teabagger mentality. Government is EVIL until we need them LOL #morningjoe
+Truth:  2 Prediction:  1
+supposed -0.11241795298281307
+pay 0.31499710517571083
+need -0.1618409294459405
+
+
+At pussy cat lounge killin it with my girlz @blaqdior and @hpmiss
+Truth:  2 Prediction:  1
+pussy -1.0455825772296983
+cat -0.7205906271542879
+killin -0.24436496605666722
+
+
+August alsina : ghetto 💞
+Truth:  1 Prediction:  2
+ghetto -0.40453742194995845
+
+
+Awk... U don't like your own nephew / cousins bc our race.. LMAO broke ugly bitches fuck them we don't need them
+Truth:  0 Prediction:  1
+like 0.5028389664031451
+bc 0.3020225824074971
+broke -0.2512382355484593
+ugly 0.6627605333803737
+bitches -1.1570657683490801
+fuck 0.5365394654006062
+need -0.1618409294459405
+
+
+Aye a nicca is tired tho!
+Truth:  2 Prediction:  1
+nicca 0.12086333897546726
+tired 0.11954586002626379
+
+
+Ayy Carlton is a ghetto school now #SwitchedAtBirth
+Truth:  0 Prediction:  1
+ghetto -0.40453742194995845
+school 0.5515527749144151
+
+
+Bae made me deep fried Oreos 😋
+Truth:  1 Prediction:  2
+deep 0.31077763230818084
+fried -0.8323557360001442
+
+
+Bald head bitches think it's their time to prosper !
+Truth:  0 Prediction:  1
+head 0.0607736302022471
+bitches -1.1570657683490801
+think 0.08376745435776453
+time -0.13808008852493742
+
+
+Bbl gonna go sob over gay bird babies.
+Truth:  1 Prediction:  2
+gonna 0.10243193729449275
+gay 0.9598925035903995
+bird -1.174733324122988
+
+
+Because of the message that sends to LGBTQ residents in the state. Not as if West Virginia is a paradise for queer people. Today is major.
+Truth:  1 Prediction:  2
+message -0.46293233358868807
+queer 1.0963486596260332
+
+
+Been Huntin hard and finally nailed her. Best wedding koozie I've ever seen. #redneck 
+Truth:  2 Prediction:  1
+hard -0.22738748141553972
+finally 0.1904577279896342
+
+
+Being coons “@FatTravis_6200: At??? @TiFFANY_P0RSCHE: Y'all are amazing."”
+Truth:  2 Prediction:  0
+coons 0.9022860105222222
+
+
+Big Red and fat squaw ...lol my hubby is so funny!! #insidejoke
+Truth:  2 Prediction:  1
+fat 0.7483276481126211
+
+
+Bij vraag wat is d naam van de engels des doods,dacht eerst Robert.Ik:Israel..uhm iets met Gargamel,hoe heet die kat ook al weer..oja Azrael
+Truth:  1 Prediction:  2
+wat -0.29777085025169053
+van -0.6787358093400532
+met -0.6792402498468105
+die 0.9323831810816186
+al 0.24969473449364962
+
+
+Bill Smith DDS MTV ODB LGBTQ MMA NFL AFLCIO 
+
+bitch pick one.
+
+Fucking hate you.
+
+I know you proud but shit.
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+pick 0.3662974465333866
+hate 0.7153588754270559
+know 0.15803041462717224
+proud -0.27805682382908475
+
+
+Bitch ass nigga, be hating on black women... Uncle Tom bitch punk.
+Truth:  0 Prediction:  1
+ass 0.367339261928304
+hating 0.832429390823952
+black 0.4551960182374316
+bitch -1.1737034324910127
+
+
+Bitch fuck yo nigga, what's up with that pussy!!?!
+Truth:  0 Prediction:  1
+fuck 0.5365394654006062
+yo -0.08311104502955982
+
+
+Bitch you're the ugliest cunt ever.
+Truth:  0 Prediction:  1
+cunt 0.3085744200599597
+
+
+Bitches be having a nigga but want to be another nigga WCW bitch it don't work like that
+Truth:  0 Prediction:  1
+having 0.47329665551325883
+nigga 0.8104597352843714
+want 0.2000722192012721
+nigga 0.8104597352843714
+bitch -1.1737034324910127
+work 0.35031579461108026
+like 0.5028389664031451
+
+
+Black bitches don't be kickin up in our school. Bitches still comin wit durags still on they head nd shit.
+Truth:  0 Prediction:  1
+bitches -1.1570657683490801
+wit 0.2382431535017882
+head 0.0607736302022471
+nd 0.3170898838767588
+
+
+Blatt trash too ... but twitter said he was good
+Truth:  1 Prediction:  2
+trash 0.08355239262464437
+twitter -0.027876818095968196
+said 0.11424486521700694
+good -0.19427181231321922
+
+
+Boozer so trash
+Truth:  1 Prediction:  2
+trash 0.08355239262464437
+
+
+Brad Pitt is older than Charlie Sheen. What the fuckkkkkkkkkkkkk.
+Truth:  1 Prediction:  2
+
+
+Brady heard yall say he was washed, now he washing the league on you hoe ass niggas.
+Truth:  0 Prediction:  1
+heard 0.20497434221482586
+yall 0.3134987098852951
+say 0.4745780643749701
+hoe -0.5267791739780862
+ass 0.367339261928304
+
+
+Bro everybody is a ho then, fuck it, your favorite Color is mango red you are a ho, you charge your phone all the way to 100% = Ho, smh
+Truth:  0 Prediction:  1
+everybody -0.37950056125419035
+ho -0.2040001509791424
+fuck 0.5365394654006062
+favorite 0.20086358316737718
+red -0.48656512251500994
+charge 0.264433537797881
+phone -0.05131591794354279
+way 0.15302015757305285
+smh 0.3498020958929411
+
+
+Bruh leave it to the coins coons
+Truth:  1 Prediction:  2
+leave 0.23873263784272544
+coons 0.9022860105222222
+
+
+Bullets through a nigguh tru jeans
+Truth:  0 Prediction:  1
+nigguh 0.2840541304008151
+
+
+Bumped into a bitch that filed for sexual harassment at work against a co-worker...I aint been so shook in my life
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+work 0.35031579461108026
+aint 0.27894371596801587
+life 0.12964083556097986
+
+
+Burn bitch 
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+
+
+But atleast they let me know...ur a faggot if u keep those type of twitter secrets
+Truth:  0 Prediction:  1
+let -0.2998738239022173
+faggot 1.4359667757355978
+type 0.2476376448000601
+twitter -0.027876818095968196
+
+
+But rich is a light skin coon. So it's expected.
+Truth:  2 Prediction:  1
+rich -0.3234899545851752
+light -0.25417619867561403
+skin 0.17053847264325261
+
+
+California is home to skater trash.
+Truth:  0 Prediction:  2
+home 0.062476919029194534
+
+
+Can’t wait to humble these niggas in the playoffs again. Until then, good job hoes
+Truth:  0 Prediction:  1
+wait 0.07540436881958396
+niggas 0.7681229879206604
+playoffs 0.7688201865616245
+good -0.19427181231321922
+job 0.5187711850446955
+hoes -1.0219309469053361
+
+
+Can't stand bitch ass niggas.
+Truth:  0 Prediction:  1
+stand 0.36723405489890043
+bitch -1.1737034324910127
+ass 0.367339261928304
+
+
+Can't take u coons nowhere & I mean nowhere
+Truth:  0 Prediction:  2
+coons 0.9022860105222222
+mean -0.042316468356492574
+
+
+Cants da coloreds and da white folk gets along? We all be da same cept da colored men gots da bigga dicks
+Truth:  1 Prediction:  2
+da 0.2883457964458534
+da 0.2883457964458534
+white 1.678927894939801
+folk 0.3833474709883842
+gets -0.42854919806809466
+da 0.2883457964458534
+da 0.2883457964458534
+colored -0.28389117290973764
+men -0.342098499176023
+gots 0.4320382569075951
+da 0.2883457964458534
+dicks 0.41094791974627914
+
+
+Ceasefire?Let's see how long those towel heads can go without trying to attack Israel then cry to national media when they get popped again
+Truth:  0 Prediction:  2
+long -0.31899969971151754
+heads 0.6798419100330125
+trying 0.1198469215663621
+attack 0.38594144525670443
+media 0.45392384189281687
+popped 0.48518630233430293
+
+
+Charlene crave colored cock
+Truth:  1 Prediction:  2
+colored -0.28389117290973764
+cock 0.666879664697463
+
+
+Charlie is an ol' hatin' fool! #Scandal
+Truth:  1 Prediction:  2
+
+
+Charlie not fukin around in Austin.. Every week somebody getting kicked off the team.
+Truth:  1 Prediction:  2
+week -0.044857615575924784
+somebody -0.2969352727474993
+getting 0.11009689828763926
+
+
+Chasing these hoes, better get cash nigga
+Truth:  0 Prediction:  1
+better 0.39852422366171386
+cash 0.9796651052253446
+nigga 0.8104597352843714
+
+
+Chill RT @PhillyTheBoss If I ever become president Imma ban Henny from America..... For a Day, just to see you negroes panic. "gotcha bitch"
+Truth:  0 Prediction:  1
+president 0.5336241112203106
+just -0.17333551668510047
+
+
+Chill, I'm not a coon RT @AmbitiousCam: Sick of you fake bougie ass coons lol
+Truth:  1 Prediction:  0
+coon 1.3085206753071035
+fake 0.14271678084620812
+ass 0.367339261928304
+coons 0.9022860105222222
+lol -0.20493756194254492
+
+
+Chocolate cake is so trash.
+Truth:  1 Prediction:  2
+cake -0.2895652771554203
+
+
+Chris Bosh bout to disgrace the trophy like a real faggot smh
+Truth:  0 Prediction:  1
+bout -0.015157262476508225
+like 0.5028389664031451
+real -0.2678422051546069
+faggot 1.4359667757355978
+smh 0.3498020958929411
+
+
+Cigarette break nd wtf are Mt eyes glowing like Charlie Murphy in the madd real world lol 
+Truth:  1 Prediction:  2
+break -0.6090417855693633
+nd 0.3170898838767588
+wtf -0.40564846814195066
+eyes 0.5903856951802517
+like 0.5028389664031451
+real -0.2678422051546069
+world 0.05366669505017782
+lol -0.20493756194254492
+
+
+Clan of retards...
+Truth:  0 Prediction:  1
+
+
+Confusing circumstances seem to get in the way of your high ho... More for Virgo 
+Truth:  2 Prediction:  1
+way 0.15302015757305285
+high 0.07334049396871223
+
+
+Corey is trash
+Truth:  1 Prediction:  2
+trash 0.08355239262464437
+
+
+Crew neck ass nigguh
+Truth:  0 Prediction:  1
+neck 0.5835726890377803
+ass 0.367339261928304
+nigguh 0.2840541304008151
+
+
+Cruise's recent comments make him a bigger douchebag than Charlie Sheen & he didn't even have any 'Tiger Blood'
+Truth:  1 Prediction:  2
+make 0.06236581429749861
+
+
+Curse AVI for Coke because he's a fag and hasn't put it on yet 
+Truth:  0 Prediction:  1
+fag 1.1079297183124235
+
+
+Cussed out by a fat redneck on the last day YOLO @ShawnnaSanford @MeganMonday13 @kelsss_lynn 😂😂
+Truth:  0 Prediction:  2
+fat 0.7483276481126211
+redneck 0.3065818874763852
+day 0.16464629217203658
+
+
+Cute ass niggah. 
+Truth:  0 Prediction:  1
+ass 0.367339261928304
+
+
+Cuz if it's trash I'm bashing it at saying he need to go back to jail
+Truth:  2 Prediction:  1
+trash 0.08355239262464437
+saying -0.4026667123175922
+need -0.1618409294459405
+jail -0.6907392910785708
+
+
+Dallas hoe RT @beanreturns: Why 
+Truth:  2 Prediction:  1
+hoe -0.5267791739780862
+
+
+Damn hoe.. You so ugly even hello kitty said goodbye.
+Truth:  0 Prediction:  1
+ugly 0.6627605333803737
+hello -0.21362215388238046
+said 0.11424486521700694
+
+
+Damn those shiner rock those bud light platinum and that ciroc
+Truth:  2 Prediction:  1
+rock -0.3690595019915478
+light -0.25417619867561403
+
+
+Dani Alves pulled off that hairstyle. Neymar just looks like a faggot
+Truth:  0 Prediction:  1
+just -0.17333551668510047
+looks 0.14423042700636032
+like 0.5028389664031451
+faggot 1.4359667757355978
+
+
+Daniel, there's no cow tipping and hoe downs in Jackson... This city living lol
+Truth:  2 Prediction:  1
+hoe -0.5267791739780862
+city 0.25215913195887724
+living -0.1530830142404709
+lol -0.20493756194254492
+
+
+Danny Brown better put out more music before he ODs, that dude is out his fuckin bird
+Truth:  1 Prediction:  2
+better 0.39852422366171386
+music 0.5175110527644037
+dude 0.0939034795606719
+fuckin 0.28967358437403984
+bird -1.174733324122988
+
+
+Dat da bad thing bout being colored. Day bring me in to fight but don't vite me to da victory partay
+Truth:  2 Prediction:  1
+da 0.2883457964458534
+bad -0.26068372324490696
+thing 0.47519773629962614
+bout -0.015157262476508225
+bring -0.1904402633256316
+fight 0.10626217776724291
+da 0.2883457964458534
+
+
+Dear Utah Polynesians: Again, stop acting black and speaking ghetto. Speak FOB, you ain't no ghetto niggaz.
+Truth:  0 Prediction:  2
+stop -0.01505124569671464
+acting 0.5370865999712774
+black 0.4551960182374316
+speaking 0.4400126921952622
+ghetto -0.40453742194995845
+
+
+Debating feminism with a gay professor uninformed girls and low IQ rednecks is not my idea of a fun Wednesday night
+Truth:  2 Prediction:  1
+gay 0.9598925035903995
+girls -0.5498379824240104
+low 0.15722201892199666
+rednecks 0.9239766046311143
+idea 0.09778878670012145
+fun -0.6779955854837494
+night -0.4910036702713535
+
+
+DeeDee, Patrick, Ed, Sheen, Timmy's Dad, Beavis & Butthead, Peter Griffin. This is just a list of SOME mentally retarded cartoon characters.
+Truth:  0 Prediction:  1
+just -0.17333551668510047
+retarded 0.5092099056639494
+
+
+Define wigga
+Truth:  2 Prediction:  1
+wigga -0.18026370494778138
+
+
+Delete now you bitch ass nigga RT @Quanny_Quan: If the Redskins beat us I will delete my fucking IG
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+ass 0.367339261928304
+nigga 0.8104597352843714
+beat 0.2432775834373389
+delete 0.5218878429945059
+fucking 0.4849807942233571
+
+
+Devin Hester's a bitch
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+
+
+Did everyone else's parents use to refer to the Power Puff Girls as "Powder Puff Girls", or were mine just exceptionally retarded?
+Truth:  2 Prediction:  1
+parents 0.4647278509973491
+use -0.9086014914921104
+refer 0.31584437791962566
+just -0.17333551668510047
+
+
+Did you all hear this #bundy redneck? Someone should show him how niggas play.
+Truth:  1 Prediction:  0
+hear 0.277969544560395
+niggas 0.7681229879206604
+
+
+Difference between "niggers" and "niggas". #Tupac my OG 💯 
+Truth:  1 Prediction:  0
+
+
+Dis broad done tagged dis nicca n a video of his sis giving dome .. #Tragic
+Truth:  0 Prediction:  1
+dis 0.33905154238279395
+nicca 0.12086333897546726
+video 0.48494768826776163
+giving 0.38864874454227694
+
+
+Dis nicca lame
+Truth:  2 Prediction:  1
+nicca 0.12086333897546726
+lame 0.2998459609037306
+
+
+Don't mind that Twinkies are gonna be gone, very concerned about the rest of hostesses product line
+Truth:  2 Prediction:  1
+mind -0.027632960174561464
+gonna 0.10243193729449275
+rest -0.28380166593483314
+line -0.18871272096218447
+
+
+Dream job for a pedophile dressing up like mickey mouse and hugging kids all day
+Truth:  1 Prediction:  2
+job 0.5187711850446955
+like 0.5028389664031451
+mickey -0.3122396339626895
+kids -0.024143784720953965
+day 0.16464629217203658
+
+
+Drita is that nicca! Lmao
+Truth:  2 Prediction:  1
+
+
+Dumb bitch 
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+
+
+Dyke bitches kill me thinkin they really got hoes lol
+Truth:  0 Prediction:  1
+bitches -1.1570657683490801
+kill 1.3787723394011433
+thinkin 0.3552515253386726
+really 0.08056930549788316
+got -0.062089170577541715
+hoes -1.0219309469053361
+lol -0.20493756194254492
+
+
+Ebola sounds like a hood hoe
+Truth:  0 Prediction:  1
+sounds 0.01244759432742127
+like 0.5028389664031451
+hood 0.7214281467837604
+hoe -0.5267791739780862
+
+
+Eh bitch!? How about you worry about your own psychotic ass. Looks like you need to "be saved" from being a noisy bitch ✌️💋 #cantStandUcunt
+Truth:  0 Prediction:  1
+worry 1.095457509669575
+like 0.5028389664031451
+need -0.1618409294459405
+bitch -1.1737034324910127
+
+
+Elizabeth is a.stupid hoe.
+Truth:  0 Prediction:  1
+
+
+Europeans taste-test America's most white trash snacks via @sohostyle  🍟This is hilarious! #foodie-ish
+Truth:  1 Prediction:  0
+white 1.678927894939801
+trash 0.08355239262464437
+
+
+Every gook in #LosAngeles should be deported or killed.
+Truth:  0 Prediction:  2
+gook 1.00159246054065
+
+
+Every half-breed cop in America is trying to rape white women.
+Truth:  1 Prediction:  0
+cop -0.21275062167623845
+trying 0.1198469215663621
+rape 0.8480155569511861
+white 1.678927894939801
+
+
+Every slant in #LosAngeles should be deported. Those scum have no right to be here. Chinatown should be bulldozed.
+Truth:  0 Prediction:  2
+slant 0.13834195056206294
+scum 1.029249906384272
+right 0.28582506699350607
+
+
+Everyone calls me "b" they be like oh wassup b 😌 and I be like wassup my niggah
+Truth:  0 Prediction:  1
+calls -0.37832444910213725
+like 0.5028389664031451
+oh 0.3711238995705644
+wassup 0.5492110342462934
+like 0.5028389664031451
+wassup 0.5492110342462934
+niggah 0.023811742342369324
+
+
+Experience Charlie. Married woman who loves hot phone sex with strangers. Can you get me off? - 27 
+Truth:  2 Prediction:  1
+woman -0.26315040880403073
+loves 0.07722959402500323
+hot -0.44464692922867505
+phone -0.05131591794354279
+sex -0.6004305740258843
+
+
+FUCKING WALK OFF IN THE BRONX!!! @Yankees
+Truth:  1 Prediction:  2
+
+
+Faggot ass bitch nigga
+Truth:  0 Prediction:  1
+ass 0.367339261928304
+bitch -1.1737034324910127
+nigga 0.8104597352843714
+
+
+Fake tits? “@VelvetHoopD: A hoe??“@Steph_Badd: Can u guess what I was ? “@DJZeeti: Twitpic your halloween costumes” 
+Truth:  2 Prediction:  1
+guess -0.713154452180587
+halloween 0.3574547726699607
+
+
+Fat ass hoe holding up the machine
+Truth:  0 Prediction:  1
+ass 0.367339261928304
+hoe -0.5267791739780862
+
+
+Fat ass inbred rednecks like Paula Deen are breed that are going extinct. I mean look at that woman, I would hate to be her scale.
+Truth:  0 Prediction:  1
+ass 0.367339261928304
+rednecks 0.9239766046311143
+like 0.5028389664031451
+going -0.12706409522021314
+mean -0.042316468356492574
+look 0.1520649443469483
+hate 0.7153588754270559
+
+
+Fat fucking funky nasty ass hoes
+Truth:  0 Prediction:  1
+fucking 0.4849807942233571
+funky 0.6238748360260543
+nasty 0.2540474818529359
+ass 0.367339261928304
+hoes -1.0219309469053361
+
+
+Feminist aka a bitch.
+Truth:  0 Prediction:  1
+aka 0.7845587589339795
+
+
+Fight me RT @rob_b1991: 0 cuz they're trash RT @Markie__Marc: How many 50-cent corn dogs did you order today?
+Truth:  1 Prediction:  2
+cuz 0.013227192605520313
+trash 0.08355239262464437
+dogs -2.949029909160572e-17
+did -0.10448360482728625
+order 0.5519172317048906
+
+
+Figure all da ofay like to see my family pitcher 
+Truth:  2 Prediction:  1
+da 0.2883457964458534
+like 0.5028389664031451
+family 0.26195262557546695
+
+
+First thing I do when I hit the lotto is buying @moniqueeedavis two fat bitches and watching her eat both in one sitting
+Truth:  0 Prediction:  1
+thing 0.47519773629962614
+hit 0.2799137530068102
+buying 0.5654773655375974
+fat 0.7483276481126211
+bitches -1.1570657683490801
+watching -0.1276973847861242
+eat -0.032562866628662375
+sitting 0.5232324066872199
+
+
+For all we know this nigga a rapist. Y'all hoes dumb “@daniellathepimp: *melts* 
+Truth:  0 Prediction:  1
+know 0.15803041462717224
+nigga 0.8104597352843714
+hoes -1.0219309469053361
+dumb 0.36302595490075945
+
+
+Fredo was a bitch ass nigga. How niggas fire over 20 shots at his pops but he didn't get off 1 cuz he dropped the gun smh
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+ass 0.367339261928304
+niggas 0.7681229879206604
+20 -0.09301490118037406
+shots 0.23734521991128257
+pops 0.25471078535686215
+cuz 0.013227192605520313
+dropped 0.023160089528895644
+gun 0.4864556604362226
+smh 0.3498020958929411
+
+
+Freezing my nips off out here...
+Truth:  2 Prediction:  1
+nips -0.3622024567251711
+
+
+Friend or foe nicca .. State ya biz
+Truth:  2 Prediction:  1
+nicca 0.12086333897546726
+ya -0.10142157512642622
+
+
+Frustration can be a bitch !
+Truth:  2 Prediction:  1
+bitch -1.1737034324910127
+
+
+Fuck MLK “@AntSoo305_: “@Vonteeeeee: Why does Lexii keep favoriting my coon tweets ?” MLK didnt die for this”
+Truth:  0 Prediction:  1
+does -0.845952622502678
+coon 1.3085206753071035
+tweets -0.2491900158270701
+didnt 0.036581959383491056
+die 0.9323831810816186
+
+
+Fuck a lame nigga than you a lame bitch
+Truth:  0 Prediction:  1
+lame 0.2998459609037306
+nigga 0.8104597352843714
+lame 0.2998459609037306
+bitch -1.1737034324910127
+
+
+Fuck ass redskin corners
+Truth:  0 Prediction:  1
+ass 0.367339261928304
+
+
+Fuck boi fag
+Truth:  0 Prediction:  1
+boi 0.170047091460604
+fag 1.1079297183124235
+
+
+Fuck her pussy fuck her mouth fuck her ass cause she nasty
+Truth:  0 Prediction:  1
+pussy -1.0455825772296983
+fuck 0.5365394654006062
+mouth 0.5110265389710993
+fuck 0.5365394654006062
+ass 0.367339261928304
+cause -0.13022506233495068
+nasty 0.2540474818529359
+
+
+Fuck that hoe??? thats exactly what dese hoes doin. Gettin fucked nd yall niggas the one to blame
+Truth:  0 Prediction:  1
+thats 0.02793553333441663
+exactly 0.5808957821526525
+dese 0.16965311146842768
+hoes -1.0219309469053361
+fucked -0.30880070471273224
+nd 0.3170898838767588
+yall 0.3134987098852951
+niggas 0.7681229879206604
+blame 0.9136214276985961
+
+
+Fuck that nigga's shit up! Olivia's pussy got Fitz going batshit!!!
+Truth:  0 Prediction:  1
+shit 0.0852342045401417
+pussy -1.0455825772296983
+got -0.062089170577541715
+going -0.12706409522021314
+
+
+Fuck that niggah he so weak, he cant tell that you a freak
+Truth:  0 Prediction:  1
+niggah 0.023811742342369324
+tell -0.04759826196915343
+freak 0.5133004006100915
+
+
+Fuck the cowboys the giants the redskins #EaglesNation #BleedGreen
+Truth:  1 Prediction:  2
+cowboys -0.1607931873492529
+giants 0.13278940410294657
+redskins -0.23278797489761613
+
+
+Fuck u niggas gonna do not a mfka thing oh bitch ass wack ass nigga y'all some fake ass people
+Truth:  0 Prediction:  1
+niggas 0.7681229879206604
+gonna 0.10243193729449275
+thing 0.47519773629962614
+oh 0.3711238995705644
+bitch -1.1737034324910127
+ass 0.367339261928304
+wack -0.41201390216919065
+ass 0.367339261928304
+nigga 0.8104597352843714
+fake 0.14271678084620812
+ass 0.367339261928304
+people 0.3463913335172432
+
+
+Fuck you faggot "@Aloha_Hoesss: Grow up RT @80sbaby4life I'm gonna be an old ass man STILL playing video games"
+Truth:  0 Prediction:  1
+faggot 1.4359667757355978
+gonna 0.10243193729449275
+old 0.10755420442989257
+ass 0.367339261928304
+man 0.0680505020400257
+playing 0.01953423748342209
+video 0.48494768826776163
+
+
+Fuck you fuck you you stupid cheating bitch go lick a dick and die ur a stupid nigger bitch
+Truth:  0 Prediction:  1
+fuck 0.5365394654006062
+stupid 0.7283111283686275
+cheating -0.011808481849056906
+bitch -1.1737034324910127
+lick -0.03372580267624647
+dick 0.05322664690210934
+die 0.9323831810816186
+ur 0.42205846684227083
+stupid 0.7283111283686275
+nigger 1.3643913760519675
+bitch -1.1737034324910127
+
+
+Fuck you ghetto ass coons
+Truth:  0 Prediction:  1
+ghetto -0.40453742194995845
+ass 0.367339261928304
+coons 0.9022860105222222
+
+
+Fuckin' #faggots, man. #science knows these FUCKS can't procreate without the help of "breeders" but we treat them #fancy? #sin
+Truth:  0 Prediction:  1
+knows 0.46644649330530275
+help 0.13577871438136813
+treat 0.2399633629521452
+
+
+Fucking with these hoes nigga don't be no dumby
+Truth:  0 Prediction:  1
+hoes -1.0219309469053361
+nigga 0.8104597352843714
+
+
+Fuckkkk this faggot commie 
+Truth:  1 Prediction:  0
+faggot 1.4359667757355978
+
+
+Fuckkkkk!!! My nig a g tho, he gonna come back
+Truth:  0 Prediction:  1
+nig 0.8830038991400142
+gonna 0.10243193729449275
+come -0.097010052218246
+
+
+Fuk wit a real nicca
+Truth:  0 Prediction:  1
+wit 0.2382431535017882
+real -0.2678422051546069
+nicca 0.12086333897546726
+
+
+GEEZ..... I think #NorthKorea may be right. #BarackObama is a monkey! Surely acts like one. 
+ 
+Truth:  0 Prediction:  2
+think 0.08376745435776453
+like 0.5028389664031451
+
+
+Gabby's a bitch and has two accounts
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+
+
+Gansitos are ATG beaner candy
+Truth:  1 Prediction:  2
+beaner 0.7054618515051964
+
+
+Gary's girl was a tranny. RT @Em_99car: I wonder what would have become of @rickspringfield if he'd written 'Gary's Girl'.
+Truth:  2 Prediction:  1
+girl -0.34488645426317976
+wonder 0.08856391933299873
+
+
+Gave her that "move it lil nigger" push smh.. 
+Truth:  0 Prediction:  1
+lil -0.28975725996665497
+push 0.1643040866660538
+
+
+Gay ass nigga 😂😂 bitch you thought you thought
+Truth:  0 Prediction:  1
+ass 0.367339261928304
+nigga 0.8104597352843714
+bitch -1.1737034324910127
+thought 0.23676091218084944
+thought 0.23676091218084944
+
+
+Getting hit off a cunt thats about 6 foot sideways and a cunt that was in the army lol, i dini care, yous are fuckin laughable
+Truth:  0 Prediction:  1
+hit 0.2799137530068102
+cunt 0.3085744200599597
+thats 0.02793553333441663
+cunt 0.3085744200599597
+army 0.34554766624610345
+fuckin 0.28967358437403984
+
+
+Getting off twitter jigg trynna stress me out more I don't need this type of heat😩
+Truth:  2 Prediction:  1
+twitter -0.027876818095968196
+trynna -0.21452668715800188
+stress -0.032638268446919444
+need -0.1618409294459405
+type 0.2476376448000601
+
+
+God I would sell both my nuts to watch LeBron tear his ACL right now and watch all those pussies kill themselves
+Truth:  0 Prediction:  1
+sell 0.29304192742393387
+nuts 0.0495400924794234
+watch 0.47357896208448413
+right 0.28582506699350607
+watch 0.47357896208448413
+pussies -0.13118618936925208
+kill 1.3787723394011433
+
+
+God damn birds
+Truth:  1 Prediction:  2
+damn 0.3598442990861965
+birds -0.8219733303413302
+
+
+God damn zebras every Virginia possession the whistle blows geeze.
+Truth:  2 Prediction:  1
+damn 0.3598442990861965
+
+
+Going to California today for some analyzer training. Going into Dick Whitman mode. Wish I had a tan colored suit to wear for the flight.
+Truth:  2 Prediction:  1
+today -0.12041408688824834
+colored -0.28389117290973764
+wear -0.4013471500276273
+
+
+Gone bust it open for a real nicca 😜😜
+Truth:  2 Prediction:  1
+bust -0.20693743338124182
+open -0.5257204388622071
+real -0.2678422051546069
+nicca 0.12086333897546726
+
+
+Gonna straight hip check the next hillbilly who tries to apply the term "derecho" to a run-of-the-mill thunderstorm. #WVWX
+Truth:  1 Prediction:  2
+straight -0.534297650485717
+check -0.18544074143072548
+hillbilly -0.15983124983370153
+term 0.2544431724911998
+
+
+Good Morning to lightskin dyke bitches with Steven Segal ponytails.
+Truth:  0 Prediction:  1
+dyke 1.342297186544402
+bitches -1.1570657683490801
+
+
+Good day, honkies. ...I said GOOD DAY! ...honkies.
+Truth:  2 Prediction:  1
+said 0.11424486521700694
+
+
+Good morning coons.
+Truth:  0 Prediction:  2
+morning 0.6435713651051755
+
+
+HOT ISIS SOCIAL MEDIA PHOTO: Laughing Jihadis Get Baby To Kick Severed Head – ***warning, graphic***  #tcot #pjnet
+Truth:  1 Prediction:  2
+
+
+Hah a big LOL to all the tacky faggots
+Truth:  1 Prediction:  0
+big -0.4664006934787208
+faggots 2.1188647537750778
+
+
+Haha Tanaka went Yankee. So sorry Bums!
+Truth:  1 Prediction:  2
+went -0.570472698642957
+sorry 0.20773364130553396
+
+
+Happy Columbus Day! Even #BillMaher likes #cocaine and #Columbus!!! What the fuck is wrong with you #liberals? Fuckin' #moron #retards....
+Truth:  0 Prediction:  1
+likes 0.34340279591446565
+fuck 0.5365394654006062
+wrong 0.474157242362064
+
+
+Happy birthday pops aka old negro spiritual aka the man who said I was an accident. 64 never looked so… 
+Truth:  1 Prediction:  2
+birthday 0.06125255559531927
+pops 0.25471078535686215
+aka 0.7845587589339795
+old 0.10755420442989257
+negro 0.20565396616233328
+aka 0.7845587589339795
+man 0.0680505020400257
+said 0.11424486521700694
+looked -0.7489114313451736
+
+
+Happy birthday to my pops. Old negro spiritual is 64 today lol
+Truth:  2 Prediction:  1
+birthday 0.06125255559531927
+negro 0.20565396616233328
+today -0.12041408688824834
+lol -0.20493756194254492
+
+
+Hats off to all hoodrat chicks from the ghetto who have anxiety attacks at formal events
+Truth:  1 Prediction:  2
+chicks 0.07131565632558375
+ghetto -0.40453742194995845
+
+
+Have you Eva asked a nicca where dey got sum fake designer frm
+Truth:  0 Prediction:  1
+asked 0.19156827874812962
+nicca 0.12086333897546726
+dey 0.7749060349395026
+got -0.062089170577541715
+sum 0.12933054817714235
+fake 0.14271678084620812
+
+
+Have you ever popped champagne on a plane, while gettin some brain 
+Whipped it out, she said "I never seen Snakes on a Plane"
+Truth:  2 Prediction:  1
+popped 0.48518630233430293
+gettin 0.3980491134398629
+brain 0.401265369876458
+said 0.11424486521700694
+seen -0.10573304374627075
+
+
+Have you noticed all the ghetto people naming their kids after cars? Mercedes… Lexus… Repossessed.
+Truth:  2 Prediction:  1
+ghetto -0.40453742194995845
+people 0.3463913335172432
+kids -0.024143784720953965
+
+
+He ain't shit girl, 💯he a bitch made nigga !
+Truth:  0 Prediction:  1
+shit 0.0852342045401417
+bitch -1.1737034324910127
+nigga 0.8104597352843714
+
+
+He's a pretty damn good actor. But as a gay man it's awesome to see an openly queer actor given the lead role for a major superhero film.
+Truth:  2 Prediction:  1
+pretty -0.013380526882557503
+damn 0.3598442990861965
+good -0.19427181231321922
+gay 0.9598925035903995
+man 0.0680505020400257
+awesome 0.4648717311873358
+queer 1.0963486596260332
+lead -0.5181194965724174
+major -0.587951198041081
+
+
+Heard that bitch gtta thang for them boss niggas
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+thang 0.8068367519482357
+boss 0.22232042318327333
+niggas 0.7681229879206604
+
+
+Hella just ordered me some beanies
+Truth:  2 Prediction:  1
+just -0.17333551668510047
+ordered -0.02651087172249994
+
+
+Hey Okrah... Just wake up already. You already know Bammy and Moochie are in it for the commies. Stop with the racist whitey hate crap.
+Truth:  1 Prediction:  0
+wake -0.15528345892841877
+know 0.15803041462717224
+racist 1.5512060307133109
+whitey 0.9942933460952434
+hate 0.7153588754270559
+
+
+Hey morons at #foxnews and #foxandfriends was it political when Bush raised terror threat right before the election? LMAO at u #teabaggers
+Truth:  1 Prediction:  2
+political -0.6183305156492435
+raised 0.34549989249815377
+right 0.28582506699350607
+
+
+Hmm.. Ass all chunky, brain is insanity.
+Truth:  1 Prediction:  2
+brain 0.401265369876458
+
+
+Hmu talmbout match but when I pull up its 30 other niccas wit ya 😒
+Truth:  2 Prediction:  1
+talmbout 0.2098522026769526
+pull 0.1642196582902286
+30 0.009859992246194842
+niccas 0.19269086227900956
+wit 0.2382431535017882
+ya -0.10142157512642622
+
+
+Hoes thnk they "won" when the nigga thats ridin the fence start givin them a lil attention... what u won hoe? A wishywashy ass nigga? Oh.
+Truth:  0 Prediction:  1
+nigga 0.8104597352843714
+thats 0.02793553333441663
+start -0.11694047847645396
+lil -0.28975725996665497
+won 0.4802999691369707
+ass 0.367339261928304
+
+
+Hood niggas and bitches love emojis lmfao
+Truth:  0 Prediction:  1
+niggas 0.7681229879206604
+bitches -1.1570657683490801
+love -0.14168359906120426
+lmfao 0.5910855145288344
+
+
+How long are they going to let the fools in #Ferguson continue? Stop pussy footin' & disperse them by WHATEVER means necessary!
+Truth:  2 Prediction:  1
+long -0.31899969971151754
+going -0.12706409522021314
+let -0.2998738239022173
+pussy -1.0455825772296983
+means 0.34118027493262687
+
+
+How now, gung-ho?
+Truth:  2 Prediction:  1
+
+
+I I haven't watched a single episode of #LHHNY however I'm watching the reunion. This coon shit. I mean the levels of ratcheticity
+Truth:  2 Prediction:  1
+watched 0.175456269848853
+single -0.7193623204505848
+episode 0.28319273938561007
+watching -0.1276973847861242
+coon 1.3085206753071035
+mean -0.042316468356492574
+
+
+I am for equality in the law for all people white black red yellow and blue. Homo's Hetero's well I draw the line... 
+Truth:  1 Prediction:  2
+law -0.6901136910467903
+people 0.3463913335172432
+white 1.678927894939801
+black 0.4551960182374316
+red -0.48656512251500994
+yellow -0.8998551873832621
+
+
+I be waking up on some new shit like fuck that bitch shit
+Truth:  0 Prediction:  1
+new 0.06546043972691364
+shit 0.0852342045401417
+like 0.5028389664031451
+fuck 0.5365394654006062
+bitch -1.1737034324910127
+shit 0.0852342045401417
+
+
+I can't blow bubbles or whistle. I'm basically retarded.
+Truth:  0 Prediction:  1
+blow 0.1640296683862345
+basically 0.6326995850531819
+
+
+I can't fuck a scary hoe.
+Truth:  0 Prediction:  1
+fuck 0.5365394654006062
+scary 0.533121763355212
+
+
+I can't fuck any ol bitch niggas be desert dicks out here😭
+Truth:  0 Prediction:  1
+fuck 0.5365394654006062
+ol 0.5713708212788462
+bitch -1.1737034324910127
+niggas 0.7681229879206604
+dicks 0.41094791974627914
+
+
+I come wit the rocks on yu can get popped on, light yellow chevy same color as popcorn!
+Truth:  1 Prediction:  2
+come -0.097010052218246
+wit 0.2382431535017882
+yu 0.2225920594007355
+popped 0.48518630233430293
+light -0.25417619867561403
+yellow -0.8998551873832621
+color 0.46629850397471356
+
+
+I confess. I'm autistic or something. I thought #Aerosmith #DreamOn was #LedZeppelin until like yesterday....... #retarded
+Truth:  2 Prediction:  1
+thought 0.23676091218084944
+like 0.5028389664031451
+
+
+I couldn't press send. That tweet about anchor babies was even too raw for me.
+Truth:  2 Prediction:  1
+tweet 0.3998588028029356
+babies 0.8209244775868819
+raw -0.7970703478538828
+
+
+I didn't forsake all other bitches for my wife to be getting fucked on by another nigga. and you know she married? you gotta die.
+Truth:  0 Prediction:  1
+bitches -1.1570657683490801
+wife -0.40211035093733294
+getting 0.11009689828763926
+fucked -0.30880070471273224
+know 0.15803041462717224
+gotta 0.16284162119339676
+
+
+I don't even play flappy bird anymore because fuck him
+Truth:  1 Prediction:  2
+play 0.37981919622667076
+flappy -0.05330703258097845
+bird -1.174733324122988
+anymore -0.3147062877630413
+fuck 0.5365394654006062
+
+
+I don't know what you been told but I love them project hoes
+Truth:  2 Prediction:  1
+know 0.15803041462717224
+told -0.17776491361768829
+love -0.14168359906120426
+hoes -1.0219309469053361
+
+
+I don't pity or hate #faggots. Sexual mutations are necessary side effect of #evolution. BUT PROLIFERATION at 4% is a sign #humans fucked UP
+Truth:  1 Prediction:  0
+hate 0.7153588754270559
+fucked -0.30880070471273224
+
+
+I feel sorry for mexican and Asian niggas, they got the worse shaped bitches on earth.
+Truth:  0 Prediction:  1
+feel -0.48473420273104934
+sorry 0.20773364130553396
+mexican 0.22909623232541973
+got -0.062089170577541715
+worse 0.07353185017671658
+shaped 0.3599008320105645
+bitches -1.1570657683490801
+
+
+I feel utterly retarded. Thanks big brother😳😂 @Crawford96M
+Truth:  2 Prediction:  1
+feel -0.48473420273104934
+big -0.4664006934787208
+
+
+I hate dumb bitches
+Truth:  0 Prediction:  1
+hate 0.7153588754270559
+dumb 0.36302595490075945
+bitches -1.1570657683490801
+
+
+I hate fat bitches
+Truth:  0 Prediction:  1
+hate 0.7153588754270559
+fat 0.7483276481126211
+bitches -1.1570657683490801
+
+
+I hate people who talk loud, ignorant ass mother fuckers and ghetto people.
+Truth:  1 Prediction:  0
+hate 0.7153588754270559
+people 0.3463913335172432
+talk -0.33071209452315925
+ignorant 1.3258138804209318
+ass 0.367339261928304
+mother 0.10873341884185604
+ghetto -0.40453742194995845
+
+
+I hate that my mom says she trying to move out here... Like bitch the only reason your "trying" is because you don't have a place to live..
+Truth:  0 Prediction:  1
+hate 0.7153588754270559
+mom -0.14149253497818678
+says -0.3516174907653214
+trying 0.1198469215663621
+bitch -1.1737034324910127
+reason 0.03195183648354709
+place 0.6090324374082834
+
+
+I hate when people tell me I have to many tattoos, and they make me look ugly. Like bitch fuck you
+Truth:  0 Prediction:  1
+hate 0.7153588754270559
+people 0.3463913335172432
+tell -0.04759826196915343
+make 0.06236581429749861
+look 0.1520649443469483
+bitch -1.1737034324910127
+fuck 0.5365394654006062
+
+
+I hate you niccas! Lol 
+Truth:  0 Prediction:  1
+hate 0.7153588754270559
+
+
+I just can't imagine myself being albino haha
+Truth:  1 Prediction:  2
+just -0.17333551668510047
+albino -0.4792022820008984
+haha -0.1746883148911798
+
+
+I just wanna slit this mf throat
+Truth:  0 Prediction:  1
+just -0.17333551668510047
+wanna -0.5164808928837503
+slit -0.27387859699411965
+mf 0.01065209622422287
+throat 1.3257472047804726
+
+
+I know righttt RT @dta_87: I hate fat loud bitches
+Truth:  0 Prediction:  1
+know 0.15803041462717224
+hate 0.7153588754270559
+fat 0.7483276481126211
+loud 0.6859986328531139
+bitches -1.1570657683490801
+
+
+I know these niglets heard me screaming 😂😂
+Truth:  1 Prediction:  2
+know 0.15803041462717224
+heard 0.20497434221482586
+
+
+I like how niggas try an come at me and im like do it then bitch and they dont do shit. Pussies
+Truth:  0 Prediction:  1
+like 0.5028389664031451
+niggas 0.7681229879206604
+try -0.2905449708767223
+come -0.097010052218246
+im 0.022301873299480857
+like 0.5028389664031451
+bitch -1.1737034324910127
+dont -0.3035789349468693
+
+
+I like taking niggas hoes but I stop doing that ✋
+Truth:  0 Prediction:  1
+like 0.5028389664031451
+taking 0.3828280157106803
+niggas 0.7681229879206604
+hoes -1.0219309469053361
+stop -0.01505124569671464
+doing -0.01692777343951281
+
+
+I liked a @YouTube video  Conor McGregor trash talking Chad Mendes: "I can rest my balls on your forehead"
+Truth:  1 Prediction:  2
+video 0.48494768826776163
+trash 0.08355239262464437
+talking 0.3160738037907903
+rest -0.28380166593483314
+balls 0.11145229100200751
+
+
+I love Liv when she gets ghetto
+Truth:  2 Prediction:  1
+love -0.14168359906120426
+gets -0.42854919806809466
+ghetto -0.40453742194995845
+
+
+I masturbated into the lingerie catalog out of spite. how dare she throw it in the trash before I get to look at it!
+Truth:  1 Prediction:  2
+dare -0.9648613042778756
+throw -0.07981847726066267
+trash 0.08355239262464437
+look 0.1520649443469483
+
+
+I need a heated bra because my nips hurt so bad!
+Truth:  2 Prediction:  1
+need -0.1618409294459405
+bra -0.002669353164577182
+nips -0.3622024567251711
+hurt 0.25434074041975124
+
+
+I need to chat with @SpaceJam_Teeg . Where dat nicca at? Lol
+Truth:  0 Prediction:  1
+need -0.1618409294459405
+chat 0.9189805391630212
+dat 0.009315016227896282
+nicca 0.12086333897546726
+
+
+I need to jump in the shop on fritag for 72 beers, hate looking like 20 odd.. I need to get 120 fags tae, going to look like a junkie
+Truth:  1 Prediction:  0
+need -0.1618409294459405
+jump 0.4928460852577221
+hate 0.7153588754270559
+looking 0.2661122852060117
+like 0.5028389664031451
+20 -0.09301490118037406
+need -0.1618409294459405
+fags 1.6962384849634629
+going -0.12706409522021314
+look 0.1520649443469483
+like 0.5028389664031451
+
+
+I really get upset when my lightskin friends have another cute dark skin sidekick..like Im supposed to be the only cute darkie u hang wit 😡
+Truth:  0 Prediction:  2
+really 0.08056930549788316
+friends 0.2089652266790275
+cute 0.4413977947884145
+dark 0.9477613867348874
+skin 0.17053847264325261
+supposed -0.11241795298281307
+cute 0.4413977947884145
+hang 0.0028272423370867272
+wit 0.2382431535017882
+
+
+I really just want to kill some towel head terrorists already 😒 can high school be over now please?
+Truth:  0 Prediction:  1
+really 0.08056930549788316
+just -0.17333551668510047
+want 0.2000722192012721
+kill 1.3787723394011433
+head 0.0607736302022471
+high 0.07334049396871223
+school 0.5515527749144151
+
+
+I should probs shave my spic stash soon, its kinda getting out of hand
+Truth:  1 Prediction:  0
+spic 2.6293520962023678
+kinda -0.9780236541553297
+getting 0.11009689828763926
+hand -0.8279731091760052
+
+
+I swear these anon fags go to protests just to take pictures to post to Twitter. "Look, I was there...Like me"
+Truth:  0 Prediction:  1
+swear -0.376091154366244
+fags 1.6962384849634629
+just -0.17333551668510047
+pictures 0.15777786661928708
+post 0.28943521985157517
+
+
+I take it Notre Dame is still trash. 
+Truth:  1 Prediction:  2
+
+
+I think I figured out where white trash Americans come from: the rural parts of Europe.
+Truth:  1 Prediction:  0
+think 0.08376745435776453
+white 1.678927894939801
+trash 0.08355239262464437
+come -0.097010052218246
+
+
+I think this nigga retarded G
+Truth:  0 Prediction:  1
+think 0.08376745435776453
+nigga 0.8104597352843714
+retarded 0.5092099056639494
+
+
+I want some fire crackers not the baby ass fire works, Does Az have fire crackers ???
+Truth:  1 Prediction:  2
+want 0.2000722192012721
+crackers 0.27515758788859607
+baby -0.2256611112537388
+ass 0.367339261928304
+crackers 0.27515758788859607
+
+
+I wasn't calling you a faggot, but you are one lol.
+Truth:  0 Prediction:  1
+calling 0.2167273692545969
+
+
+I wonder if that Latino strategy is working?@TPM: GOPer doubles down on "wetbacks" but backpedals on "shoot on sight" 
+Truth:  0 Prediction:  1
+wonder 0.08856391933299873
+
+
+I would bitch about the weather being bipolar, but I'm just gonna appreciate how nice it is instead
+Truth:  2 Prediction:  1
+bitch -1.1737034324910127
+weather -0.17238238019594862
+just -0.17333551668510047
+gonna 0.10243193729449275
+nice -0.2794984576544577
+instead -0.7083097562745496
+
+
+I'd rather hear Neal DeGrasse Tyson tell me about scientific mistakes in their assumptions than some WASP... 
+Truth:  2 Prediction:  1
+hear 0.277969544560395
+tell -0.04759826196915343
+
+
+I'll stop drugs, alcohol, fags, sluts for you. Just give me a chance. It's been a year and I feel the same, that clearly means something.
+Truth:  1 Prediction:  2
+stop -0.01505124569671464
+year -1.0484004782092742
+feel -0.48473420273104934
+clearly 0.3424408442123511
+means 0.34118027493262687
+
+
+I'm already tired and mr stupid af decides to show us a video on trigonometric notions so um yeah I just wanted to say you're a hoe
+Truth:  0 Prediction:  1
+tired 0.11954586002626379
+mr 0.315456880377342
+stupid 0.7283111283686275
+af 0.7098701651762828
+video 0.48494768826776163
+um 0.20525091366633452
+yeah 0.01144113250731393
+just -0.17333551668510047
+wanted 0.04476084995459039
+say 0.4745780643749701
+hoe -0.5267791739780862
+
+
+I'm an 18 year old gay driving through the back roads of redneck Virginia blasting Cheetah Girls. If that doesn't scream sitcom, what does?
+Truth:  2 Prediction:  1
+18 -0.4918806179714983
+year -1.0484004782092742
+old 0.10755420442989257
+gay 0.9598925035903995
+driving -0.7201048039665978
+redneck 0.3065818874763852
+
+
+I'm getting sleepy and my phone is acting retarded...
+Truth:  2 Prediction:  1
+getting 0.11009689828763926
+phone -0.05131591794354279
+acting 0.5370865999712774
+
+
+I'm jus a trill nicca mane
+Truth:  2 Prediction:  1
+jus 0.06756446417442102
+nicca 0.12086333897546726
+mane -0.1737032425672229
+
+
+I'm like Rashad and I did her like when he found out the ghetto truth about New-New
+Truth:  1 Prediction:  2
+like 0.5028389664031451
+did -0.10448360482728625
+like 0.5028389664031451
+ghetto -0.40453742194995845
+truth -0.11792793226561626
+
+
+I'm starting to not like meek, this nig a lil to arrogant for me
+Truth:  0 Prediction:  1
+starting 0.8255540855365093
+like 0.5028389664031451
+nig 0.8830038991400142
+lil -0.28975725996665497
+
+
+I'm such a retard sometimes.
+Truth:  2 Prediction:  1
+retard 0.3656454677694235
+
+
+I'm sure @AFP would add this helpful parenthetical explanation if these were redneck peckerwood teabaggers. 
+Truth:  0 Prediction:  2
+sure -0.04380813163869448
+add 0.25230853506154294
+redneck 0.3065818874763852
+
+
+If some one isn't an Anglo-Saxon Protestant, they have no right to be alive in the US. None at all, they are foreign filth.
+Truth:  0 Prediction:  1
+right 0.28582506699350607
+alive 0.5910446633125296
+
+
+If someone pushes you too hard today, they may be surprised ho... More for Capricorn 
+Truth:  2 Prediction:  1
+hard -0.22738748141553972
+surprised 0.11670876026506359
+
+
+If train officers that are wearing body armor stand back to watch the smoke clear. Why does every gun ho wanna be... 
+Truth:  2 Prediction:  1
+train -0.12598573431970408
+wearing -0.2862053577084939
+body -0.752605579385147
+stand 0.36723405489890043
+watch 0.47357896208448413
+smoke -0.5401953733506458
+does -0.845952622502678
+gun 0.4864556604362226
+ho -0.2040001509791424
+wanna -0.5164808928837503
+
+
+If yer gonna continue to be a contrarian bitch... go die then. I've no time for such trifling!
+Truth:  0 Prediction:  1
+gonna 0.10243193729449275
+die 0.9323831810816186
+time -0.13808008852493742
+
+
+If you a hoe ima treat you like one just like if you're a good girl ima treat you like one. I don't discriminate
+Truth:  2 Prediction:  1
+hoe -0.5267791739780862
+ima -0.15935130799657102
+treat 0.2399633629521452
+like 0.5028389664031451
+just -0.17333551668510047
+like 0.5028389664031451
+good -0.19427181231321922
+girl -0.34488645426317976
+ima -0.15935130799657102
+treat 0.2399633629521452
+like 0.5028389664031451
+
+
+If you say any of the following words the convo is over: nigger, nigga, swag, yolo, fag, retard.
+Truth:  0 Prediction:  1
+say 0.4745780643749701
+following 0.219004989789283
+words -0.6787669464626673
+
+
+Im a twat
+Truth:  2 Prediction:  1
+twat -0.7655032553864717
+
+
+Im soooooo tired of this dick dyke showing up on my fb feed. Real studs dont fucc niggas. Just be bisexual.
+Truth:  0 Prediction:  1
+tired 0.11954586002626379
+dick 0.05322664690210934
+dyke 1.342297186544402
+showing 0.04674026946401163
+dont -0.3035789349468693
+fucc 0.3258984760477154
+
+
+Im telling you man! RT @KfromtheG: Roethlisberger got his record expunged and became trash.
+Truth:  2 Prediction:  1
+telling -0.426161879416332
+got -0.062089170577541715
+record -0.08570183730672058
+
+
+In Hopes of Recruiting More Women, ISIS Opens Jihadi Finishing School  
+Truth:  1 Prediction:  2
+
+
+In redneck land ;) #Tennessee
+Truth:  1 Prediction:  2
+redneck 0.3065818874763852
+
+
+Ion care fuck that hoe ✌️
+Truth:  0 Prediction:  1
+care -0.02124760399274702
+fuck 0.5365394654006062
+hoe -0.5267791739780862
+
+
+Ion kno wat kinda spring clothes imma get my yung nicca dis year we ain't doin da polo dis year gotta offset em wit sumthin else
+Truth:  2 Prediction:  1
+kno -0.5332482500755178
+wat -0.29777085025169053
+kinda -0.9780236541553297
+clothes 0.7130332011480313
+imma -0.41750115750357825
+yung 0.5566909992106518
+nicca 0.12086333897546726
+dis 0.33905154238279395
+year -1.0484004782092742
+doin -0.44094310655690705
+da 0.2883457964458534
+dis 0.33905154238279395
+year -1.0484004782092742
+gotta 0.16284162119339676
+em -0.40439481287648266
+wit 0.2382431535017882
+
+
+Is that a hawk? What the fuck kind of bird is that?
+Truth:  1 Prediction:  2
+fuck 0.5365394654006062
+kind -0.654763130577093
+bird -1.174733324122988
+
+
+Is there a full moon out? #CrazyAssholes out in full force and I'm not talking about muzzies or liberals‼️ And I'm in the mood to oblige.
+Truth:  0 Prediction:  1
+talking 0.3160738037907903
+
+
+It be so good to not gotta woyke in da moanin. I da only colored dat woyke cuz colored folk be lazy and lives off da white guilt
+Truth:  2 Prediction:  1
+good -0.19427181231321922
+gotta 0.16284162119339676
+da 0.2883457964458534
+da 0.2883457964458534
+colored -0.28389117290973764
+dat 0.009315016227896282
+cuz 0.013227192605520313
+colored -0.28389117290973764
+folk 0.3833474709883842
+lives -0.12630044200841867
+da 0.2883457964458534
+white 1.678927894939801
+
+
+It opened up with some clouds parting and with SILK----->Can we get a room on the southside of the ghetto!
+Truth:  1 Prediction:  2
+room 0.1843752324669159
+
+
+It stinks in here must be then pussy ass niggas talkin shit #tomyfacebro test me
+Truth:  0 Prediction:  1
+pussy -1.0455825772296983
+ass 0.367339261928304
+niggas 0.7681229879206604
+talkin 0.6313209355896743
+shit 0.0852342045401417
+test 0.15849474153857077
+
+
+It was nice of you to unfollow me, fag
+Truth:  0 Prediction:  1
+nice -0.2794984576544577
+unfollow 0.6945102190681455
+fag 1.1079297183124235
+
+
+It's levels to my bitch you can't fuck her nigga cause she like red bottom you can't afford her nigga she got Benz you riding honda accord
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+fuck 0.5365394654006062
+nigga 0.8104597352843714
+cause -0.13022506233495068
+like 0.5028389664031451
+red -0.48656512251500994
+nigga 0.8104597352843714
+got -0.062089170577541715
+
+
+It's so shady when you bitches talk to guys w/ girlfriends that's so disrespectful to do to another girl
+Truth:  0 Prediction:  1
+bitches -1.1570657683490801
+talk -0.33071209452315925
+guys 0.4530837929947565
+girl -0.34488645426317976
+
+
+It's stuff like this that makes black people look retarded. It's not expressing yourself its stupidity 
+Truth:  2 Prediction:  1
+stuff -0.4536671932247692
+like 0.5028389664031451
+makes -0.16721744283966194
+black 0.4551960182374316
+people 0.3463913335172432
+look 0.1520649443469483
+
+
+It's this dyke chick cut hair in the barbershop look just like Future
+Truth:  0 Prediction:  1
+dyke 1.342297186544402
+chick 0.043674395525418956
+cut 0.2643735170433318
+hair 0.005426781611738628
+look 0.1520649443469483
+just -0.17333551668510047
+like 0.5028389664031451
+
+
+It's time to mock "Halftime in America." How 'bout "Wake up America," we have radical leftists running the country. 
+Truth:  0 Prediction:  2
+time -0.13808008852493742
+mock -0.6612613337001628
+running 0.4223584127730877
+
+
+Jai may make an appearance at the party... love that fag
+Truth:  0 Prediction:  1
+make 0.06236581429749861
+love -0.14168359906120426
+fag 1.1079297183124235
+
+
+Jason admitted you're a stuck up bitch lol, which you are. Think you're so much better than everycunt, naaaaa
+Truth:  0 Prediction:  1
+stuck 0.6336693082039693
+bitch -1.1737034324910127
+better 0.39852422366171386
+
+
+Jennifer Lawrence's nudes sooooo trash. Im still smashin though, no doubt
+Truth:  0 Prediction:  1
+nudes 0.004677315084034493
+doubt 0.49956749595847505
+
+
+Johnny Rebel - Quit your bitchin' nigger!: 
+Truth:  0 Prediction:  1
+
+
+Just watched the scene in zero dark thirty where they pop Osama's bitch ass 
+#U #S #A
+Truth:  0 Prediction:  1
+watched 0.175456269848853
+dark 0.9477613867348874
+pop 0.5585405839010641
+bitch -1.1737034324910127
+ass 0.367339261928304
+
+
+KaasPiet,bloemPiet.?lol men weet van gekkigheid niet meer hoe ze simpele oplossing tegen racisme moet maken.Zolang maar blanke beslissing is
+Truth:  2 Prediction:  1
+men -0.342098499176023
+van -0.6787358093400532
+hoe -0.5267791739780862
+
+
+Karmas a bitch and so are you. You'll be getting along just fine real soon.
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+getting 0.11009689828763926
+just -0.17333551668510047
+fine 0.10170513018120408
+real -0.2678422051546069
+
+
+Kawasaki dating a faggot smh
+Truth:  1 Prediction:  0
+faggot 1.4359667757355978
+smh 0.3498020958929411
+
+
+Kick dem fucc niccas out da spot
+Truth:  0 Prediction:  1
+dem 0.27058508161522743
+fucc 0.3258984760477154
+niccas 0.19269086227900956
+da 0.2883457964458534
+spot 0.3790543572441122
+
+
+Kill la kill was trash
+Truth:  2 Prediction:  0
+la -0.8316734854471692
+kill 1.3787723394011433
+trash 0.08355239262464437
+
+
+Kim Kardashian look like a tranny with all that surgery
+Truth:  0 Prediction:  1
+look 0.1520649443469483
+like 0.5028389664031451
+tranny 0.3137140891190188
+
+
+Kip Tokuda, yellow guy working to niggerize the Seattle PD, died. Too bad there's another POS hiding in the wings to replace him.
+Truth:  0 Prediction:  2
+yellow -0.8998551873832621
+guy -0.2396253094194241
+working 0.7423881112276385
+bad -0.26068372324490696
+
+
+Know why birds don't wear pants?
+Cause their pecker's in the way
+Truth:  1 Prediction:  2
+birds -0.8219733303413302
+wear -0.4013471500276273
+way 0.15302015757305285
+
+
+LMAO Joe was calling whitehouse offering advice. Yeah the President cares what a disgraced FORMER redneck House guy from fl says #morningjoe
+Truth:  2 Prediction:  1
+calling 0.2167273692545969
+cares -0.1195168105646534
+redneck 0.3065818874763852
+guy -0.2396253094194241
+says -0.3516174907653214
+
+
+LMFAOOOOOO GAY AS FUCK RT @PubesOnFleeK: 😭😭😭😭😭 get these two faggots off my TL 
+Truth:  1 Prediction:  0
+faggots 2.1188647537750778
+
+
+LOL there's a talking monkey live on the internet! Will wonders never cease?
+Truth:  2 Prediction:  1
+talking 0.3160738037907903
+monkey -0.05943712381322144
+live 0.37500594802180137
+
+
+LRG ass nigguh
+Truth:  0 Prediction:  1
+ass 0.367339261928304
+nigguh 0.2840541304008151
+
+
+Laat Zihni Ozdil met rust jullie gemene trollen, hoe durven jullie zijn mening in twijfel te nemen! Zijn zegje is wet en*kuch**kuch*. .water
+Truth:  2 Prediction:  1
+met -0.6792402498468105
+hoe -0.5267791739780862
+wet -0.5546032718168116
+
+
+Lakers are trash right now.
+Truth:  0 Prediction:  2
+trash 0.08355239262464437
+right 0.28582506699350607
+
+
+Lame niggas trash.
+Truth:  1 Prediction:  0
+niggas 0.7681229879206604
+
+
+Lemme find out that bitch nigga talking shit
+Truth:  0 Prediction:  1
+bitch -1.1737034324910127
+nigga 0.8104597352843714
+talking 0.3160738037907903
+shit 0.0852342045401417
+
+
+Let this white boy be ghetto🌝
+Truth:  2 Prediction:  1
+white 1.678927894939801
+boy -0.051263028783320494
+
+
+Let's play "What will the ghetto white girl with neck tattoos in front of me buy."
+If you answered Cigarillo's...you've seen this episode b4
+Truth:  2 Prediction:  1
+play 0.37981919622667076
+ghetto -0.40453742194995845
+white 1.678927894939801
+girl -0.34488645426317976
+neck 0.5835726890377803
+seen -0.10573304374627075
+episode 0.28319273938561007
+
+
